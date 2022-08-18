@@ -1,0 +1,86 @@
+[
+    {
+        "ime_stranke": "Slovenska Demokratična Stranka",
+        "kratica_stranke": "SDS",
+        "usmerjenost": 1,
+        "ime_usmerjenost": "desno",
+        "clani": ["strankaSDS","JJansaSDS", "aleshojs", "jelka_godec", "RomanaTomc"]
+    },
+    {
+        "ime_stranke": "Lista Marjana Šarca",
+        "kratica_stranke": "LMŠ",
+        "usmerjenost": 0,
+        "ime_usmerjenost": "levo",
+        "clani": ["StrankaLMS", "sarecmarjan"]
+    },
+    {
+        "ime_stranke": "Socialni demokrati",
+        "kratica_stranke": "SD",
+        "usmerjenost": 0,
+        "ime_usmerjenost": "levo",
+        "clani": ["strankaSD", "tfajon"]
+    },
+    {
+        "ime_stranke": "Levica",
+        "kratica_stranke": "Levica",
+        "usmerjenost": 0,
+        "ime_usmerjenost": "levo",
+        "clani": ["strankalevica", "LukaMesec", "AstaVrecko", "bukeff"]
+    },
+    {
+        "ime_stranke": "Nova Slovenija - Krščanski demokrati",
+        "kratica_stranke": "NSi",
+        "usmerjenost": 1,
+        "ime_usmerjenost": "desno",
+        "clani": ["NovaSlovenija", "MatejTonin"]
+    },
+    {
+        "ime_stranke": "Stranka Alenke Bratušek",
+        "kratica_stranke": "SAB",
+        "usmerjenost": 0,
+        "ime_usmerjenost": "levo",
+        "clani": ["StrankaSAB", "ABratusek"]
+    },
+    {
+        "ime_stranke": "Demokratična stranka upokojencev Slovenije",
+        "kratica_stranke": "DeSUS",
+        "usmerjenost": 0,
+        "ime_usmerjenost": "levo",
+        "clani": ["stranka_DeSUS", "strankaDeSUS"]
+    },
+    {
+        "ime_stranke": "Slovenska nacionalna stranka",
+        "kratica_stranke": "SNS",
+        "usmerjenost": 1,
+        "ime_usmerjenost": "desno",
+        "clani": ["SnsStranka", "ZmagoPlemeniti"]
+    },
+    {
+        "ime_stranke": "Gibanje Svoboda",
+        "kratica_stranke": "GS",
+        "usmerjenost": 0,
+        "ime_usmerjenost": "levo",
+        "clani": ["Gibanje_Svoboda"]
+    },
+    {
+        "ime_stranke": "Domovinska liga",
+        "kratica_stranke": "DOM",
+        "usmerjenost": 1,
+        "ime_usmerjenost": "desno",
+        "clani": ["DomovinskaLiga", "BernardBrscic"]
+    },
+    {
+        "ime_stranke": "Piratska stranka",
+        "kratica_stranke": "PS",
+        "usmerjenost": 0,
+        "ime_usmerjenost": "levo",
+        "clani": ["piratskastranka"]
+    },
+    {
+        "ime_stranke": "Slovenska ljudska stranka",
+        "kratica_stranke": "SLS",
+        "usmerjenost": 1,
+        "ime_usmerjenost": "desno",
+        "clani": ["strankaSLS"]
+    }
+]

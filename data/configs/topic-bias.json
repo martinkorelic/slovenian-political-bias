@@ -1,0 +1,26 @@
+{
+    "lgbtq": {
+        "negative": 1,
+        "positive": 0
+    },
+    "begunci": {
+        "negative": 1,
+        "positive": 0 
+    },
+    "religija": {
+        "negative": 1,
+        "positive": 0
+    },
+    "splav": {
+        "negative": 1,
+        "positive": 0
+    },
+    "levo": {
+        "negative": 1,
+        "positive": 0
+    },
+    "desno": {
+        "negative": 0,
+        "positive": 1
+    }
+}
