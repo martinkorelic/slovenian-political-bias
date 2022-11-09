@@ -1,0 +1,2642 @@
+[
+    {
+        "id": 1375386347494596610,
+        "created_at": "Fri Mar 26 09:57:13 +0000 2021",
+        "raw_text": "Jest ne. Res je, da so nekateri NVO koristni. Vsaj tisti iz naravoslovnega dela. Ostali so pa totalni balast oz. delajo po nareku. Multikulti, lgbt, ipd. Te so del agende NWO. In te so najbolj nevarni. Nenehno premikanje mej sprejemljivega z vsiljevanjem, podprtim z zakoni.",
+        "lemma_text": "jest nvo koristen naravosloven delo ostati totalen balast oz. delati narek multikulti lgbt ipd. del agenda nwo najbolj nevaren nenehen premikanje meja sprejemljiv vsiljevanje podprt zakon",
+        "hashtags": [],
+        "mentions": [
+            "Histra1111"
+        ],
+        "user": {
+            "name": "Cofko Cof 🇸🇮#podpiravlado🇸🇮",
+            "screen_name": "CofkoCof",
+            "description": "3d oblikovalec,hokejist (rekreativno, inline), kolesar (ne petkov) moto: sex, dobra hrana in šport."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.787383496761322,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.43781816285951913,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375427773628571656,
+        "created_at": "Fri Mar 26 12:41:50 +0000 2021",
+        "raw_text": "Pa otroke učit, da mora biti polnoletna oseba poleg. Pa bo gmah.",
+        "lemma_text": "otrok učiti polnoleten oseba gmah",
+        "hashtags": [],
+        "mentions": [
+            "KrazyPenny",
+            "JanezKotar"
+        ],
+        "user": {
+            "name": "Vandrovka (Anuša Bole)",
+            "screen_name": "anusabole",
+            "description": "mlada, nova, vedoželjna......ne maram pa hinavcev."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.9305346608161926,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.4718169344053804,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375475988675584000,
+        "created_at": "Fri Mar 26 15:53:25 +0000 2021",
+        "raw_text": "No, pa stranke na levi tudi ne prenesejo zaradi drugačnih svetovnonazorskih pogledov na določena vprašanja kot so tudi npr položaj RKC, splav, družinska vprašanja, LGBT tematika. Prav, pa naj se potem raje bodejo z .",
+        "lemma_text": "no stranka lev prenesti svetovnonazorski pogled določen vprašanje npr položaj rkc splav družinski vprašanje lgbt tematika potem raje bosti",
+        "hashtags": [
+            "tolerantnost"
+        ],
+        "mentions": [
+            "Andrazus",
+            "anejmehadzic",
+            "strankalevica",
+            "NovaSlovenija",
+            "strankalevica"
+        ],
+        "user": {
+            "name": "‼️ TineB pa že ne bo tiho ‼️",
+            "screen_name": "_TineB_",
+            "description": "a fair yet rude rebel against ™ ™ regime. sincerely thankful to twitter for allowing my fight."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.8038444519042969,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.5586979087614227,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375720483497385987,
+        "created_at": "Sat Mar 27 08:04:57 +0000 2021",
+        "raw_text": "Nima denarja,ga rabi za razne promocije, propadle kulture in gibanja LGBT.",
+        "lemma_text": "imeti denar rabiti promocija propadel kultura gibanje lgbt",
+        "hashtags": [],
+        "mentions": [
+            "SamoGlavan"
+        ],
+        "user": {
+            "name": "Marija",
+            "screen_name": "Marija20662356",
+            "description": ""
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.943665623664856,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.5320003214309147,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375850921171820550,
+        "created_at": "Sat Mar 27 16:43:16 +0000 2021",
+        "raw_text": "+43 se nas to sprašuje...?!? Dafak? Pa kam to plove naša družbena barka FFS?!?",
+        "lemma_text": "spraševati dafak kam pluti družben barka ffs",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "loka_republika_loca and 42 others 🇬🇧",
+            "screen_name": "Z3MQP",
+            "description": "someone who does precision guesswork based on unreliable data, provided by those of a questionable knowledge. see also wizard, magician."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.9066709876060486,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.4244347310696248,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375831326914457600,
+        "created_at": "Sat Mar 27 15:25:24 +0000 2021",
+        "raw_text": "A se lahko pričakuje kaj poštenosti, demokratičnosti,...,...... s strani LGBTQ+P aktivistke do domoljubov?",
+        "lemma_text": "lahko pričakovati poštenost demokratičnost stran lgbtq p aktivistka domoljub",
+        "hashtags": [],
+        "mentions": [
+            "all4_one4all"
+        ],
+        "user": {
+            "name": "Borut Koršič🇸🇮",
+            "screen_name": "vfr750f",
+            "description": ""
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.6208095550537109,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.5260564561578904,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375779538521710595,
+        "created_at": "Sat Mar 27 11:59:37 +0000 2021",
+        "raw_text": "EU je vsebinsko delovala, dokler je vladalo ravnotežje med D, F in VB, z bolj ali manj uspešnim prizadevanjem I biti zraven. Z izstopom VB, hromo F in preveč pragmatično D ni več ravnotežja niti vrednot. Levico le zlorabljajo Soros, RUS in KIT, za slabitev.",
+        "lemma_text": "eu vsebinsko delovati dokler vladati ravnotežje d f vb bolj manj uspešen prizadevanje i izstop vb hromo f preveč pragmatično d več ravnotežje vrednota levica zlorabljati soros rus kit slabitev",
+        "hashtags": [],
+        "mentions": [
+            "idnaAndrej",
+            "MatevzTomsic"
+        ],
+        "user": {
+            "name": "freewiseguy",
+            "screen_name": "freewiseguy",
+            "description": "štirje smo, ki uporabljamo ta profil in brusimo misli. pa kose tudi! za socialno državo. proti brezobzirnemu levičarskemu kapitalizmu."
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.5077289342880249,
+            "topic_bias": null,
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.43124522981091756,
+            "party_bias": "nevtralno",
+            "party_mentioned": "Levica"
+        }
+    },
+    {
+        "id": 1376091555694583809,
+        "created_at": "Sun Mar 28 08:39:28 +0000 2021",
+        "raw_text": "Precej možnosti je, da se v 10 letih ustanovi Višegrajsko-centralna EU: PL, CZ, SK, H, SLO, HR, LI, LT, EST, A, I, perspektivno še BEL in UKR. Ki bo slonela na tradicionalnih večtisočl. evropskih kulturno-etičnih izročilih. Brez multikulti in proslulih LGBTQ+ sranj in dekadence.",
+        "lemma_text": "možnost leto ustanoviti višegrajski centralen eu pl cz sk slo hr li lt est a i perspektivno bel ukr. sloneti tradicionalen večtisočla evropski kulturen etičen izročilo multikult proslul lgbtq sranje dekadenca",
+        "hashtags": [],
+        "mentions": [
+            "SablatnikUros",
+            "KrazyPenny"
+        ],
+        "user": {
+            "name": "Brane",
+            "screen_name": "BraneDobnikar",
+            "description": "ponosen slovenec, zagovornik žlahtnih desnih vrednot. - država slovenskega naroda, kjer slovenci postavljamo pravila in jo ohranimo."
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.8827683925628662,
+            "topic_bias": null,
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.4421116072153486,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1376114554711707649,
+        "created_at": "Sun Mar 28 10:10:51 +0000 2021",
+        "raw_text": "Najmočnejše sile so obrnjene v levo. Po formalni in zlasti neformalni plati. Plus Soroš, LGBTQR+, multikulti globalisti.",
+        "lemma_text": "močen sila obrnjen lev formalen neformalen plat plus soroš lgbtqr multikulti globalist",
+        "hashtags": [],
+        "mentions": [
+            "AVA82615829",
+            "cepulje",
+            "JJansaSDS"
+        ],
+        "user": {
+            "name": "Brane",
+            "screen_name": "BraneDobnikar",
+            "description": "ponosen slovenec, zagovornik žlahtnih desnih vrednot. - država slovenskega naroda, kjer slovenci postavljamo pravila in jo ohranimo."
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.7853440046310425,
+            "topic_bias": null,
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.6496331534107995,
+            "party_bias": "nevtralno",
+            "party_mentioned": "SDS"
+        }
+    },
+    {
+        "id": 1376203938588983303,
+        "created_at": "Sun Mar 28 16:06:02 +0000 2021",
+        "raw_text": "Maš prav. Do 2009 so bi bili na nacionalnih budžetih, zdaj pa na EU. A ker je NL neto plačnica, prispeva več za plačo Romane, kot mi za Sophiejino. Tako da Ivan “better shutup”!",
+        "lemma_text": "meti nacionalen budžet zdaj eu nl neto plačnica prispevati več plača romana sophiejin ivan better shutup",
+        "hashtags": [],
+        "mentions": [
+            "specificen",
+            "pipermanaus",
+            "theevilevi"
+        ],
+        "user": {
+            "name": "Rok Omavh",
+            "screen_name": "rokomavh",
+            "description": ""
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.648849606513977,
+            "topic_bias": null,
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.41319631729303635,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1376167264588824583,
+        "created_at": "Sun Mar 28 13:40:18 +0000 2021",
+        "raw_text": "Madžarska, slovenska, srbska, nemška, angleška t.i. čistokrvna družina z otroci je za vas nevarna ideologija. Prosim Tanja ne mi o vaših vrednotah in obskurnih multikulti in LGBT agendah.",
+        "lemma_text": "madžarska slovenski srbski nemški angleški t. i. čistokrven družina otrok nevaren ideologija prositi tanja vrednota obskuren multikult lgbt agenda",
+        "hashtags": [],
+        "mentions": [
+            "tfajon"
+        ],
+        "user": {
+            "name": "Aleš Flirt",
+            "screen_name": "Ale90345415",
+            "description": ""
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.9434370994567871,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.4856838644391404,
+            "party_bias": "desno",
+            "party_mentioned": "SD"
+        }
+    },
+    {
+        "id": 1384241018564874241,
+        "created_at": "Mon Apr 19 20:22:31 +0000 2021",
+        "raw_text": "Sonja ne zamudi trenutka, ko je treba branit NVO-je. Tudi tiste, ki so sami sebi namen in največji prejemniki Kot, da te briga za ostale. Svetniki športnih org., PGD, itd. To bo ja. Za njih je in bo poskrbljeno. Ne skrbi.",
+        "lemma_text": "namen sonja itd. trenutek sam treba svetnik poskrbljen pgd zamuditi športen org. braniti velik nvo ostal prejemnik brigati skrbeti",
+        "hashtags": [],
+        "mentions": [
+            "SonjaMesar",
+            "trdi77",
+            "sarecmarjan"
+        ],
+        "user": {
+            "name": "Cofko Cof 🇸🇮#podpiravlado🇸🇮",
+            "screen_name": "CofkoCof",
+            "description": "3d oblikovalec,hokejist (rekreativno, inline), kolesar (ne petkov) moto: sex, dobra hrana in šport."
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.6297268867492676,
+            "topic_bias": null,
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.5071527572417945,
+            "party_bias": "nevtralno",
+            "party_mentioned": "LMŠ"
+        }
+    },
+    {
+        "id": 1384575409493315586,
+        "created_at": "Tue Apr 20 18:31:16 +0000 2021",
+        "raw_text": "Ja, JJ je car. V celotni EU uvaja ukrepe in jebe levičarje",
+        "lemma_text": "levičar jebati uvajati jj ukrep celoten car eu",
+        "hashtags": [],
+        "mentions": [
+            "2pir_a",
+            "aleshojs"
+        ],
+        "user": {
+            "name": "DusanPolanc",
+            "screen_name": "wildduckMb",
+            "description": ""
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.9619549512863159,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.5515664657060148,
+            "party_bias": "levo",
+            "party_mentioned": "SDS"
+        }
+    },
+    {
+        "id": 1384482811336437760,
+        "created_at": "Tue Apr 20 12:23:19 +0000 2021",
+        "raw_text": "Bi rd vs vidu, če bi biu tole vš otrok.",
+        "lemma_text": "rd otrok vidoti vš vs",
+        "hashtags": [],
+        "mentions": [
+            "TomPro69089700",
+            "necenzurirano_",
+            "Chuppacadabra"
+        ],
+        "user": {
+            "name": "Svobodnjak 🇸🇮 #dovoljj 🇸🇮 🌹🤍",
+            "screen_name": "NjohNjoh3",
+            "description": "smrt fašizmu! svoboda narodu! ne prisili!"
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.5632959008216858,
+            "topic_bias": null,
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.4347102572811579,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384909080062533632,
+        "created_at": "Wed Apr 21 16:37:09 +0000 2021",
+        "raw_text": "Nov nivo izprijenosti LGBT aktivistov: Šole se morajo znebiti “diskriminatornih” izrazov, kot sta “mama” in “oče” via",
+        "lemma_text": "izraz nivo aktivist mama oče znebiti izprijenost šola diskriminatoren lgbt via nov",
+        "hashtags": [],
+        "mentions": [
+            "Nova24TV"
+        ],
+        "user": {
+            "name": "Antonija Volčini",
+            "screen_name": "Muhabc1",
+            "description": ""
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.8899065256118774,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.46451696485867805,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384840646020767749,
+        "created_at": "Wed Apr 21 12:05:13 +0000 2021",
+        "raw_text": "Ko vidim, da se pišejo diplome (ne sicer na FŠ, pač pa na FDV), ki so t.r. prepis mojih teorij (o ideologiji), ki sem jih elaboriral pred več kot 20 leti, dobim vtist, da štirih knjig, ki razlagajo/pojasnjujejo šport, vendarle nisem pisal zaman.",
+        "lemma_text": "videti zaman ideologija pojasnjevati r. fdv vtist dobiti pisati razlagati elaborirati prepis več fš knjiga t. teorija šport diploma leto",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Roman Vodeb",
+            "screen_name": "RomanVodeb",
+            "description": "mislim, torej nekaj biva, a ni nujno, da sem to jaz"
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.5122054815292358,
+            "topic_bias": null,
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.4562883819594548,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384928449932976131,
+        "created_at": "Wed Apr 21 17:54:07 +0000 2021",
+        "raw_text": "Nov nivo izprijenosti LGBT aktivistov: Šole se morajo znebiti “diskriminatornih” izrazov, kot sta “mama” in “oče” Izvor:",
+        "lemma_text": "izraz nivo aktivist mama izvor oče znebiti izprijenost šola diskriminatoren lgbt nov",
+        "hashtags": [],
+        "mentions": [
+            "Nova24TV"
+        ],
+        "user": {
+            "name": "Andrej Jež de Est 🇸🇮",
+            "screen_name": "jezandr4",
+            "description": ""
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.9029214382171631,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.5220327825229144,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384918536037048327,
+        "created_at": "Wed Apr 21 17:14:44 +0000 2021",
+        "raw_text": "Nov nivo izprijenosti LGBT aktivistov: Šole se morajo znebiti “diskriminatornih” izrazov, kot sta “mama” in “oče” via",
+        "lemma_text": "izraz nivo aktivist mama oče znebiti izprijenost šola diskriminatoren lgbt via nov",
+        "hashtags": [],
+        "mentions": [
+            "Nova24TV"
+        ],
+        "user": {
+            "name": "SREČKO KOVAČEC IZ KLETI-SLO.",
+            "screen_name": "KovacecSrecko",
+            "description": ""
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.8899065256118774,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.4208560295008682,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384921375157194753,
+        "created_at": "Wed Apr 21 17:26:01 +0000 2021",
+        "raw_text": "Nov nivo izprijenosti LGBT aktivistov: Šole se morajo znebiti “diskriminatornih” izrazov, kot sta “mama” in “oče” via",
+        "lemma_text": "izraz nivo aktivist mama oče znebiti izprijenost šola diskriminatoren lgbt via nov",
+        "hashtags": [],
+        "mentions": [
+            "Nova24TV"
+        ],
+        "user": {
+            "name": "ERLAND KOŠEC",
+            "screen_name": "ERLANDKOSEC64",
+            "description": "erland_kosec"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.8899065256118774,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.4003607868309005,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384906379517960192,
+        "created_at": "Wed Apr 21 16:26:25 +0000 2021",
+        "raw_text": "Novi rektor ljubljanske univerze je Gregor Majdič \"Glavna tema njegovih raziskav so razlike v možganih med spoloma.\" Kaj porečejo levičarji na FDV/FF/FSD o tem dejstvu? lgbtqzp skupnosti se bo zmešalo...",
+        "lemma_text": "poreči rektor ljubljanski gregor fdv zmešati glaven levičar spol lgbtqzp fsd majdič univerza skupnost možgani dejstvo ff razlika raziskava nov",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "FreeSlo \"Pray, hope and don't worry\". (St. P.Pio)",
+            "screen_name": "FreeSlovenia",
+            "description": "maska, razdalja, razkuževanje, app. that's all falks!"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.8944999575614929,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.6592455702035185,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384913307304353803,
+        "created_at": "Wed Apr 21 16:53:57 +0000 2021",
+        "raw_text": "Nov nivo izprijenosti LGBT aktivistov: Šole se morajo znebiti “diskriminatornih” izrazov, kot sta “mama” in “oče” via",
+        "lemma_text": "izraz nivo aktivist mama oče znebiti izprijenost šola diskriminatoren lgbt via nov",
+        "hashtags": [],
+        "mentions": [
+            "Nova24TV"
+        ],
+        "user": {
+            "name": "siʝarəd",
+            "screen_name": "prelesten",
+            "description": "se držim določenih načel, ne glede na trenutne okoliščine ali korist."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.8899065256118774,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.5060449498930574,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384988911596879877,
+        "created_at": "Wed Apr 21 21:54:23 +0000 2021",
+        "raw_text": "kot to počne ATIFA oz levi politični pol in pa ISIS, PREKO SOCIALNIH OMREŽJI,tam lahko oz. tu lahko zbudimo ljudi,naj se začne!!!!!!",
+        "lemma_text": "lev omrežje oz. človek tam začeti zbuditi pol političen lahko isis socialen početi tu atifa",
+        "hashtags": [],
+        "mentions": [
+            "CofkoCof",
+            "BogoCC",
+            "Johanca_4me"
+        ],
+        "user": {
+            "name": "Tomaž Črnkovič",
+            "screen_name": "crnkovic_tomaz",
+            "description": ""
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.8055925369262695,
+            "topic_bias": null,
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.5344368474709743,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384965943999225859,
+        "created_at": "Wed Apr 21 20:23:07 +0000 2021",
+        "raw_text": "Budalo. Naštevaš zavode, ki izvajajo javni šolski program. A bi jih ukinila? Potem daj še rdečo Gimnazijo Bežigrad ali kakšno osnovno šolo z LGBT certifikatom...",
+        "lemma_text": "potem izvajati šolski rdeč dati zavod šola budalo certifikat ukiniti gimnazija lgbt osnoven javen bežigrad program naštevati",
+        "hashtags": [],
+        "mentions": [
+            "SonjaMesar",
+            "AVA82615829",
+            "strankalevica"
+        ],
+        "user": {
+            "name": "Jože Gašparič",
+            "screen_name": "jozegas",
+            "description": ""
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.7018622159957886,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.49946587245090696,
+            "party_bias": "desno",
+            "party_mentioned": "Levica"
+        }
+    },
+    {
+        "id": 1385070964875071499,
+        "created_at": "Thu Apr 22 03:20:26 +0000 2021",
+        "raw_text": "LGBTQ ideologija, ki hoče uničiti družino in svet. Nov nivo izprijenosti LGBT aktivistov: Šole se morajo znebiti “diskriminatornih” izrazov, kot sta “mama” in “oče” via",
+        "lemma_text": "izraz svet nivo družina aktivist mama oče znebiti lgbtq izprijenost šola diskriminatoren via ideologija lgbt uničiti nov",
+        "hashtags": [],
+        "mentions": [
+            "Nova24TV"
+        ],
+        "user": {
+            "name": "@fzagorc",
+            "screen_name": "fzagorc",
+            "description": ""
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.8878467679023743,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.7484351710051675,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1385142604845756417,
+        "created_at": "Thu Apr 22 08:05:06 +0000 2021",
+        "raw_text": "Šokantno! LGBT aktivisti: Šole se morajo znebiti “diskriminatornih” izrazov, kot sta “mama” in “oče”",
+        "lemma_text": "izraz šokanten aktivist mama oče znebiti šola diskriminatoren lgbt",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Celjski glasnik",
+            "screen_name": "CeljskiGlasnik",
+            "description": ""
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.9442102313041687,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.4313492787351314,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1358128342118105100,
+        "created_at": "Sat Feb 06 19:00:04 +0000 2021",
+        "raw_text": "A niste levi ful neki tolerantni do gejev in lezbik neki se mi zdi, da ti to hočeš na žaljiv način prikazati. Le kaj bi si LGBT scena mislila o tvojih twittih",
+        "lemma_text": "lev ful toleranten gej lezbik zdeti žaljiv način prikazati lgbt scena misliti twitt",
+        "hashtags": [],
+        "mentions": [
+            "HondaIsTheBest1",
+            "RJopici"
+        ],
+        "user": {
+            "name": "Janez Kotar 🇸🇮🤝🇺🇸",
+            "screen_name": "JanezKotar",
+            "description": "antiboljševik, bolk, ,"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.9537205100059509,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.8140553480700665,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1350052673790373888,
+        "created_at": "Fri Jan 15 12:10:14 +0000 2021",
+        "raw_text": "med njimi zagotovo mnogo pripadnikov ogrožene, nemočne in ranljive LGBT manjšine.",
+        "lemma_text": "zagotovo pripadnik ogrožen nemočen ranljiv lgbt manjšina",
+        "hashtags": [],
+        "mentions": [
+            "Pertinacal",
+            "Libertarec"
+        ],
+        "user": {
+            "name": "Miha 2.0 🇸🇮 🇻🇦 ن 🇦🇲 🇪🇺🇨🇳",
+            "screen_name": "mismonaliniji",
+            "description": "catholic. he was a skater boy she said see you later boy"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.6102702021598816,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.4954914593339828,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1357943406971019264,
+        "created_at": "Sat Feb 06 06:45:12 +0000 2021",
+        "raw_text": "Ne razumejo potrebo otrok po družbi s sovrstniki. Ne razumejo socializacije. Ne razumejo niti masturbacije",
+        "lemma_text": "razumeti potreba otrok družba sovrstnik razumeti socializacija razumeti masturbacija",
+        "hashtags": [
+            "zavodIskreni"
+        ],
+        "mentions": [
+            "NicePersonNot"
+        ],
+        "user": {
+            "name": "AvaKrizaj",
+            "screen_name": "AVA82615829",
+            "description": ""
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.9612189531326294,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.5615655562928789,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1354195920062181385,
+        "created_at": "Tue Jan 26 22:34:01 +0000 2021",
+        "raw_text": "glede na izkušnje je primeren kandidat za LGBT predsedujočega",
+        "lemma_text": "glede izkušnja primeren kandidat lgbt predsedujoč",
+        "hashtags": [],
+        "mentions": [
+            "rtvslo"
+        ],
+        "user": {
+            "name": "Andrej",
+            "screen_name": "Andrej30931764",
+            "description": "independant free mind"
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.6078680157661438,
+            "topic_bias": null,
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.40780909881957333,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1352170768394641408,
+        "created_at": "Thu Jan 21 08:26:47 +0000 2021",
+        "raw_text": "Sori ampak diskriminacija in \"zdravljenje\" pripadnikov LGBT ni politično stališče, predvsem pa ni demokracija.",
+        "lemma_text": "sori diskriminacija zdravljenje pripadnik lgbt političen stališče demokracija",
+        "hashtags": [],
+        "mentions": [
+            "RRavnikar",
+            "borisvasev"
+        ],
+        "user": {
+            "name": "Ana Kalan",
+            "screen_name": "anakalanmusic",
+            "description": "a slovenian in la. musician, actor, writer and a cat person. new single out!"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.9215452671051025,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.43954241280322026,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1363410960493477888,
+        "created_at": "Sun Feb 21 08:51:18 +0000 2021",
+        "raw_text": "Pozdravljam kulturno debato, bravo Dejan, še več samorefleksije na tem polju.",
+        "lemma_text": "pozdravljati kulturen debata brava dejan več samorefleksija polje",
+        "hashtags": [],
+        "mentions": [
+            "steinbuch"
+        ],
+        "user": {
+            "name": "janez v",
+            "screen_name": "janezv1",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "positive",
+            "sentiment_score": 0.9149425625801086,
+            "topic_bias": "levo",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.46999530084579316,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1357014920374734848,
+        "created_at": "Wed Feb 03 17:15:43 +0000 2021",
+        "raw_text": "Možno je, da so aktivisti SD, LMŠ Levice že naučili otroke risati na protestnih delavnicah.",
+        "lemma_text": "možen aktivist sd lmš levica naučiti otrok risati protesten delavnica",
+        "hashtags": [],
+        "mentions": [
+            "RJopici"
+        ],
+        "user": {
+            "name": "ivo ",
+            "screen_name": "ivo86926306",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "positive",
+            "sentiment_score": 0.566348135471344,
+            "topic_bias": "levo",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.43043728243645113,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1360357530342461441,
+        "created_at": "Fri Feb 12 22:38:04 +0000 2021",
+        "raw_text": "Koliko je bilo anketirancev Kakšne starosti,poklicev, Koliko otrok Kakšna so bila vprašanja Na kakšni podlagi so sklepi nastali Koliko časa ste raziskovali Koliko strokovnjakov,psihologov ste vprašali za ocene??? Inštitut 8 marec so strokovnjaki?? Levuhi,lejzbike,fdv,lgbt??",
+        "lemma_text": "anketiranec starost poklic otrok vprašanje podlaga sklep nastati čas raziskovati strokovnjak psiholog vprašati ocena inštitut marec strokovnjak levuh lejzbika fdv lgbt",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "AlešKO🇸🇮🇸🇮🇸🇮",
+            "screen_name": "Aleskoko1",
+            "description": ""
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.9189503788948059,
+            "topic_bias": null,
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.5202001683263752,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1352238799875698688,
+        "created_at": "Thu Jan 21 12:57:07 +0000 2021",
+        "raw_text": "Društvo naj deluje, če se pojavi dovolj nazadnjaških ljudi, ki se želijo grupirati. Ne smemo pa dopustiti, da se jim v \"državnem interesu\" dodeljuje javna sredstva, ter posredno podpira anti-vaxx (sredi epidemije!), anti-LGBT agendo. Prepoved splava je pa tema za srednji vek.",
+        "lemma_text": "društvo delovati pojaviti dovolj nazadnjaški človek grupirati dopustiti državen interes dodeljevati javen sredstvo posredno podpirati anti vaxx epidemija anti lgbt agenda prepoved splav srednji vek",
+        "hashtags": [],
+        "mentions": [
+            "LjudmilaNovak"
+        ],
+        "user": {
+            "name": "R4",
+            "screen_name": "_Ribinho",
+            "description": "sports/technology enthusiast. sales ninja early admirer of getting lost in far away places. views are my own."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.823340892791748,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.4157574983741536,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1355082796335833088,
+        "created_at": "Fri Jan 29 09:18:09 +0000 2021",
+        "raw_text": "da ne, ker kar dosti teh iz LL in LGBT je, sam zanima me kam spadamo normalno seksualno usmerjeni ljudje???",
+        "lemma_text": "dosti ll lgbt sam zanimati kam spadati normalno seksualno usmerjen človek",
+        "hashtags": [],
+        "mentions": [
+            "Nova24TV",
+            "strankalevica"
+        ],
+        "user": {
+            "name": "Vlasta",
+            "screen_name": "Vlasta50105927",
+            "description": ""
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.545800507068634,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.678130985130293,
+            "party_bias": "desno",
+            "party_mentioned": "Levica"
+        }
+    },
+    {
+        "id": 1351086592912461824,
+        "created_at": "Mon Jan 18 08:38:40 +0000 2021",
+        "raw_text": "Kako razumeti te ljudi? So za clovekove pravice, podpirajo pa drzave, ki jih najbolj sistematicno krsijo. So za LGBTQCNVZI+, podpirajo pa drzave, ki pripadnike te skupnosti mucijo, ubijajo, zatirajo. So najbolj za mir, klanjajo se pa morilcem. Se enkrat. Kako razumeti te ljudi?",
+        "lemma_text": "razumeti človek clovekov pravica podpirati drzava najbolj sistematicno krsiti lgbtqcnvvi podpirati drzava pripadnik skupnost muciti ubijati zatirati najbolj mir klanjati morilec enkrat razumeti človek",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Gabriel Batič",
+            "screen_name": "BaticGabriel",
+            "description": "borim se kot gabriel batistuta, a ne z zogo, temvec z besedami."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.9637138843536377,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.4676921989317974,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1358790005708247041,
+        "created_at": "Mon Feb 08 14:49:17 +0000 2021",
+        "raw_text": "Mislil sm pri LGBT. Manjka vsaj se QI+ in zelo verjetno se kaj novejsega.",
+        "lemma_text": "misliti lgbt manjkati qi zelo novejs",
+        "hashtags": [],
+        "mentions": [
+            "PSlajnar"
+        ],
+        "user": {
+            "name": "Gabriel Batič",
+            "screen_name": "BaticGabriel",
+            "description": "borim se kot gabriel batistuta, a ne z zogo, temvec z besedami."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.6427823305130005,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.9246923462384186,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1362802016590913537,
+        "created_at": "Fri Feb 19 16:31:35 +0000 2021",
+        "raw_text": "Z mojim otrokom se bom pogovarjal o vseh LGBTQIZCVNGDP+ scenah na nacin, da bo spostoval druge in sprejemal njihovo mnenje in zivljenje, ker ga tudi sam. Poucil ga bom tudi o tem, kako bi bilo, ce bi namesto mame imel se enega \"oceta\" ali namesto mene se eno \"mamo\".",
+        "lemma_text": "otrok pogovarjati lgbtfizcvngdpa scena nacin spostovati sprejemati mnenje zivljenje sam pouciti ci mama imeti ocet mama",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Gabriel Batič",
+            "screen_name": "BaticGabriel",
+            "description": "borim se kot gabriel batistuta, a ne z zogo, temvec z besedami."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "positive",
+            "sentiment_score": 0.5023872256278992,
+            "topic_bias": "levo",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.502489607070863,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1349303859689226247,
+        "created_at": "Wed Jan 13 10:34:43 +0000 2021",
+        "raw_text": "Politično hujskanje in izeabs krtvih! Dnevnik je ......",
+        "lemma_text": "političen hujskanje izeabs krtev dnevnik",
+        "hashtags": [],
+        "mentions": [
+            "Dnevnik_si",
+            "klitomaz"
+        ],
+        "user": {
+            "name": "MATJAŽ ŽUŽEK",
+            "screen_name": "MATJAUEK",
+            "description": ""
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.9066761136054993,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.46728338194959024,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1349392621219753997,
+        "created_at": "Wed Jan 13 16:27:26 +0000 2021",
+        "raw_text": "Tole je res surealistično. Nobena družba ni pred tem imuna. Dovolj je, da na oblast pridejo ljudje, ki spodbujajo tisto najslabše in za vse tegobe nastavijo pripraven objekt za kanalizacijo. Naj si bodo migranti, pripadniki druge rase ali nacionalnosti, namišljeni komunisti, LGBT",
+        "lemma_text": "surealističen družba imuti dovolj oblast priti človek spodbujati slabo tegob nastaviti pripraven objekt kanalizacija migrant pripadnik rasa nacionalnost namišljen komunist lgbt",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Helena🎗",
+            "screen_name": "majsanom",
+            "description": ""
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.9516607522964478,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.4093525996277213,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1350050722356883459,
+        "created_at": "Fri Jan 15 12:02:29 +0000 2021",
+        "raw_text": "Če izberete mene, se bom identificiral_a kot postfordistični_a veganski_a gejevski_a socialni_a antropolog_inja.",
+        "lemma_text": "izbrati identificirati a postfordističen a veganski a gejevski a socialen a antropolog inja",
+        "hashtags": [],
+        "mentions": [
+            "Libertarec"
+        ],
+        "user": {
+            "name": "David Novak",
+            "screen_name": "DavidNovak17",
+            "description": "manj države, prosim. ne tvitam iz kleti."
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.8621647953987122,
+            "topic_bias": null,
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.40171303532009744,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1349790014717177859,
+        "created_at": "Thu Jan 14 18:46:32 +0000 2021",
+        "raw_text": "37 preizkovalcev ni imel za vratom niti Dillinger...NPU je politično ustvarjen parazit uporabljen v politične namene.",
+        "lemma_text": "preizkovalec imeti vrata dillinger npu politično ustvarjen parazit uporabljen političen namen",
+        "hashtags": [],
+        "mentions": [
+            "V00Valentin"
+        ],
+        "user": {
+            "name": "ector",
+            "screen_name": "ector15566736",
+            "description": "there's no one i'd rather be"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.6697065830230713,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.47195903349538393,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1350184948884529157,
+        "created_at": "Fri Jan 15 20:55:51 +0000 2021",
+        "raw_text": "Če bi bil Erjavec slučajno izvoljen za PV iz stranke, ki je dobila 5% glasov, bi v mednarodnem prostoru postali “Butnskalarski politični unikum kar ni ravno v prid medn. ugledu SLO”! pravi dalje Polnar.",
+        "lemma_text": "erjavec slučajno izvoljen pv stranka dobiti glas mednaroden prostor postati butnskalarski političen unikum prid medn. ugled slo praviti dalje polnar",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Matjaž ne plačuje več naročnine RTV_SLO! Ti?",
+            "screen_name": "matjazg",
+            "description": "občudovalec kulture in lepih umetnosti ter izvoljenih predstavnikov ljudstva. preziram politično korektnost! fetiš: fotografija. na gab: matjazg"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.5832195281982422,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.41575797652627783,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1350201991151161353,
+        "created_at": "Fri Jan 15 22:03:34 +0000 2021",
+        "raw_text": "LGBT skupnost je vendar nekaj prečudovitega, le kako bi jaz lahko bila homofobna? Se mi pa zdi hecno, da imajo fantje takšno nujo govoriti o spolni identiteti, ko pa je tema popolnoma drugje. Vse jih spomni na spol. Mi je pa všeč, da si uporabil besedi implicirati in latentno.",
+        "lemma_text": "lgbt skupnost prečudovit lahko homofoben zdeti hecen imeti fant nuja govoriti spolen identiteta popolnoma drugje spomniti spol uporabiti beseda implicirati latentno",
+        "hashtags": [],
+        "mentions": [
+            "KokJan",
+            "Ohinsploh",
+            "JanezStupar"
+        ],
+        "user": {
+            "name": "Simona 🇸🇮 🇸🇮 🇸🇮",
+            "screen_name": "SimGraj",
+            "description": "svobodna. otrok cvetja. neka druga generacija. lutkarica. štajerska."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "positive",
+            "sentiment_score": 0.39050811529159546,
+            "topic_bias": "levo",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.5147363016406924,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1350203250163789824,
+        "created_at": "Fri Jan 15 22:08:35 +0000 2021",
+        "raw_text": "Govorili smo o biološkem spolu, ne spolni identitety, gospa Simona. Biološka spola sta dva. Spolna identiteta večinsko sledi biološkem spolu, ne pa vedno. Če vi o spolu, je vse okej. Če \"fantje\" (glej to pokroviteljstvo) pa so skrivni geji? Zanimivi in fer standardi, tovarišica.",
+        "lemma_text": "govoriti biološki spol spolen identitety gospa simona biološki spol spolen identiteta večinsko slediti biološki spol vedno spol okej fant gledati pokroviteljstvo skriven gej zanimiv fer standard tovarišica",
+        "hashtags": [],
+        "mentions": [
+            "SimGraj",
+            "Ohinsploh",
+            "JanezStupar"
+        ],
+        "user": {
+            "name": "Predsednik Melania Trump Fan Cluba",
+            "screen_name": "KokJan",
+            "description": "igralec, improvizator, režiser, ljubitelj svobode, orožja ter cringe obveznih twitter biotov za nove obiskovalce."
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.7881903052330017,
+            "topic_bias": null,
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.47364833127763584,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1350549172810887168,
+        "created_at": "Sat Jan 16 21:03:09 +0000 2021",
+        "raw_text": "“Ne samo druzbeni spol, tudi bioloski spol je konstrukt, ki je vse prepogosto uporabljen kot sredstvo za legitimiranje transfobije in transmizoginije.” In kljub temu se vsi ob svojem “prehodu” spola gredo hormonsko terapijo. Zakaj, ce je vse konstrukt, je ta potrebna?",
+        "lemma_text": "druzben spol bioloski spol konstrukt prepogosto uporabljen sredstvo legitimiranje transfobija transmizoginija prehod spol iti hormonski terapija ci konstrukt potreben",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Utopija Svobode",
+            "screen_name": "USvobode",
+            "description": "agoristicen atom v vetru."
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.6121245622634888,
+            "topic_bias": null,
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.6038994956438544,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1350544565174988807,
+        "created_at": "Sat Jan 16 20:44:50 +0000 2021",
+        "raw_text": "“Butnskalarski politični unikum kar ni ravno v prid medn. ugledu SLO”! pravi dalje Polnar.",
+        "lemma_text": "butnskalarski političen unikum prid medn. ugled slo praviti dalje polnar",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Matjaž ne plačuje več naročnine RTV_SLO! Ti?",
+            "screen_name": "matjazg",
+            "description": "občudovalec kulture in lepih umetnosti ter izvoljenih predstavnikov ljudstva. preziram politično korektnost! fetiš: fotografija. na gab: matjazg"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.8123364448547363,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.4145159738511731,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1350521351875002368,
+        "created_at": "Sat Jan 16 19:12:36 +0000 2021",
+        "raw_text": "Od kdaj pa te skrbi za potek epidemije? To prvič slišim iz (br)loga LMŠ",
+        "lemma_text": "kdaj skrbeti potek epidemija prvič slišati br log lmš",
+        "hashtags": [],
+        "mentions": [
+            "sarecmarjan"
+        ],
+        "user": {
+            "name": "Igor Medoš",
+            "screen_name": "IgorMedos",
+            "description": ""
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.9110130071640015,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.5287594432519118,
+            "party_bias": "desno",
+            "party_mentioned": "LMŠ"
+        }
+    },
+    {
+        "id": 1350441746187120642,
+        "created_at": "Sat Jan 16 13:56:16 +0000 2021",
+        "raw_text": "Vi kar nabijate nekaj? :D Vaša vlada (oz uradni MZK) je odstranil napis k u l t u r a s stekel). Se strinjam, da je otročje, predvsem pa pomenljivo, kaže odnos vaše vlade do slovenske kulture: stran z njo!",
+        "lemma_text": "nabijati vlada uraden mzk odstraniti napis u l t u r a steklo strinjati otročje pomenljiv kazati odnos vlada slovenski kultura stran",
+        "hashtags": [],
+        "mentions": [
+            "JanezPogorelec"
+        ],
+        "user": {
+            "name": "Arjan Pregl 🇸🇮🎨🇸🇮🍄🇸🇮🔨🇸🇮☀️🇸🇮🐛🇸🧜‍♂️",
+            "screen_name": "PreglArjan",
+            "description": "dobro je imeti rezervni 0.5 svinčnik."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.9333533048629761,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.42860663976369295,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1350570745995423747,
+        "created_at": "Sat Jan 16 22:28:52 +0000 2021",
+        "raw_text": "jsm starejši, pa se bl šlepam na prvi del zadnjega stavka ..",
+        "lemma_text": "jsm star bl šlepati del zadnji stavek",
+        "hashtags": [],
+        "mentions": [
+            "AndrazJeric"
+        ],
+        "user": {
+            "name": "..",
+            "screen_name": "_modroplavo",
+            "description": "'upam, da v hribih še živijo partizani.'"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.800409734249115,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.403235496381346,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1350803446287495168,
+        "created_at": "Sun Jan 17 13:53:32 +0000 2021",
+        "raw_text": "ne govorita o istem. tist kar pravi ona e feminizmu ima feminizem že prav. kar pa sprašuje on pa gre za to, da so ta slavne glumice tehtale korist in šle preko tega in s tem same prispevale k temu, da je bil to splošni model za mlade nove igralke.",
+        "lemma_text": "govoriti tist praviti e feminizem imeti feminizem prav. spraševati iti slaven glumica tehtati korist iti sam prispevati splošen model mlad nov igralka",
+        "hashtags": [],
+        "mentions": [
+            "Mauhlerca"
+        ],
+        "user": {
+            "name": "iztok X",
+            "screen_name": "iztokX",
+            "description": "prvi pc sinclair zx 81; prvi avto fičo; bendi: orkester titanic, cao picke, basisti, lolita; foto razstava: lak na nohtih; 'manj znani fešn ekspert' by chuppa"
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.8168184757232666,
+            "topic_bias": null,
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.5185164491853248,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1381195848214790144,
+        "created_at": "Sun Apr 11 10:42:06 +0000 2021",
+        "raw_text": "Ker ga podpira LGBT agenda.. Z njimi tudi veliki *ebač noče imet opravka.. Razen, da se slika, če je nujno potrebno in sem in tja poroči dva fanta.. Tudi za medije..",
+        "lemma_text": "podpirati lgbt agenda velik ebač imet opravek slika nujno potreben tja poročiti fant medij",
+        "hashtags": [],
+        "mentions": [
+            "staneskufca"
+        ],
+        "user": {
+            "name": "spletno uho ex not bind",
+            "screen_name": "matjazajec1",
+            "description": "zvest toporošiču in republiki.. interested in media, cuisine, interior, photo, travelling.. mtb čez drn in strn.. prepovedujem javno objavo mojih tvitov.."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.833180844783783,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.6744382055906639,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1381281658918293504,
+        "created_at": "Sun Apr 11 16:23:05 +0000 2021",
+        "raw_text": "Recenzijo pričujočega znanstvenega prispevka je brezsebično opravil madžarski kolega z bogatimi izkušnjami iz teorije in prakse o LGBT skupnost.",
+        "lemma_text": "recenzija pričujoč znanstven prispevek brezsebično opraviti madžarski kolega bogat izkušnja teorija praksa lgbt skupnost",
+        "hashtags": [],
+        "mentions": [
+            "strankaSDS",
+            "BrankoGrims1",
+            "BrankoGrims1"
+        ],
+        "user": {
+            "name": "Alan Ford",
+            "screen_name": "fordaljek",
+            "description": ""
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.6257453560829163,
+            "topic_bias": null,
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.5016779985292072,
+            "party_bias": "nevtralno",
+            "party_mentioned": "SDS"
+        }
+    },
+    {
+        "id": 1381123804928282624,
+        "created_at": "Sun Apr 11 05:55:49 +0000 2021",
+        "raw_text": "[POSLANSKI BLOG] : Klasično družino se uničuje s propagando kulturnega marksizma LGBT, po kateri družina ni več moški, ženska in otrok.",
+        "lemma_text": "poslanski blog klasičen družina uničevati propaganda kulturen marksizem lgbt družina več moški ženska otrok",
+        "hashtags": [],
+        "mentions": [
+            "BrankoGrims1"
+        ],
+        "user": {
+            "name": "SDS",
+            "screen_name": "strankaSDS",
+            "description": "slovenska demokratska stranka"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.914816677570343,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.4012800739260617,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1381212693353406469,
+        "created_at": "Sun Apr 11 11:49:02 +0000 2021",
+        "raw_text": "Kaj za vraga je trans aktivizem?? Ozaveščanje o obstoju transspolnosti ni trans aktivizem!",
+        "lemma_text": "vrag trans aktivizem ozaveščanje obstoj transspolnost trans aktivizem",
+        "hashtags": [],
+        "mentions": [
+            "LozarTadej",
+            "Niennathebitch",
+            "Blaz_88",
+            "JanezPogorelec"
+        ],
+        "user": {
+            "name": "Tamara Langus",
+            "screen_name": "Centrifuzija",
+            "description": "digital communications consultant and social media manager. objave ne odražajo stališč mojih naročnikov. in obratno."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.869327962398529,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.6035121779065716,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1381246850204860424,
+        "created_at": "Sun Apr 11 14:04:46 +0000 2021",
+        "raw_text": "Otrok je prinesel domov spričevalo: Uvod v multikulti ........................... odl (5) Temelji kulturnega marksizma ....... odl (5) LGBTQ+ ......................................odl (5) wokizem .............. zelo uspešno (zu) domoljubje .......... manj uspešno (mu)",
+        "lemma_text": "otrok prinesti domov spričevalo uvod multikulti odl temeljiti kulturen marksizem odl lgbtq odl wokizem zelo uspešno zu domoljubje manj uspešen",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Luka Culiberg",
+            "screen_name": "LCuliberg",
+            "description": ""
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.732597291469574,
+            "topic_bias": null,
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.6592318222114676,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1381256945009618948,
+        "created_at": "Sun Apr 11 14:44:52 +0000 2021",
+        "raw_text": "Ob več kot 1 milijonskem proračunu njegovega Zagovorništva načel LGBTIQ, pa res ne moreš biti šlank !",
+        "lemma_text": "več milijonski proračun zagovorništvo načelo lgbtiq šlank",
+        "hashtags": [],
+        "mentions": [
+            "NortzDr",
+            "KovacecSrecko",
+            "Nova24TV"
+        ],
+        "user": {
+            "name": "Mirna",
+            "screen_name": "neukrotljiva",
+            "description": ""
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.8971925973892212,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.6712761374162057,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1351230259518205955,
+        "created_at": "Mon Jan 18 18:09:33 +0000 2021",
+        "raw_text": "Ubogo dekle, tu pa pomoje ne gre le za Anusovo slabo robo, ampak je problem seksualne narave.Res se mi smili, ker v njeni mentalni in politično družbeno teoretski okllici ni pravih moških.S snowflejki si pa ne more pomagat, kar je enkrat nehote priznala tudi Lukčeva manca. Deli!",
+        "lemma_text": "ubog dekle tu pomoje iti anusov slab roba problem seksualen narava smiliti mentalen politično družbeno teoretski okllica pravi moški snowflejek pomagat enkrat nehote priznati lukčev manca del",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "drzavljankaS",
+            "screen_name": "DrzavljankaS",
+            "description": "slovenka, aktivna državljanka, tvoja soseda, sodelavka, gledalka, poslušalka..."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.9447436928749084,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.5104062229319108,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1351447964150099968,
+        "created_at": "Tue Jan 19 08:34:37 +0000 2021",
+        "raw_text": "T.i. LGBT-verouk, misliš? Tisto, ko adolescentne otroke na nekih kobajagi tečajih usmerjajo v miselnost, da je homonormativizem superioren nad heteroseksualnostjo.",
+        "lemma_text": "t. i. lgbt verouk misliti adolescenten otrok kobajag tečaj usmerjati miselnost homonormativizem superioren heteroseksualnost",
+        "hashtags": [],
+        "mentions": [
+            "SimGraj"
+        ],
+        "user": {
+            "name": "Franc Plevnik",
+            "screen_name": "FPlevnik",
+            "description": "rodoljub = antiliberalec + antiklerikalec; vzpon nacionalizma v eu; za svobodoljubno evropo nacionalnih držav; spirit of 769"
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.6681116223335266,
+            "topic_bias": null,
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.6158508011802079,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1351424588069150720,
+        "created_at": "Tue Jan 19 07:01:44 +0000 2021",
+        "raw_text": "Populacija na območju SLO je gensko zelo mešana; nobena genska mutacija (razvrščena v mDNK ali Y-kromosomske haploskupine) ni nastala na območju SLO. Vsi priseljenci. (Vir: Oddelek za molekularno genetiko, Biotehniška fakulteta LJ)",
+        "lemma_text": "populacija območje slo gensko zelo mešan genski mutacija razvrščen mdnk y kromosomski haploskupina nastati območje slo priseljenec vir oddelek molekularen genetika biotehniški fakulteta lj",
+        "hashtags": [],
+        "mentions": [
+            "qwatebriga",
+            "sslowhand",
+            "JanezPogorelec",
+            "RegoucJolanda",
+            "PreglArjan",
+            "PopitStefka",
+            "mk_gov_si",
+            "MitjaIrsic"
+        ],
+        "user": {
+            "name": "pjur",
+            "screen_name": "pjur11",
+            "description": ""
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.8892675042152405,
+            "topic_bias": null,
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.491002430351432,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1351573166653644806,
+        "created_at": "Tue Jan 19 16:52:08 +0000 2021",
+        "raw_text": "BLM so pozabili celo to, da so bili demokrati ustanovitelji KKK.",
+        "lemma_text": "blm pozabiti demokrat ustanovitelj kkk",
+        "hashtags": [],
+        "mentions": [
+            "JozeBizjak",
+            "BojankaStern"
+        ],
+        "user": {
+            "name": "Leon",
+            "screen_name": "Leon48303573",
+            "description": "kern, ker vse tolk firbec matra.še vedno dobri, stari jaz! glede dobrega sicer nisem prepričan, star pa vsak dan bolj."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.9086704850196838,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.48799441792992637,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1351651312434368514,
+        "created_at": "Tue Jan 19 22:02:40 +0000 2021",
+        "raw_text": "Kaj menite o termu \"gender equality\" (enakost spolov)? Nekateri zagovarjajo \"equality between genders\" (enakost med spoloma). Namreč, če nekaj enačimo, potem ni razlike (A=B). Če ni razlike, ni spolov (A=B=C=A). Če ni spolov, ne more prihajati do razlik (A=A). Kaj meni publikum?",
+        "lemma_text": "meniti term gender equality enakost spol zagovarjati equality between genders enakost spol enačiti potem razlika a b razlika spol a b c a spol prihajati razlika a a meniti publikum",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Dejan Flašker",
+            "screen_name": "DeFlasker",
+            "description": "currently slovene diplomat at the permrep to the psc eu in brussels. družinski oče, krščanski podjetnik. & rt= { }. not giving up."
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.8494476079940796,
+            "topic_bias": null,
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.665578426000983,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1351556464930861056,
+        "created_at": "Tue Jan 19 15:45:46 +0000 2021",
+        "raw_text": "LGBT-jevce. Javno povej, da podpiraš pravico posameznika, da se gre zdravit od gejevstva.",
+        "lemma_text": "lgbtnjevec javno povedati podpirati pravica posameznik iti zdraviti gejevstvo",
+        "hashtags": [],
+        "mentions": [
+            "had"
+        ],
+        "user": {
+            "name": "Franc Plevnik",
+            "screen_name": "FPlevnik",
+            "description": "rodoljub = antiliberalec + antiklerikalec; vzpon nacionalizma v eu; za svobodoljubno evropo nacionalnih držav; spirit of 769"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "positive",
+            "sentiment_score": 0.6282734870910645,
+            "topic_bias": "levo",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.5907504128084571,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1351829168967864326,
+        "created_at": "Wed Jan 20 09:49:24 +0000 2021",
+        "raw_text": "Je pa cisto v redu, da verniki in drugi, ki jim je splav nekaj inherentno nezdruzljivega z njihovim moralnim sebstvom, desetletja prisilno financirajo tako NGOje, ki splav promovirajo kot tudi splav sam tistim, ki se zanj odlocijo.",
+        "lemma_text": "cisto red vernik splav inherentno nezdruzljiv moralen sebstvo desetletje prisilno financirati ngoj splav promovirati splav sam odlociti",
+        "hashtags": [],
+        "mentions": [
+            "1nekorektna"
+        ],
+        "user": {
+            "name": "Utopija Svobode",
+            "screen_name": "USvobode",
+            "description": "agoristicen atom v vetru."
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.44662484526634216,
+            "topic_bias": null,
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.43591335119234026,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1366022857323667467,
+        "created_at": "Sun Feb 28 13:50:03 +0000 2021",
+        "raw_text": "EMA/EBU je nižjekategorno tekmovanja. V glasbi a) tekmovati ni mogoče, ker se moj pa tvoj okus razlikujeta, b) dobri izvajalci ne jemljejo resno, c) to je bolj LGBT cirkus. Zanimivo, NVO so problem, EMA pa ni problem, čeprav ni ne umetnost, ne dodana vrednost. Amen in Aleluja!",
+        "lemma_text": "ema ebu nižjekategorno tekmovanje glasba a tekmovati mogoč okus razlikovati b dober izvajalec jemati resno c bolj lgbt cirkus zanimiv nvo problem ema problem umetnost dodan vrednost amen aleluja",
+        "hashtags": [],
+        "mentions": [
+            "PerfidiaDonat"
+        ],
+        "user": {
+            "name": "Marko Pigac",
+            "screen_name": "markopigac",
+            "description": "ceo of mp produkcija | | pro photographer | photoreporter | sports, comics, music enthusiast | wedding, fashion, art & stock photography."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.7643387913703918,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.6300005119814379,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1366268050538983426,
+        "created_at": "Mon Mar 01 06:04:21 +0000 2021",
+        "raw_text": "SD je radikalzirana v smislu LGBT, da ne omenjam izpade Fajon, češ, da so nevarni nacionalno čisti zakoni, da gre za nevarno ideologijo. Tujci v SLO niso problem, če država vodi migracijsko politiko odgovorno do lastnega naroda in identitete.",
+        "lemma_text": "sd radikalziran smisel lgbt omenjati izpada fajon češ nevaren nacionalno čist zakon iti nevaren ideologija tujec slo problem država voditi migracijski politika odgovorno lasten narod identiteta",
+        "hashtags": [],
+        "mentions": [
+            "BojanPozar",
+            "Pertinacal",
+            "strankaSD",
+            "tfajon",
+            "DejanLevanic"
+        ],
+        "user": {
+            "name": "Aleš Flirt",
+            "screen_name": "Ale90345415",
+            "description": ""
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.7307754158973694,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.4387888986435359,
+            "party_bias": "desno",
+            "party_mentioned": "SD"
+        }
+    },
+    {
+        "id": 1347126405381939201,
+        "created_at": "Thu Jan 07 10:22:18 +0000 2021",
+        "raw_text": "Se bo pa to dogajalo pod Bidnom. Antifa v \" demokraticnem\"duhu!",
+        "lemma_text": "dogajati bidn antifa demokraticen duh",
+        "hashtags": [],
+        "mentions": [
+            "DKopse"
+        ],
+        "user": {
+            "name": "maja schelker",
+            "screen_name": "schelker_maja",
+            "description": "kämpferin für freiheit"
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.6474708914756775,
+            "topic_bias": null,
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.4724482914520848,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1346070817420029954,
+        "created_at": "Mon Jan 04 12:27:46 +0000 2021",
+        "raw_text": "Zakaj naj bi se pa jaz s tem ukvarjal? Ker se ne spomnim, da bi Srbi in LGBT bili (pogost) predmet mojega zanimanja.",
+        "lemma_text": "ukvarjati spomniti srb lgbt pogost predmet zanimanje",
+        "hashtags": [],
+        "mentions": [
+            "DuplekD",
+            "StorzicXD",
+            "FranciKek",
+            "VeraKozmik"
+        ],
+        "user": {
+            "name": "Žiga Turk",
+            "screen_name": "ZigaTurk",
+            "description": "profesor, računalnikar, gradbenik, publicist. andersdenkend, torej mračnjak. in english tweets as ."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.5522924065589905,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.4058798826856714,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1346845868507463681,
+        "created_at": "Wed Jan 06 15:47:32 +0000 2021",
+        "raw_text": "Ja FDV izobrazba... ne preostane ti drugega kot biti levičar... ojeejjjjj",
+        "lemma_text": "fdv izobrazba preostati levičar ojeejjjjj",
+        "hashtags": [],
+        "mentions": [
+            "KristjanSarac"
+        ],
+        "user": {
+            "name": "Platinis",
+            "screen_name": "Platinis2",
+            "description": ""
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.9399052262306213,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.5966095824339639,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1351426829480046599,
+        "created_at": "Tue Jan 19 07:10:39 +0000 2021",
+        "raw_text": "Samo eno naključje je tukaj. Vsi vodilni protagonisti tega gibanja (in novodobnih : feminizem, LGBTMP, BLM, ANTIFA...) so Judje. Naključno. Slučajno. Se zgodi.",
+        "lemma_text": "naključje tukaj vodilen protagonist gibanje novodoben feminizem lgbtmp blm antifa jud naključno slučajno zgoditi",
+        "hashtags": [],
+        "mentions": [
+            "iwcaptain",
+            "cebelica29",
+            "AnLiDoAn",
+            "all4_one4all"
+        ],
+        "user": {
+            "name": "Platinis",
+            "screen_name": "Platinis2",
+            "description": ""
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.786970853805542,
+            "topic_bias": null,
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.5636167971761142,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1347672406496862208,
+        "created_at": "Fri Jan 08 22:31:54 +0000 2021",
+        "raw_text": "Na CSD so zaposlene prijateljice teh bioloskih starsev.",
+        "lemma_text": "csd zaposlen prijateljica bioloski stars",
+        "hashtags": [],
+        "mentions": [
+            "BizjakSelma",
+            "Mateja81709405",
+            "vladaRS"
+        ],
+        "user": {
+            "name": "kara🇸🇮",
+            "screen_name": "bs_freezone",
+            "description": ""
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.6822843551635742,
+            "topic_bias": null,
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.6674317429313642,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1351554757232627715,
+        "created_at": "Tue Jan 19 15:38:59 +0000 2021",
+        "raw_text": "se popolnoma strinjam...predvsem pa tisti delovni zvezki, vprašanja A, B , C...butaste vsebine, pravijo, da tudi LGBT variante prodirajo v šolske učbenike. Noro, kako enostavno matematiko povozijo. Učenje jezikov, npr. latinščina nebi škodilo.",
+        "lemma_text": "popolnoma strinjati deloven zvezek vprašanje a b c butast vsebina praviti lgbt varianta prodirati šolski učbenik noro enostaven matematika povoziti učenje jezik npr. latinščina neb škoditi",
+        "hashtags": [],
+        "mentions": [
+            "KrazyPenny",
+            "silikalusi",
+            "VRUNDRAGICA"
+        ],
+        "user": {
+            "name": "mako62",
+            "screen_name": "marko0630",
+            "description": "vsak človek bi moral živeti dve leti na kmetiji, da bi cenil hrano in dve leti v tujini, da bi videl, kako se zemlja drugje vrti. ljubitelj slo gora. ahoj iz sk"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.7603029012680054,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.529025000613668,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1358727830289457152,
+        "created_at": "Mon Feb 08 10:42:13 +0000 2021",
+        "raw_text": "Primerna opomba na kulturni dan Slovenije. Kulturo groba ne poznamo. Stari Grki so jo poznali/ Sofokles, 500 l pred nš/ mi pa še nismo dosegli te stopnjo civiliziranosti.",
+        "lemma_text": "primeren opomba kulturen dan slovenija kultura grob poznati star grk poznati sofokles l nš doseči stopnja civiliziranost",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "drustvohudajama45",
+            "screen_name": "DrustvoHudajama",
+            "description": "mara lončar me and my whole family was killed by the communists in 1942."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.7737212181091309,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.5352376423066957,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1345660897344294917,
+        "created_at": "Sun Jan 03 09:18:53 +0000 2021",
+        "raw_text": "Točno to. Upam, da čim več staršev sodeluje in posluša. Indoktrinacija mladih je v polnem razmahu na vseh nivojih izobraževanja, pri vseh predmetih.",
+        "lemma_text": "točno upati več starš sodelovati poslušati indoktrinacija mlad poln razmah nivo izobraževanje predmet",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "NatašaKošir",
+            "screen_name": "silikalusi",
+            "description": "dol s komunizmom !"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "positive",
+            "sentiment_score": 0.8269644379615784,
+            "topic_bias": "levo",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.5199305534639939,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1362696289201364992,
+        "created_at": "Fri Feb 19 09:31:27 +0000 2021",
+        "raw_text": "Ideolgija LGBTQ je že na prefinjen način podtaknjena v učbenike, že v berilu za 1. razred.",
+        "lemma_text": "ideolgija lgbtq prefinjen način podtaknjen učbenik beril razred",
+        "hashtags": [],
+        "mentions": [
+            "Zagoznova",
+            "Uinstitucija"
+        ],
+        "user": {
+            "name": "NatašaKošir",
+            "screen_name": "silikalusi",
+            "description": "dol s komunizmom !"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.875482976436615,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.5266546146051827,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1346493143190024192,
+        "created_at": "Tue Jan 05 16:25:56 +0000 2021",
+        "raw_text": "Zdaj samo vprašanje v kateri fazi je postala lgbtqiapk",
+        "lemma_text": "zdaj vprašanje faza postati lgbtqiapk",
+        "hashtags": [],
+        "mentions": [
+            "alesernecl",
+            "BSrebre"
+        ],
+        "user": {
+            "name": "tolemamo🇸🇮😷",
+            "screen_name": "tolemamo",
+            "description": "oči na točno enakem mestu"
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.5957826375961304,
+            "topic_bias": null,
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.6262265088428808,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1347115574799826945,
+        "created_at": "Thu Jan 07 09:39:15 +0000 2021",
+        "raw_text": "Poudarjen seksizem? Desničarji posiljujemo z LGBTQ ideologijo?",
+        "lemma_text": "poudarjen seksizem desničar posiljevati lgbtq ideologija",
+        "hashtags": [],
+        "mentions": [
+            "SonjaMesar",
+            "rokomavh"
+        ],
+        "user": {
+            "name": "Janez Mežnarec",
+            "screen_name": "JanezMeznarec",
+            "description": ""
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.9497120380401611,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.4274915449216275,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1360664640389324800,
+        "created_at": "Sat Feb 13 18:58:24 +0000 2021",
+        "raw_text": "Dober, da ne bo LGBTq+...znorel - možno je, da jevtudi Tuerka šlatal.",
+        "lemma_text": "dober lgbtq znoreti možen jevtud tuerk šlatati",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "vinko vasle novinar",
+            "screen_name": "vinkovasle1",
+            "description": "8"
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.6988884210586548,
+            "topic_bias": null,
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.4158924724104538,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1354814105903788033,
+        "created_at": "Thu Jan 28 15:30:28 +0000 2021",
+        "raw_text": "Npr.: LGBT propaganda v vrtcih in šolah?",
+        "lemma_text": "npr. lgbt propaganda vrtec šola",
+        "hashtags": [],
+        "mentions": [
+            "SuzanaKocjancic",
+            "Demokratka2",
+            "petra_jansa",
+            "brane80108700",
+            "Primorka5",
+            "vladaRS"
+        ],
+        "user": {
+            "name": "Leon",
+            "screen_name": "Leon48303573",
+            "description": "kern, ker vse tolk firbec matra.še vedno dobri, stari jaz! glede dobrega sicer nisem prepričan, star pa vsak dan bolj."
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.7337560653686523,
+            "topic_bias": null,
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.7025792621206296,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1355058795035185152,
+        "created_at": "Fri Jan 29 07:42:47 +0000 2021",
+        "raw_text": "No, vidiš. LGBT zahteva svoje pravice, Romi imajo svoje, migranti svoje, Islam svoje... kar privede do medsebojnih trenj, spopadov in na koncu od vseh demokratičnih pravic obvelja samo pravica močnejšega.",
+        "lemma_text": "no videti lgbt zahtevati pravica rom imeti migrant islam privesti medsebojen trenje spopad konec demokratičen pravica obveljati pravica močen",
+        "hashtags": [],
+        "mentions": [
+            "SuzanaKocjancic",
+            "Demokratka2",
+            "petra_jansa",
+            "brane80108700",
+            "Primorka5",
+            "vladaRS"
+        ],
+        "user": {
+            "name": "Leon",
+            "screen_name": "Leon48303573",
+            "description": "kern, ker vse tolk firbec matra.še vedno dobri, stari jaz! glede dobrega sicer nisem prepričan, star pa vsak dan bolj."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.9074749946594238,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.6294814664794267,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1362116053019602952,
+        "created_at": "Wed Feb 17 19:05:48 +0000 2021",
+        "raw_text": "V 25 letni karieri oblikovalca nisem bil tako negotov, zivčen, ... kot pri CGPju za . Pa sem jih delal od BTCja do tujih firm in organizacij Ja, Petro sem s prvim predlogom ...",
+        "lemma_text": "leten kariera oblikovalec negotov zivčen cgp delati btc tuj firma organizacija petra predlog",
+        "hashtags": [
+            "zavod13",
+            "ponosen"
+        ],
+        "mentions": [],
+        "user": {
+            "name": "Mazzo Van Klein™",
+            "screen_name": "MazzoVanKlein",
+            "description": "web & graphic designer i eco photographer of beautiful natural woman curves edinstven erotičen golih tviterašic."
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.7440881133079529,
+            "topic_bias": null,
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.40749889434236647,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1364650209129693190,
+        "created_at": "Wed Feb 24 18:55:38 +0000 2021",
+        "raw_text": "Tako kot mutira njeno pojavljanje v strankah ... LDS, Zares, Lista Hermine Krt, PS, ZAAB, SAB.",
+        "lemma_text": "mutirati pojavljanje stranka lds lista hermina krt ps zaab sab",
+        "hashtags": [
+            "ženskijani"
+        ],
+        "mentions": [
+            "MilenkoZiherl1",
+            "Pertinacal",
+            "m_bostjan"
+        ],
+        "user": {
+            "name": "‼️ TineB pa že ne bo tiho ‼️",
+            "screen_name": "_TineB_",
+            "description": "a fair yet rude rebel against ™ ™ regime. sincerely thankful to twitter for allowing my fight."
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.9278287291526794,
+            "topic_bias": null,
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.7304195497304207,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1359578673070944265,
+        "created_at": "Wed Feb 10 19:03:10 +0000 2021",
+        "raw_text": "Za ožent bi bila, če bi tudi za starše poskrbela... Tako pa, vsak izgovor prav pride... Cc",
+        "lemma_text": "ožent starš poskrbeti izgovor priti cc",
+        "hashtags": [],
+        "mentions": [
+            "Brvinec3",
+            "KarmelinaHu"
+        ],
+        "user": {
+            "name": "Erika Planinšec",
+            "screen_name": "ErikaPlaninsec",
+            "description": "človek najde svoj mir in srečo, ko stoji z nogami trdno na zemlji, z ljubeznijo v srcu in modrostjo v glavi..."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.6817049384117126,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.4151387676730952,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1354032109359403011,
+        "created_at": "Tue Jan 26 11:43:06 +0000 2021",
+        "raw_text": "Jst mislim, da se ni treba matrat z obsojanjem takih dejanj. Kok ljudi z desne obsodi napad na novinarja na protestih, vedenje Janše na TW in včeri v parlamentu, mentalne akrobacije Norme, hujskanje proti beguncem, lgbt skupnosti, ... Če si prijazen, sam še bolj gazijo po teb.",
+        "lemma_text": "jst misliti treba matrati obsojanje dejanje kok človek desen obsoditi napad novinar protest vedenje janša tw včeriti parlament mentalen akrobacija norma hujskanje begunec lgbta skupnost prijazen sam bolj gaziti teb",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "tamo neki",
+            "screen_name": "tyschew",
+            "description": "you never met a man who knew so much about nothing."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.9383996725082397,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.4152152895777751,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1347668824338952196,
+        "created_at": "Fri Jan 08 22:17:40 +0000 2021",
+        "raw_text": ", a bi zmogli v nastajajoči PKP8 vključiti pomoč staršem pubertetnikov, ki zaradi krize ne morejo sprostiti burnih hormonov v najstniški ddužbi? Tam 2-3 k€ po pubertetniku se mi zdi realna pomoč.",
+        "lemma_text": "nastajajoč pkp8 vključiti pomoč starš pubertetnik kriza sprostiti buren hormon najstniški ddužba tam pubertetnik zdeti realen pomoč",
+        "hashtags": [],
+        "mentions": [
+            "vladaRS"
+        ],
+        "user": {
+            "name": "Boštjan Feguš",
+            "screen_name": "BostjanFegus",
+            "description": "mariborski mikropodjetnik, geolog."
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.6297539472579956,
+            "topic_bias": null,
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.45079766303352325,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1362289407504642048,
+        "created_at": "Thu Feb 18 06:34:39 +0000 2021",
+        "raw_text": "Konec ženskega športa LGBT. Q",
+        "lemma_text": "konec ženski šport lgbt q",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "milan bertram 🇸🇮🇸🇮🇸🇮",
+            "screen_name": "Milko121",
+            "description": "desno od levice"
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.48691287636756897,
+            "topic_bias": null,
+            "topic_mentioned": "lgbtq",
+            "topic_score": 1.0,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375505431116664832,
+        "created_at": "Fri Mar 26 17:50:25 +0000 2021",
+        "raw_text": "Bruselj z agendami neomarxiste, LGBT je potrebno pospravit v predale zgodovine.",
+        "lemma_text": "bruselj agenda neomarxiste lgbt potreben pospraviti predal zgodovina",
+        "hashtags": [],
+        "mentions": [
+            "tfajon",
+            "Europarl_EN",
+            "JJansaSDS",
+            "katarinabarley",
+            "LaGondolaProv"
+        ],
+        "user": {
+            "name": "Aleš Flirt",
+            "screen_name": "Ale90345415",
+            "description": ""
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.83624267578125,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.5962840441960792,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375842389173137411,
+        "created_at": "Sat Mar 27 16:09:22 +0000 2021",
+        "raw_text": "Vi ste izigrali druzinski zakonik in z tremi neuspelimi referendumi ste vseeno potisnili LGBT+P agendo celo v vrtce!",
+        "lemma_text": "izigrati druzinski zakonik neuspel referendum vseeno potisniti lgbt p agenda vrtec",
+        "hashtags": [],
+        "mentions": [
+            "strankalevica"
+        ],
+        "user": {
+            "name": "Damjan Tržan 🇸🇮",
+            "screen_name": "Dartanjan2",
+            "description": "zaveden slovenec&domoljub"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.8357894420623779,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.45118454497248517,
+            "party_bias": "desno",
+            "party_mentioned": "Levica"
+        }
+    },
+    {
+        "id": 1376073025284608007,
+        "created_at": "Sun Mar 28 07:25:50 +0000 2021",
+        "raw_text": "Vlada je zavzela partizansko držo in ne LGBT(+), kot nam jo hočete vcepiti.",
+        "lemma_text": "vlada zavzeti partizanski drža lgbt vcepiti",
+        "hashtags": [],
+        "mentions": [
+            "nmusar"
+        ],
+        "user": {
+            "name": "Marko Balant",
+            "screen_name": "mbalant",
+            "description": "lenarjenje in pomoč pri lenarjenju."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.7234914302825928,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.4435248162005921,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384843507442008070,
+        "created_at": "Wed Apr 21 12:16:35 +0000 2021",
+        "raw_text": "Če bi politika ne bila za to, bi tudi šolstvo tega ne poučevalo. Politika je kriva, ker se uklanja manjšini LGBT in drugim NVO !",
+        "lemma_text": "uklanjati nvo kriv politika šolstvo manjšina lgbt poučevati",
+        "hashtags": [],
+        "mentions": [
+            "KrazyPenny",
+            "KogojSlavko"
+        ],
+        "user": {
+            "name": "Margu501Marija",
+            "screen_name": "Margu501",
+            "description": ""
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.9510125517845154,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.6881500735534927,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1351567229318475780,
+        "created_at": "Tue Jan 19 16:28:33 +0000 2021",
+        "raw_text": "Ne ne.. jaz se ne bi potegnil nazaj kot se je . Po mojem smo v predšolskem in šolskem sistemu priča sistematični promociji LGBT agende.",
+        "lemma_text": "sistem priča šolski sistematičen agenda promocija potegniti predšolski lgbt nazaj",
+        "hashtags": [],
+        "mentions": [
+            "PGantar",
+            "JanezPogorelec",
+            "Blaz_88",
+            "PreglArjan",
+            "jciglerkralj",
+            "NovaSlovenija",
+            "JanezPogorelec"
+        ],
+        "user": {
+            "name": "uncensored.int",
+            "screen_name": "MarkoZvab",
+            "description": "where facts strike bulshiters"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.7493441700935364,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.47252085878324446,
+            "party_bias": "levo",
+            "party_mentioned": "NSi"
+        }
+    },
+    {
+        "id": 1359059238136541186,
+        "created_at": "Tue Feb 09 08:39:07 +0000 2021",
+        "raw_text": "Kako pa te lezbijke iz LGBT kohorte razložijo islamističnim iz Kotnikove, da so gey?",
+        "lemma_text": "lezbijka lgbt kohorta razložiti islamističen kotnikov gey",
+        "hashtags": [],
+        "mentions": [
+            "pers_luka",
+            "RJopici",
+            "Nova24TV"
+        ],
+        "user": {
+            "name": "Egon🇸🇮🇺🇲SUVERENIST",
+            "screen_name": "Egon63036164",
+            "description": "pomorščak, sedaj dedek !"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.7001255750656128,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 1.0,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1355446840242659330,
+        "created_at": "Sat Jan 30 09:24:44 +0000 2021",
+        "raw_text": "Lgbt lizika pa pokalček za mravlinčarja leta?",
+        "lemma_text": "lgbt lizika pokalček mravlinčar leto",
+        "hashtags": [],
+        "mentions": [
+            "NeMaramButlov",
+            "LukaMesec"
+        ],
+        "user": {
+            "name": "Janez Kotar 🇸🇮🤝🇺🇸",
+            "screen_name": "JanezKotar",
+            "description": "antiboljševik, bolk, ,"
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.7265425324440002,
+            "topic_bias": null,
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.5431909505968389,
+            "party_bias": "nevtralno",
+            "party_mentioned": "Levica"
+        }
+    },
+    {
+        "id": 1353085783532589059,
+        "created_at": "Sat Jan 23 21:02:44 +0000 2021",
+        "raw_text": "to bo konkurence v Slo atletiki.........punce zdej ste pa u banani ko se bo Slo LGBT začel z atletiko ukvarjati...",
+        "lemma_text": "konkurenca slo atletika punca zdej u banana slo lgbt začeti atletika ukvarjati",
+        "hashtags": [],
+        "mentions": [
+            "Domovina_je",
+            "JJansaSDS"
+        ],
+        "user": {
+            "name": "Andrej",
+            "screen_name": "Andrej30931764",
+            "description": "independant free mind"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.953029990196228,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.45633100000667054,
+            "party_bias": "levo",
+            "party_mentioned": "SDS"
+        }
+    },
+    {
+        "id": 1354170066242330642,
+        "created_at": "Tue Jan 26 20:51:17 +0000 2021",
+        "raw_text": "v bistvu je on latenten pederast, glede na njegovo obnašanje, vprašajte Vodeba, bo strokovno potrdil.......evo LGBT imate novega eminentnega člana....jupiiiiii",
+        "lemma_text": "bistvo latenten pederast glede obnašanje vprašati vodeb strokovno potrditi evo lgbt imeti nov eminenten član jupiiiii",
+        "hashtags": [],
+        "mentions": [
+            "BojanPozar",
+            "BalanticMatjaz",
+            "IgorPribac",
+            "RTV_Slovenija"
+        ],
+        "user": {
+            "name": "Andrej",
+            "screen_name": "Andrej30931764",
+            "description": "independant free mind"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "positive",
+            "sentiment_score": 0.5086793303489685,
+            "topic_bias": "levo",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.5109401711135947,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1354175690187403265,
+        "created_at": "Tue Jan 26 21:13:38 +0000 2021",
+        "raw_text": "Jurša boj se za jajca, kar ti jih je ostalo....tako se na tvojem koncu govori...., jebi ga boš šel pa v LGBT....",
+        "lemma_text": "jurša boj jajce ostati konec govoriti jebati iti lgbt",
+        "hashtags": [],
+        "mentions": [
+            "Patriot81615832"
+        ],
+        "user": {
+            "name": "Andrej",
+            "screen_name": "Andrej30931764",
+            "description": "independant free mind"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.9557814598083496,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.4658269777887244,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1362675022284939265,
+        "created_at": "Fri Feb 19 08:06:57 +0000 2021",
+        "raw_text": "Jaz imam še boljšo idejo. Ponovno naj postavijo berlinski zid in ustanovijo avtonomno LGBT,refugees cono.",
+        "lemma_text": "imeti dober ideja ponovno postaviti berlinski zid ustanoviti avtonomen lgbt refugees cona",
+        "hashtags": [],
+        "mentions": [
+            "SpelaRotar"
+        ],
+        "user": {
+            "name": "Dare.K.",
+            "screen_name": "dareK74220923",
+            "description": "deplorable"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "positive",
+            "sentiment_score": 0.5161738395690918,
+            "topic_bias": "levo",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.6877651833549673,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1345084310811009025,
+        "created_at": "Fri Jan 01 19:07:44 +0000 2021",
+        "raw_text": "Kako rasistično! Niti enega zamorca, niti enega LGBT, niti enega Kitajca, niti enega eskima...",
+        "lemma_text": "rasističen zamorec lgbt kitajec eskim",
+        "hashtags": [],
+        "mentions": [
+            "cikibucka"
+        ],
+        "user": {
+            "name": "Logar Metod 🇸🇮",
+            "screen_name": "logarmetod",
+            "description": "gab:"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.9494252800941467,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.46062949489659605,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1349948620603338754,
+        "created_at": "Fri Jan 15 05:16:46 +0000 2021",
+        "raw_text": "Tudi LGBT agenda, ki za obstoj človeštva nima prihodnosti, vsaj bele rase.",
+        "lemma_text": "lgbt agenda obstoj človeštvo imeti prihodnost bel rasa",
+        "hashtags": [],
+        "mentions": [
+            "Marko10728083"
+        ],
+        "user": {
+            "name": "Boštjan Lesjak 🇸🇮",
+            "screen_name": "lesjakb",
+            "description": "veteran vojne za slovenijo, mag. inž. log. veteran of war for slovenia, master of logistics."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.7978824973106384,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.44324694304194917,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1350049565295185921,
+        "created_at": "Fri Jan 15 11:57:53 +0000 2021",
+        "raw_text": "Ju je pa zato toliko več Che in Castro, Mao tze Tung. Da S.Koreje in Vietnama niti ne omenjam. Tudi Chavez jih je preganjal. Navedite mi »pravo« socialistično državo, ki LGBT zagotavlja pravico do obstoja?",
+        "lemma_text": "zato več che castro mao tze tung s. koreja vietnam omenjati chavez preganjati navesti pravi socialističen država lgbt zagotavljati pravica obstoj",
+        "hashtags": [],
+        "mentions": [
+            "JozeBizjak",
+            "Platinis2_Selma",
+            "Libertarec"
+        ],
+        "user": {
+            "name": "Sofija Pika Simic",
+            "screen_name": "Pika_So",
+            "description": "journalist, documentary filmmaker, media addicted, tech-gadget fan, like global micro-blogging social service, archive rat about wwll."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.6560385227203369,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.5496867688793858,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1359238081715568641,
+        "created_at": "Tue Feb 09 20:29:46 +0000 2021",
+        "raw_text": "Nihče ne krati pravic LGBT manjšini, če jim jih je zakonodajalec že dal. Nesprejemljivo pa je, da nam večini vsiljujejo svojo agendo in zahtevajo, da jo bomo sprejeli in javno odobravali. Toleranca je dovolj.",
+        "lemma_text": "kratiti pravica lgbt manjšina zakonodajalec dati nesprejemljiv večina vsiljevati agenda zahtevati sprejeti javno odobravati toleranca dovolj",
+        "hashtags": [],
+        "mentions": [
+            "Domen_G",
+            "DivnaErzen"
+        ],
+        "user": {
+            "name": "Saturninka",
+            "screen_name": "Saturninka1",
+            "description": ""
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.44493567943573,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.43965613402022136,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1347972024778563586,
+        "created_at": "Sat Jan 09 18:22:29 +0000 2021",
+        "raw_text": "To je tipičen način delovanja Judov. V vsaki skupnosti se vedno uvlečejo pod kožo, pritrjujejo vsem, iščejo dlako v jajcu in delajo zdrahe. In če vemo, da so komunizem, feminizem, LGBT, BLM organizirani od njih, nam je jasno vse.",
+        "lemma_text": "tipičen način delovanje juda skupnost vedno uvleči koža pritrjevati iskati dlaka jajce delati zdraha vedeti komunizem feminizem lgbt blm organiziran jasen",
+        "hashtags": [],
+        "mentions": [
+            "vesterrrr",
+            "MareAndi",
+            "robertR1b1",
+            "FKindlhofer"
+        ],
+        "user": {
+            "name": "Platinis",
+            "screen_name": "Platinis2",
+            "description": ""
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.9281579256057739,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.5319737137717317,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1345316396427862016,
+        "created_at": "Sat Jan 02 10:29:58 +0000 2021",
+        "raw_text": "da bi LGBT fanatiki vedeli.. da jih blokiram takoj ko jih vidim..se mogoče ne bi matrali in mi pisali tvite..",
+        "lemma_text": "lgbt fanatik vedeti blokirati takoj videti mogoče matrati pisati tvit",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "krtmen",
+            "screen_name": "krtmen",
+            "description": "jst sm kr tm en. več vas pa ne briga. hvala za razumevanje!"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.7990880608558655,
+            "topic_bias": "desno",
+            "topic_mentioned": "lgbtq",
+            "topic_score": 0.563955815752721,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    }
+]

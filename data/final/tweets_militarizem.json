@@ -1,0 +1,2075 @@
+[
+    {
+        "id": 1375347789396328449,
+        "created_at": "Fri Mar 26 07:24:00 +0000 2021",
+        "raw_text": "Co_Operation - čezmejno sodelovanje gasilskih enot iz obeh Radgon. 2019-2021",
+        "lemma_text": "co operation čezmejen sodelovanje gasilski enota radgon",
+        "hashtags": [
+            "pora",
+            "co_operation",
+            "gornjaradgona",
+            "badradkersburg",
+            "gapora"
+        ],
+        "mentions": [],
+        "user": {
+            "name": "pozdravtv.si",
+            "screen_name": "PozdravTVsi",
+            "description": "za zdaj predvsem v deželi ob muri in sosednjih pokrajinah. z dobro prakso in zdravim slogom."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.5448747277259827,
+            "topic_bias": "desno",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.410023274507794,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375450931052081158,
+        "created_at": "Fri Mar 26 14:13:51 +0000 2021",
+        "raw_text": "V devetdesetih letih so nas razorožili, danes nam pa ne dajo sredstev za ustrezno delo vojakov.",
+        "lemma_text": "leto razorožiti danes dati sredstvo ustrezen delo vojak",
+        "hashtags": [],
+        "mentions": [
+            "strankaSDS",
+            "JanezMoskric",
+            "Slovenskavojska"
+        ],
+        "user": {
+            "name": "Marija Podobnik",
+            "screen_name": "PodobnikMar",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9335620999336243,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.4823803194194714,
+            "party_bias": "levo",
+            "party_mentioned": "SDS"
+        }
+    },
+    {
+        "id": 1375464975637090309,
+        "created_at": "Fri Mar 26 15:09:39 +0000 2021",
+        "raw_text": "Odrvrženih pušk bo kmalu za cel bataljon.",
+        "lemma_text": "odrvržen puška kmalu cel bataljon",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Zavedna Slovenka, baje iz kleti, podpiram vlado.",
+            "screen_name": "Drugarka1",
+            "description": "grem naprej, včasih po robu, gledam desno."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.6944540739059448,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.738517595620794,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375765670017785856,
+        "created_at": "Sat Mar 27 11:04:30 +0000 2021",
+        "raw_text": "Če hočete varovati življenja pripadnikov slovenske vojske, jih nehajte pošiljati na NATO misije in jih raje usposobite za obrambo Slovenije.",
+        "lemma_text": "varovati življenje pripadnik slovenski vojska nehati pošiljati nato misija raje usposobiti obramba slovenija",
+        "hashtags": [],
+        "mentions": [
+            "MatejTonin",
+            "strankalevica",
+            "Slovenskavojska"
+        ],
+        "user": {
+            "name": "Igor Sancin",
+            "screen_name": "IgorSancin",
+            "description": "zamejec, ekonomski migrant, nestrankarski levičar, hemanijak. popolnoma neresen: kar reče, tudi misli."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.7408029437065125,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.7122660940751245,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375748718335565827,
+        "created_at": "Sat Mar 27 09:57:09 +0000 2021",
+        "raw_text": ".: V času osamosvojitvenih procesov se je najbolj nasprotovalo krepitve obrambne moči. Podpisniki Deklaracije za mir so želeli SLO še dodatno razorožiti in zrušiti obrambne priprave. V vojni za Slovenijo pa sta orožje in pogum borcev omogočili samostojno Slovenijo.",
+        "lemma_text": "čas osamosvojitven proces najbolj nasprotovati krepitev obramben moč podpisnik deklaracija mir slo dodatno razorožiti zrušiti obramben priprava vojna slovenija orožje pogum borec omogočiti samostojen slovenija",
+        "hashtags": [],
+        "mentions": [
+            "JJansaSDS"
+        ],
+        "user": {
+            "name": "Inštitut J. Pučnika",
+            "screen_name": "IJPucnik",
+            "description": "think tank on politics, economy, history, education, judiciary, social affairs etc. organizing political academy of"
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.7999858260154724,
+            "topic_bias": null,
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.5208568306123368,
+            "party_bias": "nevtralno",
+            "party_mentioned": "SDS"
+        }
+    },
+    {
+        "id": 1375813774779805702,
+        "created_at": "Sat Mar 27 14:15:39 +0000 2021",
+        "raw_text": "Sami ja, pri nas na štajerskem so partizane klicali skrivači, ker so se večino časa skrivali po gozdovih. Brez srbskih bataljonov ne bi vaši naredili nič. Osvojitev Trsta je bila izvedena iz strani dalmatincev, vaših je bilo premalo celo na koncu niste bili sposobni zbrati armade",
+        "lemma_text": "sam štajerski partizan klicati skrivač večina čas skrivati gozd srbski bataljon narediti osvojitev trst izveden stran dalmatinec premalo konec sposoben zbrati armada",
+        "hashtags": [],
+        "mentions": [
+            "sismismarko",
+            "Del3332",
+            "alesernecl"
+        ],
+        "user": {
+            "name": "Matjaž",
+            "screen_name": "MatjazFant",
+            "description": "eu is death of europe!"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.7610891461372375,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.5785605712282129,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375790723962966022,
+        "created_at": "Sat Mar 27 12:44:04 +0000 2021",
+        "raw_text": "Ne zavajajte! Z oklepniki, katerih nakup bi pomenil največji del porabe tega denarja zagotovo ne boste reševali ponesrečencev v gorah... Poleg tega pa je stroka jasno povedala, da taki oklepniki v sodobnem vojskovanju nimajo več neke pomembne vloge.",
+        "lemma_text": "zavajati oklepnik nakup pomeniti velik del poraba denar zagotovo reševati ponesrečenec gora stroka jasno povedati oklepnik sodoben vojskovanje imeti več pomemben vloga",
+        "hashtags": [],
+        "mentions": [
+            "MatejTonin",
+            "strankalevica",
+            "Slovenskavojska"
+        ],
+        "user": {
+            "name": "Rok Antolin",
+            "screen_name": "RokAntolin",
+            "description": "mechanical engineer master student of industrial engineeringnaglas razmišljam, twite pišem v afektu, zato včasih izstrelim kaj neprimernega"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9346389770507812,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.4211322487722038,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375900459811098629,
+        "created_at": "Sat Mar 27 20:00:07 +0000 2021",
+        "raw_text": "Predstavljajte si,da bi imeli še nove oklepnike,kaka smučina bi bila...",
+        "lemma_text": "predstavljati imeti nov oklepnik smučina",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "dip",
+            "screen_name": "dip33166304",
+            "description": ""
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.7913374900817871,
+            "topic_bias": null,
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.42790489571563933,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1376147078624251907,
+        "created_at": "Sun Mar 28 12:20:05 +0000 2021",
+        "raw_text": "“Ob svojih obiskih regionalnih štabov civilne zaščite med ljudmi vidim velik pogum in močno solidarnost, izjemna je medsebojna pomoč med ljudmi. Moramo iti naprej.”",
+        "lemma_text": "obisk regionalen štab civilen zaščita človek videti velik pogum močen solidarnost izjemen medsebojen pomoč človek iti naprej",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Borut Pahor",
+            "screen_name": "BorutPahor",
+            "description": "uradni račun predsednika republike slovenije boruta pahorja. tvita ekipa, tviti prs označeni z bp/official channel of the president of the republic of slovenia"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.9614188075065613,
+            "topic_bias": "desno",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.56207585038101,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1376121174288130049,
+        "created_at": "Sun Mar 28 10:37:09 +0000 2021",
+        "raw_text": "Če ovira, ki je postavljena vojaškemu nasprotniku ni branjena z vojakom, ni ovira.",
+        "lemma_text": "ovira postavljen vojaški nasprotnik branjen vojak ovira",
+        "hashtags": [],
+        "mentions": [
+            "MajorSivi",
+            "PocivalsekZ"
+        ],
+        "user": {
+            "name": "Traven Bine 😷",
+            "screen_name": "BineTraven",
+            "description": "go nsi!"
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.47270575165748596,
+            "topic_bias": null,
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.5381996822256356,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1376287770004574215,
+        "created_at": "Sun Mar 28 21:39:09 +0000 2021",
+        "raw_text": "Saj je bilo zelo natančno predstavljeno, koliko denarja se namenja vojakom on njihovi opremi, koliko oklepnikom in zadostitvi zahtevam Nata.",
+        "lemma_text": "zelo natančno predstavljen denar namenjati vojak oprema oklepnik zadostitev zahteva nato",
+        "hashtags": [],
+        "mentions": [
+            "AlesKov1",
+            "PetraGreiner",
+            "galoftomo",
+            "MatejTonin"
+        ],
+        "user": {
+            "name": "Jana Preval",
+            "screen_name": "Japreva",
+            "description": "it's ok if you disagree with me. i can't force you to be right. ....i mean left.... 42"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.5179806351661682,
+            "topic_bias": "desno",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.4915018922886878,
+            "party_bias": "desno",
+            "party_mentioned": "NSi"
+        }
+    },
+    {
+        "id": 1376121451145728003,
+        "created_at": "Sun Mar 28 10:38:15 +0000 2021",
+        "raw_text": "Tudi v vojski imajo možnost, da podrejeni, poveljujočemu odvzamejo komando.",
+        "lemma_text": "vojska imeti možnost podrejen poveljujoč odvzeti komanda",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Urban.B 🇸🇮 🇸🇮",
+            "screen_name": "Urban_Butinar",
+            "description": "vcepljanje idej. astonishing how many people are under a spell."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.4532568156719208,
+            "topic_bias": "desno",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.5709119477379997,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384062652167581701,
+        "created_at": "Mon Apr 19 08:33:45 +0000 2021",
+        "raw_text": "Okupatorji bodo na dan boja proti okupatorji protestirali proti okupatorju?!?!?!?!?!",
+        "lemma_text": "boj okupator protestirati dan",
+        "hashtags": [],
+        "mentions": [
+            "mikstone1"
+        ],
+        "user": {
+            "name": "WeAreTrump",
+            "screen_name": "hitri_jezik",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.8785316944122314,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.4995805804259196,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384489926717321219,
+        "created_at": "Tue Apr 20 12:51:35 +0000 2021",
+        "raw_text": "Ali Slo partizani že protestno nosijo napise mi smo in nedamo",
+        "lemma_text": "protestno nedamo napis slo partizan nositi",
+        "hashtags": [],
+        "mentions": [
+            "aceferin",
+            "UEFA"
+        ],
+        "user": {
+            "name": "PONČO",
+            "screen_name": "Fredom1161",
+            "description": "dont skrbi onli hec"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9292329549789429,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.4766768744069732,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384899476968574977,
+        "created_at": "Wed Apr 21 15:59:00 +0000 2021",
+        "raw_text": "Joj, po komunistično bi morali imeti v parlamentu dva strelska jarka in mitraljezce ter artilerijo.",
+        "lemma_text": "jarek imeti strelski artilerija mitraljezec komunistično parlament",
+        "hashtags": [],
+        "mentions": [
+            "StudioCity_",
+            "strankaSD"
+        ],
+        "user": {
+            "name": "Marko Andolšek",
+            "screen_name": "MareAndi",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9213103652000427,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.676113196628858,
+            "party_bias": "desno",
+            "party_mentioned": "SD"
+        }
+    },
+    {
+        "id": 1384855989460029440,
+        "created_at": "Wed Apr 21 13:06:11 +0000 2021",
+        "raw_text": "Je rekel sosed Polde: Če bo obvezno vojaško služenje za fante, bi se spodobilo, da bi bil obvezen kuharski tečaj za punce...",
+        "lemma_text": "obvezen vojaški fant polde služenje sosed spodobiti reči tečaj punca kuharski",
+        "hashtags": [
+            "Dobraideja"
+        ],
+        "mentions": [],
+        "user": {
+            "name": "Dr@gic@ O. 💞🇸🇮🤗",
+            "screen_name": "dragica12",
+            "description": "človek ni eden, človeka sta dva, eden špancira, drugi gara..."
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.540714681148529,
+            "topic_bias": null,
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.5204620125209929,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384813529245618176,
+        "created_at": "Wed Apr 21 10:17:28 +0000 2021",
+        "raw_text": "porota obsodila policista, ki je kriva za Floydovo smrt. Zakaj je sploh pripel v stik s policisti, so itak zanikali. OK, kako pa je z obsodbami ko črnec ustreli belega policista? aja, to je ok, al kako?",
+        "lemma_text": "zanikati policist obsodba kriv smrt ustreliti obsoditi pripeti stik bel floydov črnec porota",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "M*A*S*H",
+            "screen_name": "mash_1970",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.8975982069969177,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.7716587350898289,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384845264079425536,
+        "created_at": "Wed Apr 21 12:23:34 +0000 2021",
+        "raw_text": "Samo sodnik je razsodil da je to umor druge stopnje.Chauvin bi bil v težavah če bi ga obsodili umora prve stopnje.",
+        "lemma_text": "sodnik razsoditi težava chauvin stopnja umor obsoditi",
+        "hashtags": [],
+        "mentions": [
+            "Nova24TV"
+        ],
+        "user": {
+            "name": "silvester",
+            "screen_name": "kirponos",
+            "description": "blog"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.8819524049758911,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.4680980428067212,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384744591526617090,
+        "created_at": "Wed Apr 21 05:43:32 +0000 2021",
+        "raw_text": "Verjetno ima večina od nas tolk hrbtenice, da ko ti rečejo: poišči rešitev..in jo najdeš, predložiš elaborat in pričakuješ da bo saj delno upoštevan, oni pa odmahnejo z roko... \"v redu je... tam odloži.\" in naredijo po svoje... in te potem še podpišejo pod sranje, ki ga počnejo..",
+        "lemma_text": "red roka imeti predložiti elaborat rešitev sranje podpisati hrbtenica potem tam upoštevan reči delno večina poiskati pričakovati najti odložiti odmahniti početi narediti",
+        "hashtags": [],
+        "mentions": [
+            "BanTweeter",
+            "BorutRoncevic",
+            "cebelica4"
+        ],
+        "user": {
+            "name": "Tajča",
+            "screen_name": "Tajcafromdhill",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9382702708244324,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.4059627228753303,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384871166884593666,
+        "created_at": "Wed Apr 21 14:06:30 +0000 2021",
+        "raw_text": "Njega bi pa rade volje prezračil v 60 leta, za trak v tovarno, na solidarnostno soboto. Bedak res ne ve kaj govori. Se je pa sam najverjetneje postavil za direktorja neke firme.",
+        "lemma_text": "direktor sobota trak solidarnosten volja prezračiti bedak sam tovarna firma postaviti govoriti leto vedeti",
+        "hashtags": [],
+        "mentions": [
+            "DKopse"
+        ],
+        "user": {
+            "name": "EU🇸🇮",
+            "screen_name": "erak5",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.8886813521385193,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.4440189234758806,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384955789320851458,
+        "created_at": "Wed Apr 21 19:42:46 +0000 2021",
+        "raw_text": "Vlada sprejela nov srednjeročni obrambni program",
+        "lemma_text": "srednjeročen obramben sprejeti vlada program nov",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "STA novice",
+            "screen_name": "STA_novice",
+            "description": "slovenska tiskovna agencija slovenian press agency"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.6831104159355164,
+            "topic_bias": "desno",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.5738090732314322,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384965829314351113,
+        "created_at": "Wed Apr 21 20:22:39 +0000 2021",
+        "raw_text": "Vlada spremenila srednjeročni obrambni program",
+        "lemma_text": "spremeniti srednjeročen obramben vlada program",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "STA novice",
+            "screen_name": "STA_novice",
+            "description": "slovenska tiskovna agencija slovenian press agency"
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.5716334581375122,
+            "topic_bias": null,
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.7186528279015595,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384964041551060994,
+        "created_at": "Wed Apr 21 20:15:33 +0000 2021",
+        "raw_text": "Vlada je spremenila srednjeročni obrambni program Slovenije za obdobje do 2023 na način, da odraža prioritete razvoja vojaških zmogljivosti.",
+        "lemma_text": "obdobje vojaški odražati slovenija razvoj zmogljivost spremeniti srednjeročen obramben način prioriteta vlada program",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Večer",
+            "screen_name": "vecer",
+            "description": ""
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.6270297765731812,
+            "topic_bias": null,
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.47820628886168953,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1385133100557119490,
+        "created_at": "Thu Apr 22 07:27:20 +0000 2021",
+        "raw_text": "Nato je pozdravil napotitev poljskih vojaških sil v Turčijo",
+        "lemma_text": "vojaški napotitev sila pozdraviti nato poljski turčija",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "PotepuškiPenzionist",
+            "screen_name": "potepuski",
+            "description": ""
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.7587078809738159,
+            "topic_bias": "desno",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.49729866973313774,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1385136191184404482,
+        "created_at": "Thu Apr 22 07:39:37 +0000 2021",
+        "raw_text": "Ruska vojska na Krimu razmestila trodimenzionalne radarje dolgega dosega “Opponent-G”",
+        "lemma_text": "dolg trodimenzionalen g opponent vojska doseg krim ruski radar razmestiti",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Aljoša Dragaš",
+            "screen_name": "AljosaDragas",
+            "description": "mariborski odmev"
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.4953060448169708,
+            "topic_bias": null,
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.4104886223960772,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1385248840396283905,
+        "created_at": "Thu Apr 22 15:07:14 +0000 2021",
+        "raw_text": "Radarsko vodeni gatlingi to rušijo. Rakete pa sploh! Dobri za uničevanje fortifikacijskih ciljev. Mornarica? Po mojem ne. Ruski SS-600 pa ruši vse kar miga če ni ustreznih proti mer!",
+        "lemma_text": "raketa radarsko dober fortifikacijski mornarica gatling ustrezen rušiti voden cilj ss uničevanje mera ruski migati",
+        "hashtags": [],
+        "mentions": [
+            "vojnaslo91"
+        ],
+        "user": {
+            "name": "JozeZorcBrooks",
+            "screen_name": "BrooksJoze",
+            "description": "lead me, follow me or get the hell out of my way!!!"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.599384069442749,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.7113016977875052,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1351100836533960705,
+        "created_at": "Mon Jan 18 09:35:16 +0000 2021",
+        "raw_text": "Kako? Vojaški sodniki v OF so bili politkomisarji! Kmečko dekle poštenega partizana, ni hotelo seksat z srbijanskim komisarjem! Njega je dal takoj ustreliti, njo je poslili, dekle je zaradi sramote skočilo v vodnjak in umrlo! Komunistično OF pravosodje!",
+        "lemma_text": "vojaški sodnik of politkomisar kmečki dekle pošten partizan seksati srbijanski komisar dati takoj ustreliti posliti dekle sramota skočiti vodnjak umreti komunističen of pravosodje",
+        "hashtags": [],
+        "mentions": [
+            "Blaz01962009",
+            "vinkovasle1"
+        ],
+        "user": {
+            "name": "Egon🇸🇮🇺🇲SUVERENIST",
+            "screen_name": "Egon63036164",
+            "description": "pomorščak, sedaj dedek !"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9629459977149963,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.41615677492714875,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1367468755991855108,
+        "created_at": "Thu Mar 04 13:35:32 +0000 2021",
+        "raw_text": "\"Torej ko policist stopi k sedemnajstletniku, ki ne smodi prepovedane smotke, niti s sprejem ne ustvarja na zid, temveč ostro zahteva, da se gre učit, bi mu zdrava policijska pamet morala povedati, da se tu nekaj ne ujema.\"",
+        "lemma_text": "policist stopiti sedemnajstletnik smoditi prepovedan smotka sprejem ustvarjati zid ostro zahtevati iti učiti zdrav policijski pamet povedati tu ujemati",
+        "hashtags": [],
+        "mentions": [
+            "Val202"
+        ],
+        "user": {
+            "name": "Mitja Urbanc",
+            "screen_name": "MitUrbanc",
+            "description": "i don't wanna believe, but i wanna believe you. i don't mean what i say, but i say what i mean to."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9338361620903015,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.455306231654465,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1355214770388021252,
+        "created_at": "Fri Jan 29 18:02:34 +0000 2021",
+        "raw_text": "Ljudje pozabljajo, da je bil Šarec kompromis med takojšnjim uničenjem slovenske vojske in postopnim uničenjem slovenske vojske; njegova vlada je vojski višala proračun, problem je bil, da bi bila glede na vsakoletni dodatek vojska operativna šele nekje okrog 2050.",
+        "lemma_text": "človek pozabljati šarec kompromis takojšnji uničenje slovenski vojska postopen uničenje slovenski vojska vlada vojska višati proračun problem glede vsakoleten dodatek vojska operativen nekje",
+        "hashtags": [],
+        "mentions": [
+            "silikalusi",
+            "alesernecl"
+        ],
+        "user": {
+            "name": "Miha 2.0 🇸🇮 🇻🇦 ن 🇦🇲 🇪🇺🇨🇳",
+            "screen_name": "mismonaliniji",
+            "description": "catholic. he was a skater boy she said see you later boy"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.8114035725593567,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.43626700113934697,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1362784626624909319,
+        "created_at": "Fri Feb 19 15:22:28 +0000 2021",
+        "raw_text": "Saj, v tem tiču grmi zajec! Najprej se bomo navadili dajati napitnino, nato bo to postalo neobvezno obvezno, v zadnji fazi pa bodo delodajalci znižali mezde, češ, potrudi se pa boš z napitnino kasiral! Zato sam nisem pristaš napitnin.",
+        "lemma_text": "tič grmeti zajec najprej navaditi dajati napitnina nato postati neobvezen obvezen zadnji faza delodajalec znižati mezda češ potruditi napitnina kasirati sam pristaš napitnina",
+        "hashtags": [],
+        "mentions": [
+            "glashona",
+            "kundrava"
+        ],
+        "user": {
+            "name": "Boris Kovačič",
+            "screen_name": "boris_kovacic",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.938269317150116,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.5203805640630476,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1359899582474420228,
+        "created_at": "Thu Feb 11 16:18:20 +0000 2021",
+        "raw_text": "Bere se pa tako, kot da sta v polni bojni opremi in vsak s po dvema mitraljezoma napadla hrvaške mejne policaje...",
+        "lemma_text": "brati poln bojen oprema mitraljez napasti hrvaški mejen policaj",
+        "hashtags": [],
+        "mentions": [
+            "JKranjcan",
+            "BojanPozar",
+            "policija_si",
+            "aleshojs"
+        ],
+        "user": {
+            "name": "Logar Metod 🇸🇮",
+            "screen_name": "logarmetod",
+            "description": "gab:"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.8301882147789001,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.5384191293883596,
+            "party_bias": "levo",
+            "party_mentioned": "SDS"
+        }
+    },
+    {
+        "id": 1350824854761709575,
+        "created_at": "Sun Jan 17 15:18:37 +0000 2021",
+        "raw_text": "To je prvi primer uporabe biološkega orožja v Sloveniji!",
+        "lemma_text": "primer uporaba biološki orožje slovenija",
+        "hashtags": [],
+        "mentions": [
+            "NeMaramButlov",
+            "Fitzroy1985"
+        ],
+        "user": {
+            "name": "Vida Kokalj",
+            "screen_name": "VidaVida23",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.8517140746116638,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.45560123886732756,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1356968941764161540,
+        "created_at": "Wed Feb 03 14:13:01 +0000 2021",
+        "raw_text": "Če nekdo pripravlja državni udar, mora zasesti parlament, vlado in medije. Poleg vojaških državnih udarov obstajajo očitno še civilni. Pri teh medijev ni treba napadati.",
+        "lemma_text": "pripravljati državen udar zasesti parlament vlada medij vojaški državen udar obstajati očitno civilen medij treba napadati",
+        "hashtags": [],
+        "mentions": [
+            "Fitzroy1985",
+            "SmiljanPurger"
+        ],
+        "user": {
+            "name": "Vida Kokalj",
+            "screen_name": "VidaVida23",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.7357359528541565,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.4036732940239004,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1349061007205949440,
+        "created_at": "Tue Jan 12 18:29:43 +0000 2021",
+        "raw_text": "Ko nam predstavnik slovenske vojske razloži, da je novo letalo pravzaprav dron, končno razumem s čim se je Tonin želel igrati.",
+        "lemma_text": "predstavnik slovenski vojska razložiti nov letalo dron končno razumeti tonin igrati",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "sasatabakovic",
+            "screen_name": "sasatbelart",
+            "description": "theater. movie. music. art. belart."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.7833970785140991,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.5822255187487972,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1356677323349782536,
+        "created_at": "Tue Feb 02 18:54:14 +0000 2021",
+        "raw_text": "Popolnoma jasno je,zakaj je proti temu,da se na mejo napoti vojsko s pooblastili.Če se to zgodi,potem bo v mestih dovolj policistov,ki bodo skrbeli za red in take zlikavce,ki napadajo Ministrstvo za kulturo,društva,cerkve, in posameznike na desni zaprli.",
+        "lemma_text": "popolnoma jasen meja napotiti vojska pooblastilo zgoditi potem mesto dovolj policist skrbeti red zlikavec napadati ministrstvo kultura društvo cerkev posameznik desen zapreti",
+        "hashtags": [
+            "opozicija"
+        ],
+        "mentions": [],
+        "user": {
+            "name": "corel tone",
+            "screen_name": "CorelTone",
+            "description": "trenerkosarke"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.7025665044784546,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.5585103756255766,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1356950794495475713,
+        "created_at": "Wed Feb 03 13:00:54 +0000 2021",
+        "raw_text": "Pri preprečevanju nezakonitih migracij Slovenska vojska sodeluje že pet let!! Na podlagi sklepa Vlade RS pripadnice in pripadniki Slovenske vojske (SV) pri širšem varovanju državne meje s Policijo sodelujejo od 18. februarja 2016....",
+        "lemma_text": "preprečevanje nezakonit migracija slovenski vojska sodelovati leto podlaga sklep vlada rs pripadnica pripadnik slovenski vojska sv širok varovanje državen meja policija sodelovati februar",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "vfokusu.com",
+            "screen_name": "VfokusuS",
+            "description": "domovinski spletni časopis v fokusu o tem, kar je pomembno doma, na tujem, pri sosedu, v eu ali pa čez veliko lužo. o politiki, gospodarstvu, kulturi, športu..."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.7644492983818054,
+            "topic_bias": "desno",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.74443136030629,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1357856537662943233,
+        "created_at": "Sat Feb 06 01:00:00 +0000 2021",
+        "raw_text": "Slovenska vojska bo pomagala pri izvedbi svetovnega prvenstva na Pokljuki Okrog 100 pripadnic in pripadnikov Slovenske vojske bo v okviru civilno-vojaškega sodelovanja zagotovilo podporo letošnjemu svetovnemu prvenstvu v biatlonu na...",
+        "lemma_text": "slovenski vojska pomagati izvedba svetoven prvenstvo pokljuka pripadnica pripadnik slovenski vojska okvir civilen vojaški sodelovanje zagotoviti podpora letošnji svetoven prvenstvo biatlon",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "vfokusu.com",
+            "screen_name": "VfokusuS",
+            "description": "domovinski spletni časopis v fokusu o tem, kar je pomembno doma, na tujem, pri sosedu, v eu ali pa čez veliko lužo. o politiki, gospodarstvu, kulturi, športu..."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.8582038283348083,
+            "topic_bias": "desno",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.5755757861991475,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1359668476529553410,
+        "created_at": "Thu Feb 11 01:00:00 +0000 2021",
+        "raw_text": "Tragedija v slovenski vojski: 41-letni Aleš umrl v učilnici Slovenska vojska je sporočila, da je v sredo pred začetkom rednega usposabljanja na šoli za podčastnike v mariborski Kadetnici umrl 41-letni pripadnik Slove...",
+        "lemma_text": "tragedija slovenski vojska leten aleš umreti učilnica slovenski vojska sporočiti sreda začetek reden usposabljanje šola podčastnik mariborski kadetnica umreti leten pripadnik slova",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "vfokusu.com",
+            "screen_name": "VfokusuS",
+            "description": "domovinski spletni časopis v fokusu o tem, kar je pomembno doma, na tujem, pri sosedu, v eu ali pa čez veliko lužo. o politiki, gospodarstvu, kulturi, športu..."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.967614471912384,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.6011886620854747,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1345828134537617409,
+        "created_at": "Sun Jan 03 20:23:26 +0000 2021",
+        "raw_text": "Pripadniki Slovenske vojske vojaško službo opravljamo predano, požrtvovalno in strokovno. Svoje poslanstvo uresničujemo in naloge opravljamo v ponos svojih podrejenih, nadrejenih, Slovenski vojski, domovini in družini.",
+        "lemma_text": "pripadnik slovenski vojska vojaški služba opravljati predan požrtvovalen strokovno poslanstvo uresničevati naloga opravljati ponos podrejen nadrejen slovenski vojska domovina družina",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Mitja🇸🇮",
+            "screen_name": "ArmyFitnessLife",
+            "description": "the world is a dangerous place, not because of those who do evil, but because of those who look on and do nothing."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.9401147365570068,
+            "topic_bias": "desno",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.5961060146612075,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1356352524412977153,
+        "created_at": "Mon Feb 01 21:23:36 +0000 2021",
+        "raw_text": "Kljub vsemu brez slovenskih poimenovanj občin in krajev plebiscitarnega območja.",
+        "lemma_text": "slovenski poimenovanje občina kraj plebiscitaren območje",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "DK",
+            "screen_name": "DarinkaKocjan",
+            "description": ""
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.6662049293518066,
+            "topic_bias": null,
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.671266550225965,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1352694804329717760,
+        "created_at": "Fri Jan 22 19:09:07 +0000 2021",
+        "raw_text": "Oni bi tudi v primeru napada in okupacije Kitajcev protestirali proti Janši.",
+        "lemma_text": "primer napad okupacija kitajec protestirati janša",
+        "hashtags": [],
+        "mentions": [
+            "DKopse"
+        ],
+        "user": {
+            "name": "Vid Strehar ne mara #moralisticnih #pofuklnov",
+            "screen_name": "vidstrehar",
+            "description": "»in ko ne bodo vladali, dodajam, takrat bodo protestirali in pozivali k smrti tistih, ki vladajo, pa niso iz njihovih vrst.« ivan kramberger, 1992"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.5264126062393188,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.41438845659866086,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1349377866706915329,
+        "created_at": "Wed Jan 13 15:28:48 +0000 2021",
+        "raw_text": "Ta vlada dela odlično, odlični ministri",
+        "lemma_text": "vlada delati odlično odličen minister",
+        "hashtags": [],
+        "mentions": [
+            "Demokracija1",
+            "JernejVrtovec"
+        ],
+        "user": {
+            "name": "Bojan Škec 🇸🇮",
+            "screen_name": "BojanSkec",
+            "description": ""
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.97430419921875,
+            "topic_bias": "desno",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.4548168066225354,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1349394766744723456,
+        "created_at": "Wed Jan 13 16:35:57 +0000 2021",
+        "raw_text": "Priložnost dela tatu. Če imaš orožje, boš kdaj pomislil na uporabo. Če ga nimaš, pa ne boš. Tko da orožja ne rabimo. Če ga imajo kriminalci se nate ne bodo spravili, če nisi v istem zosu. Če si, boš pa orožje imel tako ali tako.",
+        "lemma_text": "priložnost delati tat imeti orožje kdaj pomisliti uporaba imeti tko orožje rabiti imeti kriminalec spraviti nis zos orožje imeti",
+        "hashtags": [],
+        "mentions": [
+            "ferdofalir",
+            "_wupe",
+            "ciro_ciril",
+            "lobnikar",
+            "speedbaler"
+        ],
+        "user": {
+            "name": "Robert Koritnik",
+            "screen_name": "robertkoritnik",
+            "description": "sometimes i do, but other times i just don't."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.6280331015586853,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.4016924608048114,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1349671429986508800,
+        "created_at": "Thu Jan 14 10:55:19 +0000 2021",
+        "raw_text": "Napasti bi jo morali možje v belih jopičih in ji pokazati \"etažni načrt\" Polja.",
+        "lemma_text": "napasti mož bel jopič pokazati etažen načrt polje",
+        "hashtags": [],
+        "mentions": [
+            "all4_one4all",
+            "JJansaSDS"
+        ],
+        "user": {
+            "name": "Peter Kodermac",
+            "screen_name": "PKodermac",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.92582106590271,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.48448591814045017,
+            "party_bias": "levo",
+            "party_mentioned": "SDS"
+        }
+    },
+    {
+        "id": 1349767376003338247,
+        "created_at": "Thu Jan 14 17:16:34 +0000 2021",
+        "raw_text": "Sredi razglašene epidemije je klovn na mestu PV sam vrgel puško v koruzo. Puško je našel en Korl, a ima zvito cev in strelja nazaj. Kljub temu zatrjuje, da jo bo v petek sprožil.",
+        "lemma_text": "razglašen epidemija klovn mesto pv sam vreči puška koruza puška najti korl imeti zvit cev streljati nazaj zatrjevati petek sprožiti",
+        "hashtags": [],
+        "mentions": [
+            "DKosir7"
+        ],
+        "user": {
+            "name": "Frenk Mate 🏡",
+            "screen_name": "FrenkMate",
+            "description": "nikoli ni prepozno."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.568391740322113,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.4024756815662833,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1381168452749131776,
+        "created_at": "Sun Apr 11 08:53:14 +0000 2021",
+        "raw_text": "Res je Jeretič, za take odločitve potrebuješ legitimnost, hunta, na oblasti v Sloveniji, je nima. Ostane ji represija.",
+        "lemma_text": "jeretič odločitev potrebovati legitimnost hunta oblast slovenija imeti ostati represija",
+        "hashtags": [],
+        "mentions": [
+            "NeuroVirtu",
+            "ZigaTurk"
+        ],
+        "user": {
+            "name": "gastarbeitr👳🏻‍♂️🇧🇫🇸🇰🌍",
+            "screen_name": "gastarbeitr",
+            "description": "multikulturni proletarec poznega kapitalizma. kulturni kiber-marksist postkibernetske dobe. sorošev plačanec na čakanju, ki plačuje rtv prispevek. neobaustelle."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.8709489107131958,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.43909108331616187,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1381205335533305858,
+        "created_at": "Sun Apr 11 11:19:48 +0000 2021",
+        "raw_text": "Od vsega začetka so vodili revolucijo in ne odpor proti okupatorju tako tudi dandanes izredne razmere (epidemija) izkoriščajo za svoje potrebe in cilje",
+        "lemma_text": "začetek voditi revolucija odpor okupator dandanes izreden razmera epidemija izkoriščati potreba cilj",
+        "hashtags": [],
+        "mentions": [
+            "kobealojz",
+            "cikibucka",
+            "JKranjcan"
+        ],
+        "user": {
+            "name": "Majda 🇸🇮",
+            "screen_name": "MajdarMay",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.8439307808876038,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.43787293133631694,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1350941032419045381,
+        "created_at": "Sun Jan 17 23:00:16 +0000 2021",
+        "raw_text": "Me čudi, da v Washington ne razporedijo še tankov in jim nad glavami ne letajo jurišni helikopterji. Ko so potrebovali dovolj policistov in vojakov, jih ni bilo, zdaj pa zbirajo vojske, kot da bodo republikanci napadli z najmanj osmimi divizijami.",
+        "lemma_text": "čuditi washington razporediti tank glava letati jurišen helikopter potrebovati dovolj policist vojak zdaj zbirati vojska republikanec napasti najmanj divizija",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Sašo Ornik",
+            "screen_name": "jinaver",
+            "description": "pišem blog jinov svet v angleščini na medium , najdete me tudi na vkontakte"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.8443514704704285,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.533902471116549,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1351437401202323457,
+        "created_at": "Tue Jan 19 07:52:39 +0000 2021",
+        "raw_text": "Zadnja kepica njene morale se je stopila, ko je dvignila noge za mladega policista. Seveda, v samoobrambi Tista kepica pa je izginila pod kirurškim nožem. Dokaz, da za lastno rit korist tudi ubija.",
+        "lemma_text": "zadnji kepica stopiti dvigniti noga mlad policist samoobramba kepica izginiti kirurški nož dokaz lasten rit korist ubijati",
+        "hashtags": [],
+        "mentions": [
+            "all4_one4all"
+        ],
+        "user": {
+            "name": "DusanPolanc",
+            "screen_name": "wildduckMb",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9571065306663513,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.41049470213701583,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1351242638868029441,
+        "created_at": "Mon Jan 18 18:58:44 +0000 2021",
+        "raw_text": "Levičarji: Mi sovražimo ograje in orožje! Tudi levičarji: Pošljite oborožene vojake, da zavarujete Washington in postavite ograje, da preprečite ljudem vstop.",
+        "lemma_text": "levičar sovražiti ograja orožje levičar poslati oborožen vojak zavarovati washington postaviti ograja preprečiti človek vstop",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Franca 🇸🇮",
+            "screen_name": "slovenskipanter",
+            "description": "oče, slovenec, karantanec"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9214136600494385,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.4410319183531087,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1351555074770821121,
+        "created_at": "Tue Jan 19 15:40:15 +0000 2021",
+        "raw_text": "Vam kar škoduje, tako ste pametni. Mogoče pa so jih zavrgli ali izgubili naši starši a ne? In če izgubiš rojstni list, lahko pridobiš duplikat. Kar s cepivi ni tako. Kar poizkusite pridobiti podatke o vašem cepljenju in nam potem povejte kaj brihtnega.",
+        "lemma_text": "škodovati pameten mogoče zavreči izgubiti starš izgubiti rojsten list lahko pridobiti duplikat cepivo poizkusiti pridobiti podatek cepljenje potem povedati brihten",
+        "hashtags": [],
+        "mentions": [
+            "zagar_slana",
+            "DarkoErmenc",
+            "free_RTVSLO"
+        ],
+        "user": {
+            "name": "King Qobra #WeAreTrump",
+            "screen_name": "KingKob53313520",
+            "description": "empat, dr.lajfa, psiholog z naravnimi danostmi, ženskega spola, da ne bo dileme, krvna grupa 0 negativna, se pravi extraterrestrial, first blood."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.7248652577400208,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.5152728055198613,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1351647109855006722,
+        "created_at": "Tue Jan 19 21:45:58 +0000 2021",
+        "raw_text": "To vojsko komandira še stari precednik. Zato vprašam...",
+        "lemma_text": "vojska komandirati star precednik vprašati",
+        "hashtags": [],
+        "mentions": [
+            "MarkoPavlisic",
+            "ScutumFideiNews"
+        ],
+        "user": {
+            "name": "Jože Gašparič",
+            "screen_name": "jozegas",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.6405810117721558,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.6234988086408478,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1351646665820811265,
+        "created_at": "Tue Jan 19 21:44:12 +0000 2021",
+        "raw_text": "Vojska ali nacionalna garda? Recimo da je razlika... Kot malo bolje oborožena policija..",
+        "lemma_text": "vojska nacionalen garda reči razlika malo dobro oborožen policija",
+        "hashtags": [],
+        "mentions": [
+            "MarkoPavlisic"
+        ],
+        "user": {
+            "name": "Andrej",
+            "screen_name": "Andrej43735439",
+            "description": ""
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.7643269300460815,
+            "topic_bias": null,
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.6102440139110061,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1351662797537603588,
+        "created_at": "Tue Jan 19 22:48:18 +0000 2021",
+        "raw_text": "Nekateri se zavzemajo, da je treba hitro cepiti policiste, vojake in učitelje. Dobra ideja.",
+        "lemma_text": "zavzemati treba hitro cepiti policist vojak učitelj dober ideja",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Dejan Flašker",
+            "screen_name": "DeFlasker",
+            "description": "currently slovene diplomat at the permrep to the psc eu in brussels. družinski oče, krščanski podjetnik. & rt= { }. not giving up."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.6915616393089294,
+            "topic_bias": "desno",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.4921366927755665,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1351502366533705730,
+        "created_at": "Tue Jan 19 12:10:48 +0000 2021",
+        "raw_text": "Direktorat za obrambno politiko Ministrstva za obrambo je 18. januarja 2021 predal namensko humanitarno pomoč Rdečega križa Slovenije območni izpostavi Rdečega križa občine Kostajnica v Republiki Srbski, Bosna in Hercegovina",
+        "lemma_text": "direktorat obramben politika ministrstvo obramba januar predati namenski humanitaren pomoč rdeč križ slovenija območen izpostava rdeč križ občina kostajnica republika srbski bosna hercegovina",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Ministrstvo za obrambo RS",
+            "screen_name": "MO_RS",
+            "description": "twitta: služba za strateško komuniciranje mo"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.9056116342544556,
+            "topic_bias": "desno",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.42806979700943565,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1346929403771539459,
+        "created_at": "Wed Jan 06 21:19:29 +0000 2021",
+        "raw_text": "V imenu vseh Slovencev TAKOJ OBSODITE dogajanje v ZDA! Takojšen odziv je nujen za obstoj sveta, kot ga poznamo!!!",
+        "lemma_text": "ime slovenec takoj obsoditi dogajanje zda takojšen odziv nujen obstoj svet poznati",
+        "hashtags": [],
+        "mentions": [
+            "vladaRS",
+            "strankaSDS",
+            "StrankaSMC",
+            "NovaSlovenija"
+        ],
+        "user": {
+            "name": "Rok Zagar",
+            "screen_name": "rokzagar",
+            "description": "do i need to care? i don't."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.7524397969245911,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.45614518581099317,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1345435845361328128,
+        "created_at": "Sat Jan 02 18:24:37 +0000 2021",
+        "raw_text": "Za to, da tako poka rabiš v naselju le enega do dva primitivca na blok. In ja, prepričan sem, da pirotehniko uporablja veliko manj, kot 20% populacije. In zakaj bi teh nekaj primitivcev teroriziralo večino?",
+        "lemma_text": "pok rabiti naselje primitivec blok prepričan pirotehnika uporabljati veliko manj populacija primitivec terorizirati večina",
+        "hashtags": [],
+        "mentions": [
+            "PrometejDD",
+            "surfon",
+            "xmp125a",
+            "ZigaTurk",
+            "LahovnikMatej"
+        ],
+        "user": {
+            "name": "Tilen",
+            "screen_name": "tiskraba",
+            "description": "pasji človek. idealist po neuspešnem odvajanju. pristal trdno na tleh. 'nekaj ti moram povedati' ... roza ima prav!"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9027549028396606,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.46463857888023424,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1356653640472293377,
+        "created_at": "Tue Feb 02 17:20:07 +0000 2021",
+        "raw_text": "Dejansko dobro vprašanje, zakaj so imeli vse čete in večje vojne formacije politične komisarje. Kaj delajo ti v osvobodilne boju zoper tujega okupatorja?",
+        "lemma_text": "dejanski dober vprašanje imeti četa velik vojen formacija političen komisar delati osvobodilen boj tuj okupator",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "drustvohudajama45",
+            "screen_name": "DrustvoHudajama",
+            "description": "mara lončar me and my whole family was killed by the communists in 1942."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.6277695894241333,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.4742740448812848,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1360936690202906624,
+        "created_at": "Sun Feb 14 12:59:26 +0000 2021",
+        "raw_text": "Če pravilno ne ovrednotiš zgodovine, prisegaš na laži , ne poznaš resnične zgodovine in je ne obsodiš, se ta lahko ponovi. Hočejo zopet jemati kmetom zemljo in podjetja nacionalizirati?",
+        "lemma_text": "pravilno ovrednotiti zgodovina prisegati laž poznati resničen zgodovina obsoditi lahko ponoviti jemati kmet zemlja podjetje nacionalizirati",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "drustvohudajama45",
+            "screen_name": "DrustvoHudajama",
+            "description": "mara lončar me and my whole family was killed by the communists in 1942."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9580487608909607,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.467993427816307,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1361953448237883393,
+        "created_at": "Wed Feb 17 08:19:40 +0000 2021",
+        "raw_text": "V Hudi jami so ubijali samo Slovenci, prvi bataljon tretje brigade KNOJ-a, ki je v Celju izvrševal likvidacije po naročilu OZNE. Bataljon je vodil Benjamin Žižmond.",
+        "lemma_text": "hud jama ubijati slovenec bataljon brigada knoje celje izvrševati likvidacija naročilo ozne bataljon voditi benjamin žižmond",
+        "hashtags": [],
+        "mentions": [
+            "KErdlen",
+            "Uskok_",
+            "recina790"
+        ],
+        "user": {
+            "name": "drustvohudajama45",
+            "screen_name": "DrustvoHudajama",
+            "description": "mara lončar me and my whole family was killed by the communists in 1942."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9341026544570923,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.6244264894522761,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1368147579360444417,
+        "created_at": "Sat Mar 06 10:32:56 +0000 2021",
+        "raw_text": "Kako se sliši to že doživeto. Povojne revolucionarne čistke, povojne poboje, po vzoru sovjetske revolucije, je ukazalo jugoslovansko partijsko vodstvo. Ubijaj ali boš odgovarjal. Policijski sindikat: Napadaj Janšo ali pa boš odgovarjal!",
+        "lemma_text": "slišati doživet povojen revolucionaren čistka povojen poboj vzor sovjetski revolucija ukazati jugoslovanski partijski vodstvo ubijati odgovarjati policijski sindikat napadaj janša odgovarjati",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "drustvohudajama45",
+            "screen_name": "DrustvoHudajama",
+            "description": "mara lončar me and my whole family was killed by the communists in 1942."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9462387561798096,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.4243971687203891,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1364229811720376323,
+        "created_at": "Tue Feb 23 15:05:07 +0000 2021",
+        "raw_text": "Zadnji domobranski juriš iz Teharske krvave arene via",
+        "lemma_text": "zadnji domobranski juriš teharski krvav arena via",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Marijan Turjan",
+            "screen_name": "MTurjan",
+            "description": "sin borca od 42tega, 90tega zvedel, da sta najboljša prijatelja »udbaša«, ki sta ga čuvala, ker so mu partizani ubili mamo in brata. kasneje naredil samomor."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.8285306096076965,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.511575497633281,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1364256238134063104,
+        "created_at": "Tue Feb 23 16:50:08 +0000 2021",
+        "raw_text": "Odbor za obrambo odločil: Politične agitacije na višještabnem tečaju častnikov Slovenske vojske ni bilo via",
+        "lemma_text": "odbor obramba odločiti političen agitacija višještaben tečaj častnik slovenski vojska via",
+        "hashtags": [],
+        "mentions": [
+            "Nova24TV"
+        ],
+        "user": {
+            "name": "PotepuškiPenzionist",
+            "screen_name": "potepuski",
+            "description": ""
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.38245800137519836,
+            "topic_bias": null,
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.6402364150262013,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1347433863933530113,
+        "created_at": "Fri Jan 08 06:44:01 +0000 2021",
+        "raw_text": "5. novembra 2020 so bili protesti ali nasilno rušenje vlade? Narod naš dokaze hrani.",
+        "lemma_text": "november protest nasilen rušenje vlada narod dokaz hraniti",
+        "hashtags": [],
+        "mentions": [
+            "p_zoran",
+            "Svarun_K"
+        ],
+        "user": {
+            "name": "Janez Mežnarec",
+            "screen_name": "JanezMeznarec",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.7093179225921631,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.5583173372174465,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1364147965359755264,
+        "created_at": "Tue Feb 23 09:39:54 +0000 2021",
+        "raw_text": "Odbor za obrambo odločil: Politične agitacije na višještabnem tečaju častnikov Slovenske vojske ni bilo via",
+        "lemma_text": "odbor obramba odločiti političen agitacija višještaben tečaj častnik slovenski vojska via",
+        "hashtags": [],
+        "mentions": [
+            "Nova24TV"
+        ],
+        "user": {
+            "name": "Janez Mežnarec",
+            "screen_name": "JanezMeznarec",
+            "description": ""
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.38245800137519836,
+            "topic_bias": null,
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.7088035379535798,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1362868005886115841,
+        "created_at": "Fri Feb 19 20:53:48 +0000 2021",
+        "raw_text": "Sodišča bi morala biti pri nas ljudska, tako kot policija oziroma milica. Ali to drži?",
+        "lemma_text": "sodišče ljudski policija milica držati",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Primož Kovačič🚵‍♂️",
+            "screen_name": "Primoz_Kovacic",
+            "description": "sem, kot sem. i am as i am. (carpe diem hic et nunc.)"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.5563308596611023,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.5535342407932176,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1346389504895102976,
+        "created_at": "Tue Jan 05 09:34:07 +0000 2021",
+        "raw_text": "Orozje Levice: vse sterat z bajoneti v morje. (Kordišev citat)",
+        "lemma_text": "orozje levica sterati bajonet morje kordišev citat",
+        "hashtags": [],
+        "mentions": [
+            "JurePoglajen",
+            "anarhistM"
+        ],
+        "user": {
+            "name": "Ambroz",
+            "screen_name": "ambrozd",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.7426672577857971,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.4764763442167926,
+            "party_bias": "desno",
+            "party_mentioned": "Levica"
+        }
+    },
+    {
+        "id": 1346402995920138240,
+        "created_at": "Tue Jan 05 10:27:43 +0000 2021",
+        "raw_text": "Ob 100 – letnici kitajske komunistične partije se kitajska vojska pripravlja “na boj”",
+        "lemma_text": "letnica kitajski komunističen partija kitajski vojska pripravljati boj",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Nova24TV",
+            "screen_name": "Nova24TV",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.805652379989624,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.46311266997156403,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1350723860455424001,
+        "created_at": "Sun Jan 17 08:37:18 +0000 2021",
+        "raw_text": "Varnost je še posebej okrepljena v Washingtonu, kjer bo v sredo inavguracija: za varnost skrbi okoli 20.000 pripadnikov nacionalne garde ter več tisoč policistov.",
+        "lemma_text": "varnost posebej okrepljen washington kjer sreda inavguracija varnost skrbeti pripadnik nacionalen garda več policist",
+        "hashtags": [
+            "ZDA"
+        ],
+        "mentions": [],
+        "user": {
+            "name": "Delo",
+            "screen_name": "Delo",
+            "description": "osrednji slovenski časnik. novinarske vsebine. tiskane in digitalne."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.5557166337966919,
+            "topic_bias": "desno",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.7168309191063794,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1346960799257014275,
+        "created_at": "Wed Jan 06 23:24:14 +0000 2021",
+        "raw_text": "Novinarju so zlomili čeljust. Med drugim. In kar nekaj policistov je bilo poškodovanih med protesti.",
+        "lemma_text": "novinar zlomiti čeljust policist poškodovan protest",
+        "hashtags": [],
+        "mentions": [
+            "KatarinaJenko",
+            "xmp125a"
+        ],
+        "user": {
+            "name": "Jan 🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+            "screen_name": "janponiz",
+            "description": "daily jumps into moscow, kiev, istanbul, cape town,.... then back to douglas adams, politics, etc. 010001000110111101101110001001110111010000100000011100"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9668352603912354,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.4857107162165997,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1359593687139946510,
+        "created_at": "Wed Feb 10 20:02:49 +0000 2021",
+        "raw_text": "Pa smo! Tej vojni se pravi specialna vojna. In predvsem ima namen slabiti moralo nasprotnika! V našem primeru Slovencev!",
+        "lemma_text": "vojna praviti specialen vojna imeti namen slabiti nasprotnik primer slovenec",
+        "hashtags": [],
+        "mentions": [
+            "BizjakSelma"
+        ],
+        "user": {
+            "name": "Blog Slovenija🇸🇮",
+            "screen_name": "BlogSlovenija",
+            "description": "pravzaprav nas je več. na linku je spisek vseh partizanskih poveljnikov v sloveniji. vredno pogleda!"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.8837951421737671,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.5084079109421512,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1366743068024713218,
+        "created_at": "Tue Mar 02 13:31:54 +0000 2021",
+        "raw_text": "Zadaj je Azem Vlasi. Kdo pa je tisti general polkovnik?",
+        "lemma_text": "zadaj azem vlasi general polkovnik",
+        "hashtags": [],
+        "mentions": [
+            "JKranjcan"
+        ],
+        "user": {
+            "name": "Blog Slovenija🇸🇮",
+            "screen_name": "BlogSlovenija",
+            "description": "pravzaprav nas je več. na linku je spisek vseh partizanskih poveljnikov v sloveniji. vredno pogleda!"
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.7055543661117554,
+            "topic_bias": null,
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.7741823787008512,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1345805516329668608,
+        "created_at": "Sun Jan 03 18:53:33 +0000 2021",
+        "raw_text": "Slava slavni domobranski vojski v obrambi pred komunizmom.",
+        "lemma_text": "slava slaven domobranski vojska obramba komunizem",
+        "hashtags": [],
+        "mentions": [
+            "MatjazKoren",
+            "PeterSloser"
+        ],
+        "user": {
+            "name": "milan bertram 🇸🇮🇸🇮🇸🇮",
+            "screen_name": "Milko121",
+            "description": "desno od levice"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.8504714965820312,
+            "topic_bias": "desno",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.9643671410661507,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1355808352169811968,
+        "created_at": "Sun Jan 31 09:21:15 +0000 2021",
+        "raw_text": "Ko sovražnik tako zapolni tvoje položaje, da te lahko reši samo še lastno topništvo",
+        "lemma_text": "sovražnik zapolniti položaj lahko rešiti lasten topništvo",
+        "hashtags": [],
+        "mentions": [
+            "Egon63036164",
+            "spagetyuse",
+            "MarkoSket"
+        ],
+        "user": {
+            "name": "milan bertram 🇸🇮🇸🇮🇸🇮",
+            "screen_name": "Milko121",
+            "description": "desno od levice"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.8262707591056824,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.582658247351237,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375697976895668225,
+        "created_at": "Sat Mar 27 06:35:31 +0000 2021",
+        "raw_text": "Vojsko je potegnil iz vseh okupiranih držav. Kako bi ti temu rekla?",
+        "lemma_text": "vojska potegniti okupiran država reči",
+        "hashtags": [],
+        "mentions": [
+            "Histra1111"
+        ],
+        "user": {
+            "name": "Eminent",
+            "screen_name": "TZnidarcic",
+            "description": "male"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.7618351578712463,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.6148703786527014,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375744645288894465,
+        "created_at": "Sat Mar 27 09:40:58 +0000 2021",
+        "raw_text": "\"... Rešili so nas poveljniki teritorialne obrambe, ki so zavrnili izpolnitev ukaza. Vlada nam človek, ki je bil leta 1994 pripravljen izvesti vojaški udar. Za takšnega človeka ni zakonov, ni ustave, ni morale...\" /3",
+        "lemma_text": "rešiti poveljnik teritorialen obramba zavrniti izpolnitev ukaz vlada človek leto pripravljen izvesti vojaški udar človek zakon ustava",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Blaž Zgaga",
+            "screen_name": "blaz_zgaga",
+            "description": "investigative journalist | & | among 30 coronavirus information heroes | dw freedom of speech award 2020 | for"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.944580614566803,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.5037349497831203,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1360582049728462856,
+        "created_at": "Sat Feb 13 13:30:13 +0000 2021",
+        "raw_text": "To se popolnoma strinjam, zakaj bi bila vojska obuta skoraj samo v japanke, brez vsega orožja, kot takrat, ko so nam skoraj za vrat dihali vojaki JNA. Poden od podna slovenskega parlamenta, da tako slabo skrbi za SVOJO VOJSKO.",
+        "lemma_text": "popolnoma strinjati vojska obut japanka orožje takrat vrat dihati vojak jna poden poden slovenski parlament slabo skrbeti vojska",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Franca 'spodklanca",
+            "screen_name": "nc0150148",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9576570987701416,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.5555737683093753,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1349035089917829123,
+        "created_at": "Tue Jan 12 16:46:43 +0000 2021",
+        "raw_text": "Se pravi za opremo vojske ne, plače policistov 8000 eur pa ja?",
+        "lemma_text": "praviti oprema vojska plača policist eur",
+        "hashtags": [],
+        "mentions": [
+            "strankalevica"
+        ],
+        "user": {
+            "name": "zeleni.jurij45",
+            "screen_name": "ZJurij45",
+            "description": "preprost kmečki fant"
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.8097952008247375,
+            "topic_bias": null,
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.4970344102320629,
+            "party_bias": "nevtralno",
+            "party_mentioned": "Levica"
+        }
+    },
+    {
+        "id": 1350198164184313861,
+        "created_at": "Fri Jan 15 21:48:22 +0000 2021",
+        "raw_text": "Epidemije bo enkrat konec ne glede na to, kdo bo na vladi. Gre za aktiviranje vsega prebivalstva na enkrat, da se vsi čim bolj držijo ukrepov in se cepijo. To je tako, kot reči, da so partizani zmagali. Zmagali so zavezniki in CCCP, in juga bi bila osvobojena tudi brez partizanov",
+        "lemma_text": "epidemija enkrat konec glede vlada iti aktiviranje prebivalstvo enkrat bolj držati ukrep cepiti reči partizan zmagati zmagati zaveznik cccp jug osvobojen partizan",
+        "hashtags": [],
+        "mentions": [
+            "MetkaSmole"
+        ],
+        "user": {
+            "name": "Štefka Popit",
+            "screen_name": "PopitStefka",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.548137366771698,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.41604421936971114,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1350128248680820737,
+        "created_at": "Fri Jan 15 17:10:33 +0000 2021",
+        "raw_text": "A ni tko da Jajo in skos napada medije, da so pripomogli k sirjenju epidemije? Kako si pa vrhovna poveljnika razlagata to?",
+        "lemma_text": "tko jajo skos napadati medij pripomoči sirjenje epidemija vrhoven poveljnik razlagati",
+        "hashtags": [],
+        "mentions": [
+            "AlenkaJerajSDS"
+        ],
+        "user": {
+            "name": "Stane 🇸🇮",
+            "screen_name": "_staniel_",
+            "description": "you can only have informed opinion. we should all give more shit about everything"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9378268718719482,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.5632499823997059,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1351671296187392000,
+        "created_at": "Tue Jan 19 23:22:04 +0000 2021",
+        "raw_text": "Če bo vojska na meji, potem ne bo migrantov v notranjosti, posledično niti ni potrebe za “”vojsko z mitraljezi” v notranjosti države. Ne pomisli na to?",
+        "lemma_text": "vojska meja potem migrant notranjost posledično potreba vojska mitraljez notranjost država pomisliti",
+        "hashtags": [],
+        "mentions": [
+            "Ale90345415",
+            "all4_one4all"
+        ],
+        "user": {
+            "name": "Matevž",
+            "screen_name": "Matevz007",
+            "description": "mož, oče dveh otrok, pravnik, zaposlen, prispevke si plačujem sam,...."
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.5347921252250671,
+            "topic_bias": null,
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.5581797977695857,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1365955536496324608,
+        "created_at": "Sun Feb 28 09:22:32 +0000 2021",
+        "raw_text": "Slovenec, ki je zaradi jugoslovanske vojske postal Nemec, nato pa šokiral Barcelono via",
+        "lemma_text": "slovenec jugoslovanski vojska postati nemec nato šokirati barcelona via",
+        "hashtags": [],
+        "mentions": [
+            "SiolNEWS"
+        ],
+        "user": {
+            "name": "PotepuškiPenzionist",
+            "screen_name": "potepuski",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9327922463417053,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.4905738029445686,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1367179302861701124,
+        "created_at": "Wed Mar 03 18:25:21 +0000 2021",
+        "raw_text": "Varnostne sile so danes ubile najmanj 38 protestnikov proti vojaški hunti.",
+        "lemma_text": "varnosten sila danes ubiti najmanj protestnik vojaški hunta",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Delo",
+            "screen_name": "Delo",
+            "description": "osrednji slovenski časnik. novinarske vsebine. tiskane in digitalne."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.8738245964050293,
+            "topic_bias": "levo",
+            "topic_mentioned": "militarizem",
+            "topic_score": 0.49234987068123715,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    }
+]

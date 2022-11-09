@@ -1,5 +1,5 @@
 {
-    "lgbtq": {
+    "lgbt": {
         "negative": 1,
         "positive": 0
     },
@@ -18,6 +18,22 @@
     "levo": {
         "negative": 1,
         "positive": 0
+    },
+    "krscanstvo": {
+        "negative": 0,
+        "positive": 1
+    },
+    "militarizem": {
+        "negative": 0,
+        "positive": 1
+    },
+    "varnost": {
+        "negative": 0,
+        "positive": 1
+    },
+    "denacionalizacija": {
+        "negative": 0,
+        "positive": 1
     },
     "desno": {
         "negative": 0,

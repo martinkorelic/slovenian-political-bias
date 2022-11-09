@@ -46,7 +46,7 @@
         "kratica_stranke": "DeSUS",
         "usmerjenost": 0,
         "ime_usmerjenost": "levo",
-        "clani": ["stranka_DeSUS", "strankaDeSUS"]
+        "clani": ["stranka_DeSUS"]
     },
     {
         "ime_stranke": "Slovenska nacionalna stranka",

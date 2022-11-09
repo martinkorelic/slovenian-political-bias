@@ -1,0 +1,1938 @@
+[
+    {
+        "id": 1375330729400360964,
+        "created_at": "Fri Mar 26 06:16:12 +0000 2021",
+        "raw_text": "Denar ima. Del prestrukturiranja bo zato tudi dezinvestiranje...",
+        "lemma_text": "denar imeti del prestrukturiranje zato dezinvestiranje",
+        "hashtags": [],
+        "mentions": [
+            "miropusnik"
+        ],
+        "user": {
+            "name": "Gregor Golobič",
+            "screen_name": "ZaresGregor",
+            "description": ""
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.649880051612854,
+            "topic_bias": null,
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.7292823291951182,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375191650956361729,
+        "created_at": "Thu Mar 25 21:03:34 +0000 2021",
+        "raw_text": "Daj zbudi se, velika večina ni delala nič, razen kasirala denar , ki je last gospodarstva in privat sektorja.",
+        "lemma_text": "dati zbuditi velik večina delati kasirati denar last gospodarstvo privat sektor",
+        "hashtags": [],
+        "mentions": [
+            "Tadej09054759",
+            "LahovnikMatej"
+        ],
+        "user": {
+            "name": "Janez Kotnik",
+            "screen_name": "JanezKotnik",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9326571822166443,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.884764105857141,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375434798731304971,
+        "created_at": "Fri Mar 26 13:09:45 +0000 2021",
+        "raw_text": "Zasebnistvo bi taksne prakse precistilo. Moral bi jih tudi javni sektor, saj ji nobenega izgovora za nasprotno.",
+        "lemma_text": "zasebnistvo taksen praksa precistiti javen sektor izgovor nasprotno",
+        "hashtags": [],
+        "mentions": [
+            "Blaz_88"
+        ],
+        "user": {
+            "name": "Anze",
+            "screen_name": "AnzeSk",
+            "description": ""
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.5327242016792297,
+            "topic_bias": null,
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.5498983387707143,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375885306642190340,
+        "created_at": "Sat Mar 27 18:59:54 +0000 2021",
+        "raw_text": "2TDK izbral \"super nadzor\" za največjo investicijo! Super drago bo! Nujno potrebujemo sklic komisije za nadzor javnih financ!",
+        "lemma_text": "2tdk izbrati super nadzor velik investicija super drago nujno potrebovati sklic komisija nadzor javen finance",
+        "hashtags": [
+            "aneksi"
+        ],
+        "mentions": [],
+        "user": {
+            "name": "Alenka Bratušek",
+            "screen_name": "ABratusek",
+            "description": "president of , deputy prime minister and minister of infrastructure 2018/20, prime minister 2013/14, member of parliament 2012/13, 2014/18 |"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.6822062730789185,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.478905574122406,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1376098241675137029,
+        "created_at": "Sun Mar 28 09:06:02 +0000 2021",
+        "raw_text": "Lahko, a brez državnih subvencij in poroštev pri kreditih",
+        "lemma_text": "lahko državen subvencija poroštvo kredit",
+        "hashtags": [],
+        "mentions": [
+            "SvobodaBlog",
+            "BojanPozar"
+        ],
+        "user": {
+            "name": "Traven Bine 😷",
+            "screen_name": "BineTraven",
+            "description": "go nsi!"
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.8020379543304443,
+            "topic_bias": null,
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.527119878097709,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384348422682054662,
+        "created_at": "Tue Apr 20 03:29:18 +0000 2021",
+        "raw_text": "Exxon pripravlja 100 milijard dolarjev vreden projekt za skladiščenje ogljika, ki zahteva javno in zasebno financiranje.",
+        "lemma_text": "exxon projekt zahtevati zaseben skladiščenje vreden dolar ogljik milijarda pripravljati financiranje javen",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "VitalSever",
+            "screen_name": "sever_vital",
+            "description": "mathematician, translator and journalist"
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.5639973878860474,
+            "topic_bias": null,
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.6405991556331863,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384379959528013825,
+        "created_at": "Tue Apr 20 05:34:37 +0000 2021",
+        "raw_text": "Vedno je problem, ko drugo pleme \"investira\". Nikoli državno \"investiranje\" samo.",
+        "lemma_text": "problem investirati nikoli investiranje državen pleme vedno",
+        "hashtags": [],
+        "mentions": [
+            "vasko_dagama"
+        ],
+        "user": {
+            "name": "Marko Krajnc",
+            "screen_name": "sodnik",
+            "description": "my nose my nose, my kingdom for a nose"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.8817349076271057,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.44610169517297127,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384515644826296322,
+        "created_at": "Tue Apr 20 14:33:47 +0000 2021",
+        "raw_text": "Ko starši poizkušajo, da projekt \"Greta\" ostane relavanten, se vtaknejo tudi v reševanje Covid krize.",
+        "lemma_text": "projekt kriza covid greta ostati relavanten reševanje starš vtakniti poizkušati",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Mandeljc",
+            "screen_name": "Mandeljc2",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.789151668548584,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.4505167668714969,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384525587864330246,
+        "created_at": "Tue Apr 20 15:13:18 +0000 2021",
+        "raw_text": "katera znanost, vladna v povezavi z korporacijami farmacije",
+        "lemma_text": "farmacija korporacija znanost vladen povezava",
+        "hashtags": [],
+        "mentions": [
+            "UrosEsih",
+            "MihaMarkic"
+        ],
+        "user": {
+            "name": "Denis Kristan",
+            "screen_name": "DenisKristan",
+            "description": ""
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.9498780965805054,
+            "topic_bias": null,
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.6793912527221514,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384810355772297216,
+        "created_at": "Wed Apr 21 10:04:52 +0000 2021",
+        "raw_text": "Strinjam al pa ne strinjam, nima veze. Realisti pač vemo, da je kreacija delovnih mest zgolj stranski produkt doseganja drugih ciljev. Noben ne bo investiral in se širil zato, da od tega ne bo imel nič oz. manj od netveganih naložb. Če si tvegana država, morš več subvencionirat.",
+        "lemma_text": "tvegan imeti investirati mesto oz. realist država naložba več netvegan veza strinjati cilj kreacija vedeti zato stranski deloven subvencionirata manj širiti produkt doseganje",
+        "hashtags": [],
+        "mentions": [
+            "Tomi__Ce",
+            "RobertSifrer",
+            "robilesnik"
+        ],
+        "user": {
+            "name": "Marjetica🌼",
+            "screen_name": "MarjeticaM",
+            "description": ""
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.46841147541999817,
+            "topic_bias": null,
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.5621602421820686,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384830002991140866,
+        "created_at": "Wed Apr 21 11:22:56 +0000 2021",
+        "raw_text": "Delničarji jutri o dividendi, višjem plačilu nadzornikov in novem novem nadzorniku",
+        "lemma_text": "dividenda delničar visok jutri plačilo nadzornik nov",
+        "hashtags": [],
+        "mentions": [
+            "petrol"
+        ],
+        "user": {
+            "name": "petra sovdat",
+            "screen_name": "petrasovdat",
+            "description": "journalist finance daily (). če ne morete tukaj petra.sovdat.si"
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.8318838477134705,
+            "topic_bias": null,
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.6438702450974242,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384928646297788418,
+        "created_at": "Wed Apr 21 17:54:54 +0000 2021",
+        "raw_text": "Državna podjetja upravlja politika. Edina rešitev je popolna privatizacija.",
+        "lemma_text": "upravljati rešitev politika popoln privatizacija podjetje državen edin",
+        "hashtags": [],
+        "mentions": [
+            "MarkoFerluga",
+            "necenzurirano_"
+        ],
+        "user": {
+            "name": "Frenk Mate 🏡",
+            "screen_name": "FrenkMate",
+            "description": "nikoli ni prepozno."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.5822831988334656,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.548270698919375,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384858631162798080,
+        "created_at": "Wed Apr 21 13:16:41 +0000 2021",
+        "raw_text": "Delničarji Petrola jutri o dividendi, višjem plačilu nadzornikov in novem novem nadzorniku",
+        "lemma_text": "dividenda delničar visok petrol jutri plačilo nadzornik nov",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Finance.si",
+            "screen_name": "finance_si",
+            "description": "sveže finančne, gospodarske in malo manj resne (a pomembne) informacije časnika finance, prvega poslovnega dnevnika v sloveniji."
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.8059090971946716,
+            "topic_bias": null,
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.4053116875485875,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384820240601784322,
+        "created_at": "Wed Apr 21 10:44:08 +0000 2021",
+        "raw_text": "Zelo ozek pogled na ekonomijo. Ekonomija niso (samo) tuja podjetja, ki investirajo v neko državo. Predvsem so to domača podjetja, ki v nekem okolju delujejo. Na njih bi morala država graditi svojo razvojno politiko. Nemško gospodarstvo temelji na podjetjih z nemškimi lastniki.",
+        "lemma_text": "ozek temeljiti delovati nemški investirati domač država okolje graditi politika ekonomija tuj zelo podjetje gospodarstvo razvojen lastnik pogled",
+        "hashtags": [],
+        "mentions": [
+            "MarjeticaM",
+            "RobertSifrer",
+            "robilesnik"
+        ],
+        "user": {
+            "name": "Tomi Cetinski",
+            "screen_name": "Tomi__Ce",
+            "description": "(bil sem) obseden s hribi."
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.5481329560279846,
+            "topic_bias": null,
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.6840005941389465,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1385259119788142592,
+        "created_at": "Thu Apr 22 15:48:05 +0000 2021",
+        "raw_text": ". No, fino bi bilo, da bi pri desni vladi država znižala davke in vzpostavila take pogoje, da bi motivirala privatne, zasebne akterje v investicije pri nas. Nekako smo se z osamosvojitvijo od Jugoslavije odločili, da imamo dovolj državnega dogovornega kapitalizma.",
+        "lemma_text": "imeti motivirati davek investicija jugoslavija pogoj akter zaseben dogovoren država no kapitalizem znižati vzpostaviti privaten desen odločiti državen fino dovolj vlada osamosvojitev",
+        "hashtags": [],
+        "mentions": [
+            "ASircelj"
+        ],
+        "user": {
+            "name": "Agent critique",
+            "screen_name": "rokjarc",
+            "description": "slovenec, pro lower taxes, anti duro maduro, preveč izboren okus, da bi me prepričali socialisti s svojo narativo kot tudi ne miličarji iz sds-a"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.4553208351135254,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.5263797389532595,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1385244608276336645,
+        "created_at": "Thu Apr 22 14:50:25 +0000 2021",
+        "raw_text": "Javni sektor \"se ni šel plačne orgije\". To je omogočila vlada.",
+        "lemma_text": "iti sektor orgija vlada plačen omogočiti javen",
+        "hashtags": [
+            "volivci",
+            "kruhainiger"
+        ],
+        "mentions": [
+            "Liberalec2"
+        ],
+        "user": {
+            "name": "Dobra država",
+            "screen_name": "DobraDrzava",
+            "description": "dobra država, drugačna politična stranka. za stranko tvita ožja ekipa v skladu z usmeritvijo stranke"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.46070030331611633,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.4941786472243555,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1350781089447600129,
+        "created_at": "Sun Jan 17 12:24:42 +0000 2021",
+        "raw_text": "Privatizacija je nelogična tistemu, ki se je pred temu 20 let ukvarjal z socialističnim samoupravljanjem. Noben ne trdi, da je bil Demos neomajen. Osamosvojitiv je bila uspešna, privatizacija pač ne. Levi se morajo navaditi, da sistem \"samo nam pripada vse\" v demokraciji ne dela",
+        "lemma_text": "privatizacija nelogičen leto ukvarjati socialističen samoupravljanje trditi demos neomajen osamosvojitiv uspešen privatizacija lev navaditi sistem pripadati demokracija delo",
+        "hashtags": [],
+        "mentions": [
+            "IgorSancin",
+            "pjur11",
+            "HanzaVon",
+            "Igor_Luksic",
+            "lojzepeterle",
+            "vladaRS"
+        ],
+        "user": {
+            "name": "Janez Kotar 🇸🇮🤝🇺🇸",
+            "screen_name": "JanezKotar",
+            "description": "antiboljševik, bolk, ,"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.8192774653434753,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.48778152539250985,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1365193042551074817,
+        "created_at": "Fri Feb 26 06:52:40 +0000 2021",
+        "raw_text": "Država z davčno politiko pomembno vpliva na centralizacijo, in uredi, da je biti v centru davčno bolj neugodno. Enaka možnost ima pri številnih razpisih. Pomembna je zgolj politična volja za spremembe. Tudi izven LJ so sposobni in pametni ljudje.",
+        "lemma_text": "država davčen politika pomembno vplivati centralizacija urediti center davčno bolj neugoden možnost imeti številen razpis pomemben političen volja sprememba lj sposoben pameten človek",
+        "hashtags": [],
+        "mentions": [
+            "ZigaTurk"
+        ],
+        "user": {
+            "name": "Bogdan Lipuš",
+            "screen_name": "bolipus",
+            "description": "software developer, programmer,scientiest, and runner..."
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.5580433011054993,
+            "topic_bias": null,
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.5552920285218372,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1362671826690846720,
+        "created_at": "Fri Feb 19 07:54:15 +0000 2021",
+        "raw_text": "Tudi lastništvo Politica in financiranje je mutno kot 100 mater.",
+        "lemma_text": "lastništvo politica financiranje mutno mati",
+        "hashtags": [],
+        "mentions": [
+            "JJansaSDS",
+            "vecer",
+            "Delo",
+            "Dnevnik_si"
+        ],
+        "user": {
+            "name": "Dare.K.",
+            "screen_name": "dareK74220923",
+            "description": "deplorable"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.8996416926383972,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.4066811703116488,
+            "party_bias": "levo",
+            "party_mentioned": "SDS"
+        }
+    },
+    {
+        "id": 1350137813606522882,
+        "created_at": "Fri Jan 15 17:48:33 +0000 2021",
+        "raw_text": "NVO v resnici daje le desna vlada: 0,5% dohodnine je prispevek desnih, 1,00% pa tudi. Registracija istosplonih skupnosti enako.",
+        "lemma_text": "nvo resnica dajati desen vlada dohodnina prispevek desen registracija istosplon skupnost",
+        "hashtags": [],
+        "mentions": [
+            "_TineB_",
+            "TinoMamic"
+        ],
+        "user": {
+            "name": "Vida Kokalj",
+            "screen_name": "VidaVida23",
+            "description": ""
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.9582903385162354,
+            "topic_bias": null,
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.41417734046755034,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1349302753076662274,
+        "created_at": "Wed Jan 13 10:30:19 +0000 2021",
+        "raw_text": "Objava policijskih plač je dokaz, da enotnega plačnega sistema v javnem sektorju že dolgo ni več. Ne bi bilo odveč, če bi objavili še podatke o plačah drugih delov javnega sektorja.",
+        "lemma_text": "objava policijski plača dokaz enoten plačen sistem javen sektor dolgo več odveč objaviti podatek plača del javen sektor",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Jože Tanko",
+            "screen_name": "TankoJoze",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.896054744720459,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.5764419576180253,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1349614716625309697,
+        "created_at": "Thu Jan 14 07:09:57 +0000 2021",
+        "raw_text": "Objavljene bi morale biti VSE plače v javnem sektorju, razen redkih izjem. Da se prepričamo o enem preprostem dejstvu. V Kapitalizmu je bogastvo zelo Neenakomerno razporejeno. Vendar je pa v Socializmu zelo Enakomerno razporejena revščina!",
+        "lemma_text": "objavljen plača javen sektor redek izjema prepričati preprost dejstvo kapitalizem bogastvo zelo neenakomerno razporejen socializem zelo enakomerno razporejen revščina",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Igor Gobec",
+            "screen_name": "IgorGobec",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.527747631072998,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.4188107917269706,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1349771261556232198,
+        "created_at": "Thu Jan 14 17:32:00 +0000 2021",
+        "raw_text": "Vlada si je samo pustila maneverski prostor, da jeseni na prostem trgu, ko bo panika pred sedmim valom epidemije, nabavi cepivo preko posrednikov. Ker to centralno plansko državno naročanje preko EU slabo vpliva na biznis in podjetniški duh v stranki vseh strank.",
+        "lemma_text": "vlada pustiti maneverski prostor jeseni prost trg panika val epidemija nabava cepivo posrednik centralen planski državen naročanje eu slabo vplivati biznis podjetniški duh stranka stranka",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "bojan krajnc",
+            "screen_name": "bojan_krajnc",
+            "description": "satire & parody."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.7892967462539673,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.5072933373929499,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1350005364088037376,
+        "created_at": "Fri Jan 15 09:02:15 +0000 2021",
+        "raw_text": "Imajo pa moč in oblast in so vtkane v vse družbene podsiteme in smetijo po družbi.",
+        "lemma_text": "imeti moč oblast vtkan družben podsitem smetiti družba",
+        "hashtags": [],
+        "mentions": [
+            "MarjetaPegam",
+            "RTV_Slovenija"
+        ],
+        "user": {
+            "name": "Roman Vodeb",
+            "screen_name": "RomanVodeb",
+            "description": "mislim, torej nekaj biva, a ni nujno, da sem to jaz"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.8860114812850952,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.4055689032097992,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1349823296972460032,
+        "created_at": "Thu Jan 14 20:58:47 +0000 2021",
+        "raw_text": "Forsiranje teh je perfidno kazanje oslov.... ne vladi, državljanom, plačnikom njihovih ne majhnih plač.",
+        "lemma_text": "forsiranje perfiden kazanje osel vlada državljan plačnik majhen plača",
+        "hashtags": [],
+        "mentions": [
+            "MilenkoZiherl1",
+            "ra1ZMKPyIHE4LVM",
+            "RTV_Slovenija"
+        ],
+        "user": {
+            "name": "Lara",
+            "screen_name": "kirka4850",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9301407933235168,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.4330995719364053,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1350397685761777664,
+        "created_at": "Sat Jan 16 11:01:12 +0000 2021",
+        "raw_text": "Če želi vlada pomagati ljudem, naj zniža davke. Ne pa da si ob visokih davkih izmišljuje vedno nove socialne transfere in subvencije.",
+        "lemma_text": "vlada pomagati človek znižati davek visok davek izmišljevati vedno nov socialen transfera subvencija",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "DOM",
+            "screen_name": "DomovinskaLiga",
+            "description": "najprej slovenija! za varnost in blaginjo slovenskih državljanov! za suvereno slovenijo v evropi domovin in svobode!"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9259944558143616,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.5228456959782525,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1350450339502239745,
+        "created_at": "Sat Jan 16 14:30:25 +0000 2021",
+        "raw_text": "Kdaj bo\"desnica\"v temeljih spremenila komunistični zdravstveni sistem?V majhni Švici imajo 100 privatnih zavarovalnic.Osebni zdravniki bi bili lahko vsi privat,bolnišnic pa vsaj 50%(v okviru javnega zdravstva dodajam za butaste slovenclje).Od desnice 30let ni bilo nobenega efekta",
+        "lemma_text": "kdaj desnica temelj spremeniti komunističen zdravstven sistem majhen švica imeti privaten zavarovalnica oseben zdravnik lahko privat bolnišnica okvir javen zdravstvo dodajati butast slovenclja desnica efekt",
+        "hashtags": [],
+        "mentions": [
+            "JJansaSDS",
+            "SpletnaMladina"
+        ],
+        "user": {
+            "name": "Tomaz Kavcic",
+            "screen_name": "TomazKavcic",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.8083862662315369,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.4251368008473669,
+            "party_bias": "levo",
+            "party_mentioned": "SDS"
+        }
+    },
+    {
+        "id": 1350444704534552577,
+        "created_at": "Sat Jan 16 14:08:02 +0000 2021",
+        "raw_text": "Državni dolg strmo narašča, gremo proti štirim milijardam ob tem da socialna kriza šele prihaja.",
+        "lemma_text": "državen dolg strmo naraščati iti milijarda socialen kriza prihajati",
+        "hashtags": [],
+        "mentions": [
+            "JanezPogorelec",
+            "rojnikigor"
+        ],
+        "user": {
+            "name": "bota112",
+            "screen_name": "bota112",
+            "description": "boštjan tavčar univerzitetni diplomirani inženir elektrotehnike - telekomunikacij"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9617233872413635,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.418663881893134,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1350819989582970880,
+        "created_at": "Sun Jan 17 14:59:17 +0000 2021",
+        "raw_text": "Samo to, da lastnik ne (z)more zamenjati nadzorni svet pa direktorja lastne firme (stasi d.oo),je pa praktično nerazumljivo.",
+        "lemma_text": "lastnik zamenjati nadzoren svet direktor lasten firma stasi praktično nerazumljiv",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Pure White",
+            "screen_name": "PureWhi34203517",
+            "description": "cod. 40.604 vse je zapisano v vesolju..."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9587620496749878,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.4846108755752052,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1381101211093499916,
+        "created_at": "Sun Apr 11 04:26:03 +0000 2021",
+        "raw_text": "Ne protestirajo ti na, sociali... Javni sektor in tisti, ko so dobro plačani...",
+        "lemma_text": "protestirati sociala javen sektor dobro plačan",
+        "hashtags": [],
+        "mentions": [
+            "RadioSLOVENEC"
+        ],
+        "user": {
+            "name": "Metka Smole",
+            "screen_name": "MetkaSmole",
+            "description": "knjige so izjemno nevarne,saj ljudi spodbujajo k razmišljanju-zato jih vsi diktatorji preganjajo"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.5437029600143433,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.7157779425178366,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1351608054790447104,
+        "created_at": "Tue Jan 19 19:10:46 +0000 2021",
+        "raw_text": "Res je. Čas je da ukinemo ta absurd financiranja \"ne-vladnih\" organizacij z državnim denarjem.",
+        "lemma_text": "čas ukiniti absurd financiranje vladen organizacija državen denar",
+        "hashtags": [],
+        "mentions": [
+            "Matej_Klaric"
+        ],
+        "user": {
+            "name": "Luka",
+            "screen_name": "LukaJeMojeIme",
+            "description": "\"vulgarni liberalec\", ekstremist svobode govora. i reserve the right to be mistaken."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.3784255385398865,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.43965361412984777,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1351478194248052737,
+        "created_at": "Tue Jan 19 10:34:45 +0000 2021",
+        "raw_text": "Vlada zvišuje minimalca. Zvišanje financira gospodarstvo. Zato vlada subvencionira dvig minimalca z denarjem (pazi to!) od gospodarstva. Ja bravo.",
+        "lemma_text": "vlada zviševati minimalec zvišanje financirati gospodarstvo vlada subvencionirati dvig minimalec denar paziti gospodarstvo",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Federico V. Potočnik",
+            "screen_name": "FVPotocnik",
+            "description": ", specializant infektologije v bivši medn. sekretar /predsednik /deputy sec gen made in buenos aires"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.8465200066566467,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.5436681849284869,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1356602567174856708,
+        "created_at": "Tue Feb 02 13:57:11 +0000 2021",
+        "raw_text": "Država je manj pobrala in tudi iz lastne (tudi evropske) malhe subvencionirala. Torej je še ob dodaten denar.",
+        "lemma_text": "država manj pobrati lasten evropski malha subvencionirati dodaten denar",
+        "hashtags": [],
+        "mentions": [
+            "MatijaStepisnik"
+        ],
+        "user": {
+            "name": "Marko Pigac",
+            "screen_name": "markopigac",
+            "description": "ceo of mp produkcija | | pro photographer | photoreporter | sports, comics, music enthusiast | wedding, fashion, art & stock photography."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.7714076042175293,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.550211814792358,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1346754392041652225,
+        "created_at": "Wed Jan 06 09:44:03 +0000 2021",
+        "raw_text": "Vlada poenostavljenega javnega naročanja; Vlada davčne optimizacije; Hojsarska vlada?",
+        "lemma_text": "vlada poenostavljen javen naročanje vlada davčen optimizacija hojsarski vlada",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "gastarbeitr👳🏻‍♂️🇧🇫🇸🇰🌍",
+            "screen_name": "gastarbeitr",
+            "description": "multikulturni proletarec poznega kapitalizma. kulturni kiber-marksist postkibernetske dobe. sorošev plačanec na čakanju, ki plačuje rtv prispevek. neobaustelle."
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.7732113003730774,
+            "topic_bias": null,
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.4457961074709112,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1348941797792378880,
+        "created_at": "Tue Jan 12 10:36:01 +0000 2021",
+        "raw_text": "Prosti Trg je samo eden: tisti ta prosti. Ostalo so oblike fašizma (zasebni kapital) in socializma (državni kapital) kjer kraljujeta s ketne sneta regulativa in z drevesa sneta ideologija.",
+        "lemma_text": "prost trg prost ostati oblika fašizem zaseben kapital socializem državen kapital kjer kraljevati keten snet regulativa drevo snet ideologija",
+        "hashtags": [
+            "FreeMarketCapitalism"
+        ],
+        "mentions": [
+            "GBWallac3",
+            "Libertarec"
+        ],
+        "user": {
+            "name": "Navadni Nimda",
+            "screen_name": "NavadniNimda",
+            "description": "even in america, there's communism on the streets & in the schools, in the media & in the government. just think how bad it must be elsewhere!"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.6399258375167847,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.43734252023350384,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1359806018092425217,
+        "created_at": "Thu Feb 11 10:06:33 +0000 2021",
+        "raw_text": "Proti čemu, Certifikatski privatizaciji? To mora biti prej ali slej izpeljano. Un demografski sklad pa le naj ima portfejske deleže v kvalitetnih firmah doma in v tujini, to ni sporno.",
+        "lemma_text": "certifikatski privatizacija prej slej izpeljan un demografski sklad imeti portfejski delež kvaliteten firma doma tujina sporen",
+        "hashtags": [],
+        "mentions": [
+            "rokjarc",
+            "LukaJeMojeIme",
+            "AnitaNiNikoli",
+            "MitjaIrsic"
+        ],
+        "user": {
+            "name": "Navadni Nimda",
+            "screen_name": "NavadniNimda",
+            "description": "even in america, there's communism on the streets & in the schools, in the media & in the government. just think how bad it must be elsewhere!"
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.8112443685531616,
+            "topic_bias": null,
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.4329508029376693,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1361331307712774157,
+        "created_at": "Mon Feb 15 15:07:30 +0000 2021",
+        "raw_text": "Seveda, samo Zasebne lastnine ne bo smelo biti. Vse bo treba šenkati \"Levica\" spačkom, kajti to je \"itako zgolj družbena lastnina\"?",
+        "lemma_text": "zaseben lastnina treba šenkati levica spaček itako družben lastnina",
+        "hashtags": [
+            "degeni"
+        ],
+        "mentions": [
+            "matjazajec1",
+            "strankalevica"
+        ],
+        "user": {
+            "name": "Navadni Nimda",
+            "screen_name": "NavadniNimda",
+            "description": "even in america, there's communism on the streets & in the schools, in the media & in the government. just think how bad it must be elsewhere!"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.4997911751270294,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.4974812374644768,
+            "party_bias": "desno",
+            "party_mentioned": "Levica"
+        }
+    },
+    {
+        "id": 1363921819359657985,
+        "created_at": "Mon Feb 22 18:41:16 +0000 2021",
+        "raw_text": "Da je Kardeljevska \"ideja\" o neobstoju Zasebne lastnine med Slovenci že udejanjena?",
+        "lemma_text": "kardeljevski ideja neobstoj zaseben lastnina slovenec udejanjen",
+        "hashtags": [],
+        "mentions": [
+            "SamoGlavan"
+        ],
+        "user": {
+            "name": "Navadni Nimda",
+            "screen_name": "NavadniNimda",
+            "description": "even in america, there's communism on the streets & in the schools, in the media & in the government. just think how bad it must be elsewhere!"
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.4980125427246094,
+            "topic_bias": null,
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.5322262334392984,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1348174282480824326,
+        "created_at": "Sun Jan 10 07:46:11 +0000 2021",
+        "raw_text": "2021 bo leto, ko bodo vse resne avtomobilske firme de facto opustile razvoj ICE avtomobilov. Tudi, če bodo na trg še pošiljale nove modele, bo to samo še šminka.",
+        "lemma_text": "leto resen avtomobilski firma de facto opustiti razvoj ice avtomobil trg pošiljati nov model šminka",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Prstan",
+            "screen_name": "PrstanSi",
+            "description": ""
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.5234463214874268,
+            "topic_bias": null,
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.400162282093727,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1352323516692115467,
+        "created_at": "Thu Jan 21 18:33:45 +0000 2021",
+        "raw_text": "Predvsem se bo potrebno odreči zgrešenemu razmišljanju, da si lahko s socialo dvignemo premoženjski standard. To si lahko dvignemo le z delom z visoko dodano vrednostjo, za kar pa potrebujemo investicije - kapital. Sociala je za najrevnejše in tiste, ki ne morejo delati.",
+        "lemma_text": "potreben odreči zgrešen razmišljanje lahko sociala dvigniti premoženjski standard lahko dvigniti delo visoko dodan vrednost potrebovati investicija kapital sociala reven delati",
+        "hashtags": [],
+        "mentions": [
+            "MarjeticaM",
+            "gregorbeslic",
+            "Blaz_88",
+            "surfon",
+            "JanezPogorelec",
+            "markodvornik",
+            "AntonTomazic",
+            "DavidNovak17",
+            "iskreninet",
+            "Domovina_je"
+        ],
+        "user": {
+            "name": "Marko Krajnc",
+            "screen_name": "sodnik",
+            "description": "my nose my nose, my kingdom for a nose"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.5474926829338074,
+            "topic_bias": "desno",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.4693794744622792,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1352332955226693634,
+        "created_at": "Thu Jan 21 19:11:16 +0000 2021",
+        "raw_text": "Normalno, da je tam cenejša delovna sila, če si domačo proizvodnjo obdavčil in oprispevil do daske zaradi sociale, drage države in birokracije ter eko idiotarij.",
+        "lemma_text": "normalen tam poceni deloven sila domač proizvodnja obdavčiti oprispeviti daska sociala drag država birokracija eko idiotarij",
+        "hashtags": [],
+        "mentions": [
+            "Blaz_88",
+            "MarjeticaM",
+            "gregorbeslic",
+            "surfon",
+            "JanezPogorelec",
+            "markodvornik",
+            "AntonTomazic",
+            "DavidNovak17",
+            "iskreninet",
+            "Domovina_je"
+        ],
+        "user": {
+            "name": "Marko Krajnc",
+            "screen_name": "sodnik",
+            "description": "my nose my nose, my kingdom for a nose"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.8763750791549683,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.425205546492795,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1346455748491042817,
+        "created_at": "Tue Jan 05 13:57:21 +0000 2021",
+        "raw_text": "Na 1x je to ločevanje zelo pomembno za vernike prosto tržnega kapitalizma. Včasih, ko je všečno ločujete na funkcionarje in ostali JS, po potrebi pa je to vse 1 prevelik javni sektor, ki ga je potrebno dati na trg. Zabaven si mi. :)",
+        "lemma_text": "ločevanje zelo pomemben vernik prosto tržen kapitalizem včasih všečno ločevati funkcionar ostati js potreba prevelik javen sektor potreben dati trg zabaven mi.",
+        "hashtags": [],
+        "mentions": [
+            "petermarinsek"
+        ],
+        "user": {
+            "name": "Otmar Kovač",
+            "screen_name": "OtmarK",
+            "description": "državljan brez rodovnika,tw svoje misli,ki seveda ne spreminjajo tuzemstva.všečkam&retvitam vaše všečne,blokiram meni čudne profile,šoviniste,trole..& podobno.."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.5494654774665833,
+            "topic_bias": "desno",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.4051659848187587,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1355815469408784390,
+        "created_at": "Sun Jan 31 09:49:32 +0000 2021",
+        "raw_text": "Tudi javno zasebno partnerstvo se je hudo izrodilo. Vzpodbuditi je treba privatno podjetništvo, ne pa te realsocialistične preživete konstrukcije.",
+        "lemma_text": "javen zaseben partnerstvo hudo izroditi vzpodbuditi treba privaten podjetništvo realsocialističen preživet konstrukcija",
+        "hashtags": [],
+        "mentions": [
+            "Libertarec"
+        ],
+        "user": {
+            "name": "Traven Alenka 🇸🇮",
+            "screen_name": "ATBeatris",
+            "description": "po čudežni rešitvi-osamosvojitvi-se je kmalu pokazalo, da je alien, skupaj s tisoči jajc, ostal na krovu ladje"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9417338371276855,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.5075599183500884,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1362670100147494913,
+        "created_at": "Fri Feb 19 07:47:23 +0000 2021",
+        "raw_text": "Žal so v Sloveniji popolnoma nepomembna mesta v državni upravi politično pomembna!",
+        "lemma_text": "slovenija popolnoma nepomemben mesto državen uprava politično pomemben",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Murekar Pavla",
+            "screen_name": "murekar",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9638906121253967,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.4153563037886228,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1363404040776912896,
+        "created_at": "Sun Feb 21 08:23:48 +0000 2021",
+        "raw_text": "ZDA nikoli niso regulirale trga energije! Energijo so regulirali samo v komunizmu tako, da jo je dobavljala samo ena firma!",
+        "lemma_text": "zda nikoli regulirati trg energija energija regulirati komunizem dobavljati firma",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Murekar Pavla",
+            "screen_name": "murekar",
+            "description": ""
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.4981171786785126,
+            "topic_bias": null,
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.5147788532905868,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1368637477989347330,
+        "created_at": "Sun Mar 07 18:59:37 +0000 2021",
+        "raw_text": "Petričev Kolektor je skupaj z 80 firmami, ki jih je ustanovil in kljub 500 milijonom EUR javnih plačil strahotno prezadolžen in bo padel skupaj z 2TIR-om vred! Poglejte, kako gradijo Kitajci!",
+        "lemma_text": "petričev kolektor skupaj firma ustanoviti milijon javen plačilo strahotno prezadolžen pasti skupaj 2tire pogledati graditi kitajec",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Murekar Pavla",
+            "screen_name": "murekar",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.855431079864502,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.5048448469664083,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1366800773494026247,
+        "created_at": "Tue Mar 02 17:21:12 +0000 2021",
+        "raw_text": ".: Glavnina državnega premoženja je bila prodana, ko so bile leve vlade. Naša politična opcija ni tista, ki bi želela razprodajati ali prodajati pod ceno. Večina državnega premoženja je bila prodana zaradi zakona o denacionalizaciji.",
+        "lemma_text": "glavnina državen premoženje prodan lev vlada političen opcija razprodajati prodajati cena večina državen premoženje prodan zakon denacionalizacija",
+        "hashtags": [],
+        "mentions": [
+            "MPogacnik"
+        ],
+        "user": {
+            "name": "SDS",
+            "screen_name": "strankaSDS",
+            "description": "slovenska demokratska stranka"
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.5518043637275696,
+            "topic_bias": null,
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.861652186319614,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1367395211593347075,
+        "created_at": "Thu Mar 04 08:43:18 +0000 2021",
+        "raw_text": "[STANOVANJA]: Vzpostavitev javne najemniške službe omogoča najvišje zadolževanje stanovanjskih skladov, uskladitev višine neprofitne najemnine ter prilagoditev sistema subvencioniranja, ki bo zaščitila socialno ogrožena gospodinjstva.",
+        "lemma_text": "stanovanje vzpostavitev javen najemniški služba omogočati visok zadolževanje stanovanjski sklad uskladitev višina neprofiten najemnina prilagoditev sistem subvencioniranje zaščititi socialno ogrožen gospodinjstvo",
+        "hashtags": [],
+        "mentions": [
+            "b_podkrajsek"
+        ],
+        "user": {
+            "name": "SDS",
+            "screen_name": "strankaSDS",
+            "description": "slovenska demokratska stranka"
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.5439181923866272,
+            "topic_bias": null,
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.5226623621228464,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1345314390720049154,
+        "created_at": "Sat Jan 02 10:22:00 +0000 2021",
+        "raw_text": "\"samo moja poanta je bila, da razdeljevanje denarja samo po sebi ni socialna politika\" si napisal. UTD ni nič drugega, kot razdeljevanje denarja. kaj sedaj? Ful lažje bomo debatirali, če definiramo pojme. Recimo \"socialna politika\".",
+        "lemma_text": "poanta razdeljevanje denar socialen politika napisati utd razdeljevanje denar sedaj ful lahko debatirati definirati pojem reči socialen politika",
+        "hashtags": [],
+        "mentions": [
+            "bota112"
+        ],
+        "user": {
+            "name": "Marko Pavlišič",
+            "screen_name": "MarkoPavlisic",
+            "description": "inženir, amaterski kolesar, nekoč jeanmark."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.5099854469299316,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.526186532354026,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1346093753325539328,
+        "created_at": "Mon Jan 04 13:58:54 +0000 2021",
+        "raw_text": "Da, to je cena vseh koalicij, ki jo prav vse stranke plačajo. ideje, projekti, ki niso na skupnem imenovalcu ali ostanejo v predalu ali pa - kot je monstrum STH - so izsiljene in realizirane. Kot plačilo eni od vladnih strank. TEŠ6 npr je ista zgodba itd. Tako to je in bo ostalo.",
+        "lemma_text": "cena koalicija stranka plačati ideja projekt skupen imenovalec ostati predal monstrum sth izsiljen realiziran plačilo vladen stranka teš6 npr zgodba itd. ostati",
+        "hashtags": [],
+        "mentions": [
+            "luksuz",
+            "surfon",
+            "janponiz"
+        ],
+        "user": {
+            "name": "‼️ TineB pa že ne bo tiho ‼️",
+            "screen_name": "_TineB_",
+            "description": "a fair yet rude rebel against ™ ™ regime. sincerely thankful to twitter for allowing my fight."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.7188900113105774,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.4010739365394516,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1359064237746884608,
+        "created_at": "Tue Feb 09 08:58:59 +0000 2021",
+        "raw_text": "Doma ne. Morajo po po novem to ministrstva, uradi, javni zavodi in državne firme kupovati.",
+        "lemma_text": "doma nov ministrstvo urad javen zavod državen firma kupovati",
+        "hashtags": [
+            "kvote",
+            "kretenizem"
+        ],
+        "mentions": [
+            "milemile37",
+            "vinkovasle1"
+        ],
+        "user": {
+            "name": "‼️ TineB pa že ne bo tiho ‼️",
+            "screen_name": "_TineB_",
+            "description": "a fair yet rude rebel against ™ ™ regime. sincerely thankful to twitter for allowing my fight."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.7147220373153687,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.5248298452116843,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1348549022844379136,
+        "created_at": "Mon Jan 11 08:35:16 +0000 2021",
+        "raw_text": "Od kartelnega in koordiniranega uničenja konkurenta in očitne politične cenzure, vsem na očeh, smo pršli do jetrne paštete zgolj zato, ker nimate nobenega resnejšega ugovora.",
+        "lemma_text": "kartelen koordiniran uničenje konkurent očiten političen cenzura oči priti jetrn pašteta zato imeti resen ugovor",
+        "hashtags": [],
+        "mentions": [
+            "davorvrban",
+            "KripLuka",
+            "Medeja_7"
+        ],
+        "user": {
+            "name": "Libertarec",
+            "screen_name": "Libertarec",
+            "description": "zadruga kozd trolov."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.8529901504516602,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.4629959637572378,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1351837985801723904,
+        "created_at": "Wed Jan 20 10:24:26 +0000 2021",
+        "raw_text": "Nepremičninski zakon, ki bi visoko obdavčil nepremičnine je politično bistveno manj realen od programa, ki bi dal državne parcele v najem slovenskim gospodinjstvom. Za Slovence je nepremičnin premalo in zato nimajo otrok.",
+        "lemma_text": "nepremičninski zakon visoko obdavčiti nepremičnina politično bistveno manj realen program dati državen parcela najem slovenski gospodinjstvo slovenec nepremičnina premalo imeti otrok",
+        "hashtags": [],
+        "mentions": [
+            "akashaanasha",
+            "bozicek22",
+            "Nolium",
+            "SamoGlavan",
+            "AdHoc91254912"
+        ],
+        "user": {
+            "name": "Libertarec",
+            "screen_name": "Libertarec",
+            "description": "zadruga kozd trolov."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9448015689849854,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.44464670863556804,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1351834520442568709,
+        "created_at": "Wed Jan 20 10:10:40 +0000 2021",
+        "raw_text": "Njena plača pa pač ni last nas vseh, sorči. NJENA bi moralo biti dovolj povedno, ha? Je pa na plačilni listi (kot vsi ostali v javnem sektorju in službah, torej tudi VSEH njenih kolegov) države, država je pa v lasti NAS vseh.",
+        "lemma_text": "plača last sorč dovolj poveden ha plačilen lista ostati javen sektor služba kolega država država last",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Chuppa 🌎",
+            "screen_name": "Chuppacadabra",
+            "description": "nisem sladka punčka. sladko na vročini rado cikne. raje malo zasoljeno in papricirano. se ne kvari tako zlahka :p"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.6772506833076477,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.8045104561519215,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1347157377460613120,
+        "created_at": "Thu Jan 07 12:25:22 +0000 2021",
+        "raw_text": "Po vaše se potem Kolektor ne bi smel prijaviti na noben javni razpis, ker lastnik lastninjenje pa to? Niste mi še odgovorili, kaj naj bi bilo s testi narobe in kdo je to ugotovil?",
+        "lemma_text": "potem kolektor prijaviti javen razpis lastnik lastninjenje odgovoriti test narobe ugotoviti",
+        "hashtags": [],
+        "mentions": [
+            "Liberalec2",
+            "rebrjan"
+        ],
+        "user": {
+            "name": "Urtica dioica",
+            "screen_name": "AlesLebar",
+            "description": "geodet ᕕ(¬ ͜ ¬)ᕗ."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.85642409324646,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.47095498385962276,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1345394646973874180,
+        "created_at": "Sat Jan 02 15:40:54 +0000 2021",
+        "raw_text": "Kitajska komunistična partija prodira v mnoga zahodna podjetja",
+        "lemma_text": "kitajski komunističen partija prodirati mnog zahoden podjetje",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Nova24TV",
+            "screen_name": "Nova24TV",
+            "description": ""
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.4192550778388977,
+            "topic_bias": null,
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.4699074035554591,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1357262414929100805,
+        "created_at": "Thu Feb 04 09:39:11 +0000 2021",
+        "raw_text": "Tone. Marsikaj se veže na blagovno znamko. Tudi slote so pocen prodal tako da niti nova firma tudi če bi bila ni možna.",
+        "lemma_text": "tone vezati blagoven znamka slot pocen prodati nov firma možen",
+        "hashtags": [],
+        "mentions": [
+            "sodnik"
+        ],
+        "user": {
+            "name": "legionar🇸🇮",
+            "screen_name": "MatevzNovak",
+            "description": "like encourage healthy dissent, truth seeker, curious..."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.4705871343612671,
+            "topic_bias": "desno",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.430540465929163,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375786599724761093,
+        "created_at": "Sat Mar 27 12:27:40 +0000 2021",
+        "raw_text": "4. slika: Vlada na ekonomsko-socialnem svetu še naprej izigrava sindikate. Z novimi davčnimi olajšavami za 1% najbogatejših bi ogrozili pokojninsko in zdravstveno blagajno. Načrtno, da bi jih v prihodnje privatizirali in tako, kvazi rešili pred zlomom, služili bi spet bogati.",
+        "lemma_text": "slika vlada ekonomski socialen svet naprej izigravati sindikat nov davčen olajšava bogat ogroziti pokojninski zdravstven blagajna načrtno prihodnji privatizirati kvazi rešiti zlom služiti bogat",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Matej Klarič",
+            "screen_name": "Matej_Klaric",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9267825484275818,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.5527609919980098,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384567922446712833,
+        "created_at": "Tue Apr 20 18:01:31 +0000 2021",
+        "raw_text": "To je mogoče res, žal do sedaj ni pravih učinkov, je pa država dala kar precej sredstev in še gradnjo tirov do tovarne. Sem v vsakem primeru za investicije v Slovensko gospodarstvo in tujcem ki investirajo kapital pomagat, seveda pa ne pozabljat na Slovenske investitorje",
+        "lemma_text": "tujec investirati učinek gospodarstvo investicija kapital mogoč država dati tovarna pomagat pozabljati slovenski primer sredstvo pravi investitor sedaj tir gradnja",
+        "hashtags": [],
+        "mentions": [
+            "2pir_a"
+        ],
+        "user": {
+            "name": "👍",
+            "screen_name": "Rafaelusss",
+            "description": "ljubitelj penine in 5-tih zvezdic, seveda pa prvo domoljub in 5 generacij staro velenčan, vila bianca"
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.498643159866333,
+            "topic_bias": null,
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.40009419904189875,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384822757620428807,
+        "created_at": "Wed Apr 21 10:54:08 +0000 2021",
+        "raw_text": "Od kod pa lastniki dobijo šuške za investiranje? Samo iz presežkov (beri: dobička). Če imaš viške, lahko investiraš, če jih ljudem in podjetjem pobereš, pa ne morejo investirat. Ker domačim veliko poberemo, tujega kapitala pa nočemo, smo kapitalsko v riti in imamo nizke plače.",
+        "lemma_text": "nizek dobiček imeti investirati domač šuški kapital dobiti tuj investiranje plača investirat človek kod presežek beri rit podjetje lastnik lahko kapitalsko višek pobrati veliko",
+        "hashtags": [],
+        "mentions": [
+            "Tomi__Ce",
+            "RobertSifrer",
+            "robilesnik"
+        ],
+        "user": {
+            "name": "Marjetica🌼",
+            "screen_name": "MarjeticaM",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9352468848228455,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.5114608070179355,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384807414030024705,
+        "created_at": "Wed Apr 21 09:53:10 +0000 2021",
+        "raw_text": "Načeloma nimam problema z delavskim upravljanjem. Če najprej delavci investirajo v podjetje in tako dobijo lastniški delež, seveda (lahko začetna investicija ali odkup). Kordiš pa bi se to šel z nacionalizacijo?",
+        "lemma_text": "kordiš imeti najprej problem investirati začeten odkup investicija iti dobiti načeloma nacionalizacija lastniški upravljanje delavski podjetje delež lahko delavec",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Seriously?",
+            "screen_name": "facepalm_in_SLO",
+            "description": "delam, jem, spim, seksam (če mam srečo) in včasih tvitam. pa na twitterju vse tikam (porabim manj znakov) - da ne bo kdo užaljen..."
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.6045223474502563,
+            "topic_bias": null,
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.6780584928483328,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1385243988530274308,
+        "created_at": "Thu Apr 22 14:47:58 +0000 2021",
+        "raw_text": "Še en novinar, ki premore le “javno je dobro, zasebno je slabo”. Vsi skupaj se pa delajo, da profesionalni šport ni biznis. Bruha se mi.",
+        "lemma_text": "dober skupaj šport zaseben bruhati slab novinar premoči biznis delati profesionalen javen",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Vasja Bocko",
+            "screen_name": "vasko_dagama",
+            "description": "political science graduate who found refuge in tech/it. trying to figure out this thing called startup."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9702224135398865,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.465805290060614,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1385119490795577344,
+        "created_at": "Thu Apr 22 06:33:15 +0000 2021",
+        "raw_text": "Znano dejstvo. Ne nakradena, komunisti ne kradejo. Oni nacionalizirajo v privat stanovanja zaslužnih.",
+        "lemma_text": "znan privat stanovanje zaslužen krasti nacionalizirati komunist dejstvo nakraden",
+        "hashtags": [],
+        "mentions": [
+            "potepuski"
+        ],
+        "user": {
+            "name": "Dami46",
+            "screen_name": "EnaBesna",
+            "description": "poštena, naivna. pošteno naivna."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.3788027763366699,
+            "topic_bias": "desno",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.6285858814654967,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1355218635099410433,
+        "created_at": "Fri Jan 29 18:17:56 +0000 2021",
+        "raw_text": "Kitajska ima privatno lastnino in ima kapitaliste ki si lastijo privatno lastnino. Niti socializem niso, kaj šele komunizem...",
+        "lemma_text": "kitajska imeti privaten lastnina imeti kapitalist lastiti privaten lastnina socializem komunizem",
+        "hashtags": [],
+        "mentions": [
+            "sodnik"
+        ],
+        "user": {
+            "name": "Slovenski_državni_memi",
+            "screen_name": "SlovenskiM",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.8492043614387512,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.6390825336378672,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1345335760250138627,
+        "created_at": "Sat Jan 02 11:46:55 +0000 2021",
+        "raw_text": "...od šolstva, zdravstva, sodstva, medijev, povezanost botrov mafijsko-udbovskega kapitala z vsemi državnimi institucijami, na vseh nivojih. To je vaš komunizem; ni narejen za množice, le za korist \"vas\" - na račun vseh ostalih! Vaše laži ste razkrili sami. Pada... komunizem.",
+        "lemma_text": "šolstvo zdravstvo sodstvo medij povezanost boter mafijski udbovski kapital državen institucija nivo komunizem narejen množica korist račun ostal laž razkriti sam padati komunizem",
+        "hashtags": [],
+        "mentions": [
+            "CerarMilos",
+            "FKindlhofer",
+            "cikibucka"
+        ],
+        "user": {
+            "name": "Janez Kranjski",
+            "screen_name": "JKranjski",
+            "description": "per aspera ad astra (prek trnja do zvezd)"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9566071033477783,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.46448253968081754,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1356254443713556480,
+        "created_at": "Mon Feb 01 14:53:52 +0000 2021",
+        "raw_text": "Zaradi starsev! Ce drzava nima kapacitet in privat nekdo ponudi kapacitete naj mu drzava prizna toliko na otroka kot obcinskemu vrtcu. Sicer so starsi, ki so dobili edini prostor v privat vrtcu diskriminirani.",
+        "lemma_text": "stars ce drzava imeti kapaciteta privat ponuditi kapaciteta drzava priznati otrok obcinski vrtec stars dobiti edin prostor privat vrtec diskriminiran",
+        "hashtags": [],
+        "mentions": [
+            "deLoonchkowy"
+        ],
+        "user": {
+            "name": "TheNext_PM",
+            "screen_name": "TheNext_PM",
+            "description": "try and fail, but don’t fail to try."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.8082665205001831,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.410058160449064,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1349395205632487431,
+        "created_at": "Wed Jan 13 16:37:42 +0000 2021",
+        "raw_text": "V besedah je pri vas privatizacija osovražena beseda, v dejanjih ste pa po osamosvojitvi privatizirali ogromno stvari! Zato ste še danes na političnem prizorišču. Tega v državah, ki so tudi spremenile politični sistem, ne najdemo.",
+        "lemma_text": "beseda privatizacija osovražen beseda dejanje osamosvojitev privatizirati ogromno stvar danes političen prizorišče država spremeniti političen sistem najti",
+        "hashtags": [],
+        "mentions": [
+            "strankaSD",
+            "ZidanDejan"
+        ],
+        "user": {
+            "name": "Janez Mežan",
+            "screen_name": "Janez_Mezan",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.8871910572052002,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.5208775245311332,
+            "party_bias": "desno",
+            "party_mentioned": "SD"
+        }
+    },
+    {
+        "id": 1350402498675298305,
+        "created_at": "Sat Jan 16 11:20:19 +0000 2021",
+        "raw_text": "Vlada zniža davek, trgovci zvišajo marže in cene ostanejo iste. Lahko vlada posega v cene v privatnih trgovinah, storitvah? Kako bi vi to uredili?",
+        "lemma_text": "vlada znižati davek trgovec zvišati marža cena ostati lahko vlada posegati cena privaten trgovina storitev urediti",
+        "hashtags": [],
+        "mentions": [
+            "DomovinskaLiga"
+        ],
+        "user": {
+            "name": "Jani Johnny Novak 🇸🇮",
+            "screen_name": "NovakJani",
+            "description": "'if you are first you are first. if you are second you are nothing.'"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.7263267636299133,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.514023608546031,
+            "party_bias": "levo",
+            "party_mentioned": "DOM"
+        }
+    },
+    {
+        "id": 1381134298426785794,
+        "created_at": "Sun Apr 11 06:37:31 +0000 2021",
+        "raw_text": "Kdaj bomo v Sloveniji prekinili s komunistično kolektivno krivdo in končno obsodili krivce? Pa naj bodo to komunistična morišča, kraje državnega in privatnega premoženja in nazadnje vse tisti , ki sodelujejo pri načrtni zaroti proti človeštvu Covid-19.",
+        "lemma_text": "kdaj slovenija prekiniti komunističen kolektiven krivda končno obsoditi krivec komunističen morišče kraja državen privaten premoženje nazadnje sodelovati načrten zarota človeštvo covid",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Marjan Žandar",
+            "screen_name": "Marjanmark",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.932636022567749,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.5133025954750043,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1351259573261361152,
+        "created_at": "Mon Jan 18 20:06:02 +0000 2021",
+        "raw_text": "Vlada se nam s trdo roko, kritike se sankcionira, država se neznansko zadolžuje, da rešuje privatni sektor in delovna mesta, na veliko se vlaga v vojsko ... jebeni komunizem all over again. Kaj drugega pa bi bilo pričakovati od marksista na oblasti.",
+        "lemma_text": "vlada trd roka kritika sankcionirati država neznansko zadolževati reševati privaten sektor deloven mesto veliko vlagati vojska jeben komunizem all over again pričakovati marksist oblast",
+        "hashtags": [],
+        "mentions": [
+            "Ivan_Radich"
+        ],
+        "user": {
+            "name": "Gregor K.",
+            "screen_name": "Trdosrcnez",
+            "description": "politično nekorekten klik aktivist, ki ima rad črn humor in kultne filme. borec proti dvojni morali in avtoritetam. dosmrtni sovražnik argumenta moči. dada."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.961764931678772,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.42890768048422573,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1359506323713515527,
+        "created_at": "Wed Feb 10 14:15:40 +0000 2021",
+        "raw_text": "Ja. Ampak sem tudi mnenja, da je zasebni sektor 10x večji poraženec, ker so previsoki davki, prerazposajena regulativa in sploh vpletanje \"socialne države\" in njenih jugomarxističnih fanbois () v ekonomijo. In v vse, kar vidijo pod drevesom, s katerega sploh še niso sestopili.",
+        "lemma_text": "mnenje zaseben sektor velik poraženec previsok davek prerazposajen regulativa vpletanje socialen država jugomarxističen fanboisa ekonomija videti drevo sestopiti",
+        "hashtags": [],
+        "mentions": [
+            "godlja",
+            "BSrebre"
+        ],
+        "user": {
+            "name": "Navadni Nimda",
+            "screen_name": "NavadniNimda",
+            "description": "even in america, there's communism on the streets & in the schools, in the media & in the government. just think how bad it must be elsewhere!"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.8203555345535278,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.5337074219516381,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1348544604828794881,
+        "created_at": "Mon Jan 11 08:17:43 +0000 2021",
+        "raw_text": "Bravo. Klasični komunistični ukrep. Država bi zaradi tega, ker ne ugaja vladajočim, izgnala privat podjetje",
+        "lemma_text": "klasičen komunističen ukrep država ugajati vladajoč izgnati privat podjetje",
+        "hashtags": [],
+        "mentions": [
+            "Libertarec"
+        ],
+        "user": {
+            "name": "Davor Vrban",
+            "screen_name": "davorvrban",
+            "description": "peace, love, no hate"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.7616053223609924,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.405618217087547,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1347136394943148033,
+        "created_at": "Thu Jan 07 11:01:59 +0000 2021",
+        "raw_text": "Ja, ampak to ni napad na demokracijo to je bil napad na zasebno lastnino prebogatih.",
+        "lemma_text": "napad demokracija napad zaseben lastnina prebogat",
+        "hashtags": [],
+        "mentions": [
+            "Alexander_SLO",
+            "RegoucJolanda",
+            "DC43"
+        ],
+        "user": {
+            "name": "Kronovšek Ivan",
+            "screen_name": "KronovsekI",
+            "description": "zkfid"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9358977675437927,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.4738004993967999,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1346205447968194561,
+        "created_at": "Mon Jan 04 21:22:44 +0000 2021",
+        "raw_text": "Ja, odvisno od delničarske strukture. Največji delničar si lahko tudi z 5%, in to ima svojo moč. Pa seevda je tudi odvisno, kako država svoje lastniške pravice izvaja.",
+        "lemma_text": "odvisen delničarski struktura velik delničar lahko imeti moč seevda odvisen država lastniški pravica izvajati",
+        "hashtags": [],
+        "mentions": [
+            "kurent",
+            "Slikar123"
+        ],
+        "user": {
+            "name": "Marko Pavlišič",
+            "screen_name": "MarkoPavlisic",
+            "description": "inženir, amaterski kolesar, nekoč jeanmark."
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.842324435710907,
+            "topic_bias": null,
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.7149659923277898,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1359458901570318338,
+        "created_at": "Wed Feb 10 11:07:14 +0000 2021",
+        "raw_text": "Vse nestrateško državno premoženje pod eno streho pokojninskega sklada. Jasna naložbena politika skalda: zahtevana donosnost in stabilnost donosa. Nadzorniki iz tujine, ugledni  preverjeni. Dovolj je bilo političnih mahinacij z državnim premoženjem!",
+        "lemma_text": "nestrateški državen premoženje streha pokojninski sklad jasen naložben politika skaldati zahtevan donosnost stabilnost donos nadzornik tujina ugleden preverjen dovolj političen mahinacija državen premoženje",
+        "hashtags": [],
+        "mentions": [
+            "NovaSlovenija",
+            "jozefhorvat"
+        ],
+        "user": {
+            "name": "‼️ TineB pa že ne bo tiho ‼️",
+            "screen_name": "_TineB_",
+            "description": "a fair yet rude rebel against ™ ™ regime. sincerely thankful to twitter for allowing my fight."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.5929765105247498,
+            "topic_bias": "levo",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.7233459316559988,
+            "party_bias": "levo",
+            "party_mentioned": "NSi"
+        }
+    },
+    {
+        "id": 1355517202083020804,
+        "created_at": "Sat Jan 30 14:04:19 +0000 2021",
+        "raw_text": "Rabimo javno solstvo. Kjer bodo tudi levičarji lahko privat odpirali fakultete ala soros, in ne vec z drzavnim denarjem.",
+        "lemma_text": "rabiti javen solstvo kjer levičar lahko privat odpirati fakulteta ala soros vec drzaven denar",
+        "hashtags": [],
+        "mentions": [
+            "LCuliberg",
+            "Bmk61129757"
+        ],
+        "user": {
+            "name": "milan bertram 🇸🇮🇸🇮🇸🇮",
+            "screen_name": "Milko121",
+            "description": "desno od levice"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.5041165351867676,
+            "topic_bias": "desno",
+            "topic_mentioned": "denacionalizacija",
+            "topic_score": 0.4981868401733018,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    }
+]

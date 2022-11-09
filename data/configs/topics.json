@@ -14,59 +14,35 @@
     "fašisti", "fašističen", "fašizem"
 ],
 [
-    "virus", "koronavirus", "epidemija", "covid19", "covid", "cepljenje", "test", "pcr", "maska", "test", "testiranje"
-],
-[
     "demokracija", "demokratičen", "pravica", "nedemokratičen"
 ],
 [
-    "levičar", "levičarski", "levica"
+    "levičar", "levičarski", "levica", "mesec", "fajon", "levak"
 ],
 [
-    "desničar", "desničarski", "desnica"
+    "desničar", "desničarski", "desnica", "janša", "jansa", "sds", "janez"
 ],
 [
-    "oblast", "veja", "soden", "pravosodje"
+    "splav", "zarodek", "kontracepcija", "vazektomija", "sterilizacija", "zarodek", "diafragma", "kondom", "maternica", "fetus"
 ],
 [
-    "nosečnost", "nosečnica", "splav", "ženska"
+    "lgbtq", "lgbt", "lgbtqia", "istospolen", "spol", "gej", "gejevski", "lezbijka", "lezbijski", "transseksualen", "trans", "seksualnost"
 ],
 [
-    "migrant", "migriranje", "beg", "begunec"
+    "migrant", "migriranje", "beg", "begunec", "meja", "begunci", "migracija"
 ],
 [
-    "medij", "pisati", "tv", "video", "radio"
+    "musliman", "islam", "islamist", "islamist", "radikalen", "islamski", "muslimanski", "jud", "judovski", "izrael", "izraelski"
 ],
 [
-    "musliman", "islam", "islamist", "islamist", "radikalen"
+    "cerkev", "župnik", "verouk", "vera", "bog", "mučenik", "vernik", "verniki", "otrok", "papež", "teologija", "krscanstvo"
 ],
 [
-    "minister", "ministrica", "predsednik"
+    "nato", "vojska", "vojak", "obramba", "zasčita", "sila", "varnost", "orožje", "orozje", "poveljnik", "nabornik", "zaveznik", "vojak"
 ],
 [
-    "kriminal", "kiminalec", "zločinec"
+    "represiven", "policija", "protest", "varda", "nadzor", "varovanje", "varnost", "varen", "red", "mir"
 ],
 [
-    "problem", "stanovanje", "stanovanjski", "kredit"
-],
-[
-    "zdravstven", "zdravstvo", "zavarovanje", "javno"
-],
-[
-    "kmetija", "kmetijstvo", "okolje"
-],
-[
-    "izobraževanje", "znanost", "šola", "študent"
-],
-[
-    "energetika", "energija", "problem", "energent"
-],
-[
-    "obramba", "varnost", "zunanja", "zaveznica", "zaveznik"
-],
-[
-    "finance", "finančen", "financiranje"
-],
-[
-    "naložba", "digitalizacija", "tehnologija"
+    "denacionalizacija", "privat", "last", "premoženje", "kapital", "podržavljenje", "kapitalizem", "nacionalizirati", "denacionalizirati"
 ]]

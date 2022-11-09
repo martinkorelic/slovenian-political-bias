@@ -1,0 +1,590 @@
+[
+    {
+        "id": 1375368139769253888,
+        "created_at": "Fri Mar 26 08:44:52 +0000 2021",
+        "raw_text": "Odšla je Uta Ranke-Heinemann. \"Še danes, napačno, ne govorimo, da ženske otroke zaplodijo, kar bi ustrezalo moški zaploditvi, pač pa še vedno govorimo, da ženske zanosijo. Po takšnem izrazju je ženska še vedno nedejavna, lahko samo 'zanosi' ali 'zanositev prepreči'.\"",
+        "lemma_text": "oditi uta ranke heinemann danes napačen govoriti ženski otrok zaploditi ustrezati moška zaploditev vedno govoriti ženska zanositi izrazje ženska vedno nedejaven lahko zanositi zanositev preprečiti",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Spol.si",
+            "screen_name": "PortalSpolsi",
+            "description": "portal spol.si je samostojen, neodvisen in nestrankarski medij, osredotočen na teme, ki so povezane s spolom."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.7825441360473633,
+            "topic_bias": "desno",
+            "topic_mentioned": "splav",
+            "topic_score": 0.5370762610824747,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375351502680768515,
+        "created_at": "Fri Mar 26 07:38:45 +0000 2021",
+        "raw_text": "Saj veste, da bi moralo biti moškim prepovedano govorit o splavu? Sploh pa župnikom!",
+        "lemma_text": "vedeti moški prepovedan govorit splav župnik",
+        "hashtags": [],
+        "mentions": [
+            "LozarTadej",
+            "ZivljenjeinS"
+        ],
+        "user": {
+            "name": "Nice Person-Not at all!",
+            "screen_name": "NicePersonNot",
+            "description": ""
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.7640732526779175,
+            "topic_bias": "desno",
+            "topic_mentioned": "splav",
+            "topic_score": 0.4704126469552302,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375769262246260740,
+        "created_at": "Sat Mar 27 11:18:47 +0000 2021",
+        "raw_text": "Ob tem dodajam Ženska trpi ob odvzetem otroku 100 x bolj kot oče. Ženska praviloma žaluje celo za splavljenim otrokom. In se spominja predvidenega datuma poroda, ko bi se rodil. Racionalno ve, kaj je prav. Čustva so čustva. Ne dovoliti materi otroka - je zločin brez primere.",
+        "lemma_text": "dodajati ženska trpeti odvzet otrok x bolj oče ženska praviloma žalovati splavljen otrok spominjati predviden datum porod roditi racionalno vedeti čustvo čustvo mati otrok zločin primera",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Lado Golo",
+            "screen_name": "golouh",
+            "description": "ko poznaš dobro rešitev, se nikoli več ne moreš delati, da je ne poznaš, četudi je ne upoštevaš"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.9539634585380554,
+            "topic_bias": "desno",
+            "topic_mentioned": "splav",
+            "topic_score": 0.48502484084194175,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384872958817144832,
+        "created_at": "Wed Apr 21 14:13:37 +0000 2021",
+        "raw_text": "Vodja gibanja za splava umrla zaradi zapletov med splavom",
+        "lemma_text": "umreti splav zaplet vodja gibanje",
+        "hashtags": [
+            "legalizacijo"
+        ],
+        "mentions": [],
+        "user": {
+            "name": "Tednik Demokracija",
+            "screen_name": "Demokracija1",
+            "description": ""
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.9601214528083801,
+            "topic_bias": "desno",
+            "topic_mentioned": "splav",
+            "topic_score": 0.4632349555330397,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384907091731701761,
+        "created_at": "Wed Apr 21 16:29:15 +0000 2021",
+        "raw_text": "Voditeljica gibanja za legalizacijo splava umrla zaradi zapletov pri splavu via",
+        "lemma_text": "legalizacija voditeljica umreti splav zaplet gibanje via",
+        "hashtags": [],
+        "mentions": [
+            "Nova24TV"
+        ],
+        "user": {
+            "name": "smiljan purger 🇸🇮",
+            "screen_name": "SmiljanPurger",
+            "description": "hvaležen bogu za dar življenja in vsem ljudem za dotik božje ljubezni."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.9577469825744629,
+            "topic_bias": "desno",
+            "topic_mentioned": "splav",
+            "topic_score": 0.6361995413485394,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384909696289628162,
+        "created_at": "Wed Apr 21 16:39:36 +0000 2021",
+        "raw_text": "Voditeljica gibanja za legalizacijo splava umrla zaradi zapletov pri splavu via",
+        "lemma_text": "legalizacija voditeljica umreti splav zaplet gibanje via",
+        "hashtags": [],
+        "mentions": [
+            "Nova24TV"
+        ],
+        "user": {
+            "name": "Antonija Volčini",
+            "screen_name": "Muhabc1",
+            "description": ""
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.9577469825744629,
+            "topic_bias": "desno",
+            "topic_mentioned": "splav",
+            "topic_score": 0.5037908465042158,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384813369752961026,
+        "created_at": "Wed Apr 21 10:16:50 +0000 2021",
+        "raw_text": "Starejša generacija je bila tako ali tako vsak dan v stiku z drugimi, otroci pa ne.",
+        "lemma_text": "star generacija otrok stik dan",
+        "hashtags": [],
+        "mentions": [
+            "milanma03529440",
+            "janezkranjski_3",
+            "NovicMarjana"
+        ],
+        "user": {
+            "name": "mojca",
+            "screen_name": "mojca19",
+            "description": ""
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.8134953379631042,
+            "topic_bias": "desno",
+            "topic_mentioned": "splav",
+            "topic_score": 0.4125285333980779,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384889960172490758,
+        "created_at": "Wed Apr 21 15:21:11 +0000 2021",
+        "raw_text": "Karma? Voditeljica gibanja za legalizacijo splava umrla zaradi zapletov pri splavu? via",
+        "lemma_text": "karma legalizacija voditeljica umreti splav zaplet gibanje via",
+        "hashtags": [],
+        "mentions": [
+            "e_maribor"
+        ],
+        "user": {
+            "name": "Portal e-maribor.si 🇸🇮",
+            "screen_name": "e_maribor",
+            "description": "portal, ki vam pove tisto, kar vam drugi zamolčijo! bog varuj slovenijo!"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.9573142528533936,
+            "topic_bias": "desno",
+            "topic_mentioned": "splav",
+            "topic_score": 0.47138981138475217,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384997495030358019,
+        "created_at": "Wed Apr 21 22:28:29 +0000 2021",
+        "raw_text": "Voditeljica gibanja za legalizacijo splava umrla zaradi zapletov pri splavu karma pa to..",
+        "lemma_text": "karma legalizacija voditeljica umreti splav zaplet gibanje",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "krtmen",
+            "screen_name": "krtmen",
+            "description": "jst sm kr tm en. več vas pa ne briga. hvala za razumevanje!"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.9637101292610168,
+            "topic_bias": "desno",
+            "topic_mentioned": "splav",
+            "topic_score": 0.47024482744431295,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1385209438563442691,
+        "created_at": "Thu Apr 22 12:30:40 +0000 2021",
+        "raw_text": "Kako je že v tej dinamični, trdni demokraciji s pravico do splava?",
+        "lemma_text": "pravica demokracija trden dinamičen splav",
+        "hashtags": [
+            "izfirbcasprašujem"
+        ],
+        "mentions": [
+            "vladaRS",
+            "JJansaSDS"
+        ],
+        "user": {
+            "name": "Bruno Gaberšek",
+            "screen_name": "VinoinHrana",
+            "description": "- wine&food writer - fine events organiser - educator -"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.4856509566307068,
+            "topic_bias": "desno",
+            "topic_mentioned": "splav",
+            "topic_score": 0.5303662277542539,
+            "party_bias": "levo",
+            "party_mentioned": "SDS"
+        }
+    },
+    {
+        "id": 1356149876111925250,
+        "created_at": "Mon Feb 01 07:58:21 +0000 2021",
+        "raw_text": "Zloraba otrok je ze iz tega vidika ker jih neizobrazeni starsi zelijo izpostaviti okubi in s tem posledicam okuzbe...",
+        "lemma_text": "zloraba otrok ze vidik neizobrazen stars zeleti izpostaviti okuba posledica okuzba",
+        "hashtags": [],
+        "mentions": [
+            "IgorPribac"
+        ],
+        "user": {
+            "name": "Konrad Lončar",
+            "screen_name": "KonradLoncar",
+            "description": "sf/sn"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.9542525410652161,
+            "topic_bias": "desno",
+            "topic_mentioned": "splav",
+            "topic_score": 0.5546192758961404,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1357348443312689152,
+        "created_at": "Thu Feb 04 15:21:01 +0000 2021",
+        "raw_text": "Dobro sem jo slišala, da imam uničeno življenje ker sem zanosila s starejšim moškim.",
+        "lemma_text": "dobro slišati imeti uničen življenje zanositi star moški",
+        "hashtags": [],
+        "mentions": [
+            "RomanVodeb"
+        ],
+        "user": {
+            "name": "Sara Klemenčič",
+            "screen_name": "ArasCicnemelk",
+            "description": "from slovenia with some bosnian origins. trying to live my best life in nature with my family and french croissants. i don't scream i rawr."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.959353506565094,
+            "topic_bias": "desno",
+            "topic_mentioned": "splav",
+            "topic_score": 0.4712179342580197,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1352989649116012547,
+        "created_at": "Sat Jan 23 14:40:44 +0000 2021",
+        "raw_text": "do polnoletnosti nimajo nobene pravice ničesar zahtevati, zato imajo starše in skrbnike.",
+        "lemma_text": "polnoletnost imeti pravica zahtevati imeti starš skrbnik",
+        "hashtags": [],
+        "mentions": [
+            "bota112",
+            "BineTraven",
+            "BostjanFegus",
+            "piratskastranka"
+        ],
+        "user": {
+            "name": "Miha 2.0 🇸🇮 🇻🇦 ن 🇦🇲 🇪🇺🇨🇳",
+            "screen_name": "mismonaliniji",
+            "description": "catholic. he was a skater boy she said see you later boy"
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.37066131830215454,
+            "topic_bias": null,
+            "topic_mentioned": "splav",
+            "topic_score": 0.5530357509800392,
+            "party_bias": "nevtralno",
+            "party_mentioned": "PS"
+        }
+    },
+    {
+        "id": 1356176950260342785,
+        "created_at": "Mon Feb 01 09:45:56 +0000 2021",
+        "raw_text": "Otroci vključeni v protest proti zoom šolanju pač ne more biti enak otrokom vključenim v protest proti splavu. Ja?",
+        "lemma_text": "otrok vključen protest zoom šolanje otrok vključen protest splav",
+        "hashtags": [],
+        "mentions": [
+            "althar017",
+            "BojanPozar"
+        ],
+        "user": {
+            "name": "AvaKrizaj",
+            "screen_name": "AVA82615829",
+            "description": ""
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.9018388390541077,
+            "topic_bias": "desno",
+            "topic_mentioned": "splav",
+            "topic_score": 0.8139159749759505,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1360743511096705030,
+        "created_at": "Sun Feb 14 00:11:49 +0000 2021",
+        "raw_text": "In prav je, da se da možnost, da gredo v šolo, odločitev pa vsak starš sprejme sam.",
+        "lemma_text": "dati možnost iti šola odločitev starš sprejeti sam",
+        "hashtags": [],
+        "mentions": [
+            "ambrozd",
+            "ANJABAHZIBERT",
+            "JJansaSDS",
+            "strankalevica"
+        ],
+        "user": {
+            "name": "cyber human",
+            "screen_name": "artificialyReal",
+            "description": "\"change your opinions, keep to your principles\" physics. math. management. ai. software developer. product development. risk management. business law."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "positive",
+            "sentiment_score": 0.9240588545799255,
+            "topic_bias": "levo",
+            "topic_mentioned": "splav",
+            "topic_score": 0.7342089763522933,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1346936535191531521,
+        "created_at": "Wed Jan 06 21:47:49 +0000 2021",
+        "raw_text": "Ce so celo zivljenje starsi prevzemali odgovornost za otrokove pizdarije ni cudno, da produkt taksnih starsev za toliko okuzenih krivi vlado!? Sam itak ni sposoben prevzeti odgovornosti za svoja dejanja.",
+        "lemma_text": "ce zivljenje stars prevzemati odgovornost otrokov pizdarija cuden produkt taksen stars okuzen kriv vlada sam sposoben prevzeti odgovornost dejanje",
+        "hashtags": [
+            "maminisinckiinhcerkice"
+        ],
+        "mentions": [
+            "PreglArjan"
+        ],
+        "user": {
+            "name": "TheNext_PM",
+            "screen_name": "TheNext_PM",
+            "description": "try and fail, but don’t fail to try."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.965487003326416,
+            "topic_bias": "desno",
+            "topic_mentioned": "splav",
+            "topic_score": 0.4873285492651894,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1351447083904077827,
+        "created_at": "Tue Jan 19 08:31:08 +0000 2021",
+        "raw_text": "Kateri pacient od starša pa bi lastne otroke homoseksualno vzgajal?",
+        "lemma_text": "pacient starš lasten otrok homoseksualno vzgajati",
+        "hashtags": [],
+        "mentions": [
+            "SimGraj"
+        ],
+        "user": {
+            "name": "Franc Plevnik",
+            "screen_name": "FPlevnik",
+            "description": "rodoljub = antiliberalec + antiklerikalec; vzpon nacionalizma v eu; za svobodoljubno evropo nacionalnih držav; spirit of 769"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.7431831955909729,
+            "topic_bias": "desno",
+            "topic_mentioned": "splav",
+            "topic_score": 0.5176418436230292,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1351687176711528452,
+        "created_at": "Wed Jan 20 00:25:10 +0000 2021",
+        "raw_text": "So mi izbrisali posnetek, meni tudi presenetljiv. Najprej se je vzelo jajčece in potem dodalo spermije. So čisto normalno se borili, da ga oplodijo. Zdaj pa pozornost, se je dalo drugega samca spermije in spermiji prvega so začeli uničevati od drugega. Da en od prvih prodre in je",
+        "lemma_text": "izbrisati posnetek meniti presenetljiv najprej vzeti jajčece potem dodati spermija čisto normalno boriti oploditi zdaj pozornost dati samec spermija spermij začeti uničevati prodreti",
+        "hashtags": [],
+        "mentions": [
+            "slov1ka"
+        ],
+        "user": {
+            "name": "Blog Slovenija🇸🇮",
+            "screen_name": "BlogSlovenija",
+            "description": "pravzaprav nas je več. na linku je spisek vseh partizanskih poveljnikov v sloveniji. vredno pogleda!"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.6802001595497131,
+            "topic_bias": "desno",
+            "topic_mentioned": "splav",
+            "topic_score": 0.5925278099306925,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1351486888352350208,
+        "created_at": "Tue Jan 19 11:09:18 +0000 2021",
+        "raw_text": "Argumentov je več, kot spermijev v odvrženem kondomu, volje za debato z vam podobnimi pa pač ne.",
+        "lemma_text": "argument več spermij odvržen kondom volja debata podoben",
+        "hashtags": [],
+        "mentions": [
+            "milemile37",
+            "nefiltriran",
+            "tamaravonta"
+        ],
+        "user": {
+            "name": "Evka Liptus",
+            "screen_name": "mahkovic_eva",
+            "description": "mejhna, ampak brcnem."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.9310871362686157,
+            "topic_bias": "desno",
+            "topic_mentioned": "splav",
+            "topic_score": 0.5348982433646372,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1351490480094257158,
+        "created_at": "Tue Jan 19 11:23:34 +0000 2021",
+        "raw_text": "Moj komentar se je nanašal predvsem na vaše poimenovanje fetusa, oziroma embria z 'dojenček'. In čeprav se organi seveda razvijajo so izven maternice pri 3 mesecih GD povsem nefunkcionalni.",
+        "lemma_text": "komentar nanašati poimenovanje fetus embrio dojenček organ razvijati maternica mesec gd povsem nefunkcionalen",
+        "hashtags": [],
+        "mentions": [
+            "nefiltriran",
+            "milemile37",
+            "tamaravonta"
+        ],
+        "user": {
+            "name": "Evka Liptus",
+            "screen_name": "mahkovic_eva",
+            "description": "mejhna, ampak brcnem."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "negative",
+            "sentiment_score": 0.8390575647354126,
+            "topic_bias": "desno",
+            "topic_mentioned": "splav",
+            "topic_score": 0.46665144342197,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1351512097801306115,
+        "created_at": "Tue Jan 19 12:49:28 +0000 2021",
+        "raw_text": "Ko boste sami imeli dojenčka boste morda razumeli zakaj sem tako poimenoval. Jaz pri svojih otrocih nisem videl fetusa ampak dojenčke.",
+        "lemma_text": "sam imeti dojenček razumeti poimenovati otrok videti fetus dojenček",
+        "hashtags": [],
+        "mentions": [
+            "tamaravonta",
+            "mahkovic_eva",
+            "milemile37"
+        ],
+        "user": {
+            "name": "Nefiltriran",
+            "screen_name": "nefiltriran",
+            "description": ""
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.5430386662483215,
+            "topic_bias": null,
+            "topic_mentioned": "splav",
+            "topic_score": 0.6120338361048674,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1362181988640251905,
+        "created_at": "Wed Feb 17 23:27:48 +0000 2021",
+        "raw_text": "Nekaj je pozitivnega pri teh levuharskih starših. Rojevajo izrojence, ki nimajo otrok.",
+        "lemma_text": "pozitiven levuharski starš rojevati izrojenca imeti otrok",
+        "hashtags": [],
+        "mentions": [
+            "SlovenijaVsrcu"
+        ],
+        "user": {
+            "name": "Štefka Popit",
+            "screen_name": "PopitStefka",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "positive",
+            "sentiment_score": 0.40255922079086304,
+            "topic_bias": "levo",
+            "topic_mentioned": "splav",
+            "topic_score": 0.464536309625006,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1345641043283202049,
+        "created_at": "Sun Jan 03 08:00:00 +0000 2021",
+        "raw_text": "Kako naj z otroki govorimo o Bogu njihovi starosti primerno?",
+        "lemma_text": "otrok govoriti bog starost primerno",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Aleteia Slovenija",
+            "screen_name": "AleteiaSI",
+            "description": "navdih življenju. obiščite nas na ."
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.5565824508666992,
+            "topic_bias": null,
+            "topic_mentioned": "splav",
+            "topic_score": 0.4995050540586703,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    }
+]

@@ -1,0 +1,4667 @@
+[
+    {
+        "id": 1375336725225017344,
+        "created_at": "Fri Mar 26 06:40:02 +0000 2021",
+        "raw_text": "Slovenski škofije so sklenili, da 26.3. v Cerkvi v Sloveniji obeležimo dan molitve za žrtve spolnih zlorab. Verniki pri vseh svetih mašah zmolijo , ki jo je pripravila Papeška komisija za zaščito otrok:",
+        "lemma_text": "slovenski škofija skleniti cerkev slovenija obeležiti dan molitev žrtev spolen zloraba vernik svet maša zmoliti pripraviti papeški komisija zaščita otrok",
+        "hashtags": [
+            "danes",
+            "molitev"
+        ],
+        "mentions": [
+            "TutelaMinorum"
+        ],
+        "user": {
+            "name": "SŠK",
+            "screen_name": "katoliskacerkev",
+            "description": "official account of slovenian bishops' conference and catholic church in slovenia | rt, follow & quote ≠ endorsement |"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.8729486465454102,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.6024669010259265,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375299250850947076,
+        "created_at": "Fri Mar 26 04:11:07 +0000 2021",
+        "raw_text": "in Gospod, daj nam moči na pravi način in ob pravem času ljudem prinašati Evangelij Veselja v in iz moči Tvojega Duha. Amen",
+        "lemma_text": "gospod dati moč pravi način pravi čas človek prinašati evangelij veselje moč duh amen",
+        "hashtags": [
+            "Božji_navdih",
+            "Misel"
+        ],
+        "mentions": [],
+        "user": {
+            "name": "Krščanski možje 🇸🇮",
+            "screen_name": "Krscanski_mozje",
+            "description": "možje, ki iščejo globlje spoznanje boga in želijo biti možje, očetje in sinovi po njegovi volji."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.6697520017623901,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.71129331959115,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375214929897259016,
+        "created_at": "Thu Mar 25 22:36:04 +0000 2021",
+        "raw_text": "Podprl sem domače fante. Sem bil na koncertu. . Pizda. Pogrešam. Prave. Koncerte.",
+        "lemma_text": "podpreti domač fant koncert pizda pogrešati pravi koncert",
+        "hashtags": [
+            "HaikuGarden"
+        ],
+        "mentions": [],
+        "user": {
+            "name": "Drejc 🇸🇮",
+            "screen_name": "phr3core",
+            "description": "“...best away from the flock.”"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.8699058294296265,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4934499014996,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375385614300938242,
+        "created_at": "Fri Mar 26 09:54:18 +0000 2021",
+        "raw_text": "Hm, ni povsem tako. Redovniki se zavezejo tudi obljubi tega (revscine), ja, medtem ko skofijski duhovniki pa ne nujno. Kardinali so iz vrst obojih (papez je npr jezuit)...",
+        "lemma_text": "povsem redovnik zavezati obljubiti revscina medtem skofijski duhovnik nujno kardinal vrsta oboj papez npr jezuit",
+        "hashtags": [],
+        "mentions": [
+            "sasatbelart",
+            "LaraValic"
+        ],
+        "user": {
+            "name": "Družinska Terapija Vita Bona",
+            "screen_name": "druzinska",
+            "description": "katja knez steinbuch, zdt"
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.6509400010108948,
+            "topic_bias": null,
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4586353942297089,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375411822170406913,
+        "created_at": "Fri Mar 26 11:38:26 +0000 2021",
+        "raw_text": "Število katoličanov po svetu stabilno. Več duhovnikov, manj redovnic",
+        "lemma_text": "število katoličan svet stabilen več duhovnik manj redovnica",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Ivan Herceg",
+            "screen_name": "IvanHerceg6",
+            "description": "urednik slovenskih oddaj radia vatikan"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.5309339761734009,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.5920571766815438,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375364853033013252,
+        "created_at": "Fri Mar 26 08:31:48 +0000 2021",
+        "raw_text": "Monografija s prispevki z znanstvenega posveta ob razstavi Knjiga. Znanje. Razum., Od protestantizma do razsvetljenstva (1500–1800), ki je v Mestnem muzeju Ljubljana potekal 7. in 8. oktobra 2020.",
+        "lemma_text": "monografija prispevek znanstven posvet razstava knjiga znanje razum. protestantizem razsvetljenstvo mesten muzej ljubljana potekati oktober",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Muzej & galerije",
+            "screen_name": "MGMLj",
+            "description": "muzej in galerije mesta ljubljane / museum and galleries of ljubljana"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.5973340272903442,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4936514673218669,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375390163761782787,
+        "created_at": "Fri Mar 26 10:12:23 +0000 2021",
+        "raw_text": "Pasijonsko gibanje Pasijonski veter in bratje kapucini so skupaj z režiserjem Škofjeloškega pasijona jezuitom p. Marjanom Kokaljem pripravili predavanje o duhovnem sporočilu Škofjeloškega pasijona z naslovom PEKEL. Vabljeni k ogledu nocoj ob 19.30, več na !",
+        "lemma_text": "pasijonski gibanje pasijonski veter brat kapucin skupaj režiser škofjeloški pasijon jezuit p. marjan kokalj pripraviti predavanje duhoven sporočilo škofjeloški pasijon naslov pekel vabljen ogled nocoj več",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Muzejsko društvo Škofja Loka",
+            "screen_name": "MDLoka",
+            "description": "pod geslom »za našo stvar« že od leta 1937."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.7621851563453674,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.6874073102278917,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375365470384193538,
+        "created_at": "Fri Mar 26 08:34:15 +0000 2021",
+        "raw_text": "Izpeljanka znamenitega pozdrava sv.Frančiška: Mir in vse dobro?",
+        "lemma_text": "izpeljanka znamenit pozdrav sv. frančiški mir dober",
+        "hashtags": [],
+        "mentions": [
+            "krena19639208",
+            "BojanPozar",
+            "tfajon",
+            "BorutPahor",
+            "JJansaSDS"
+        ],
+        "user": {
+            "name": "Maja",
+            "screen_name": "aja95779599",
+            "description": ""
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.855440080165863,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.601930630821268,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375340721205620736,
+        "created_at": "Fri Mar 26 06:55:55 +0000 2021",
+        "raw_text": "Po odločitvi SŠK je danes molitveni dan za VSE žrtve spolnih zlorab. V znak solidarnosti z žrtvami prižgimo svečo in se jih spomnimo z molitvijo. Če ne molimo, se pa vsaj spomnimo nanje in na njihovo trpljenje.",
+        "lemma_text": "odločitev sšk danes molitven dan žrtev spolen zloraba znak solidarnost žrtev prižgiti sveča spomniti molitev moliti spomniti trpljenje",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Tadej Ložar",
+            "screen_name": "LozarTadej",
+            "description": "prvo kristusov duhovnik potem vse drugo. kaplan na igu (2019- )"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.9245510697364807,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.6015407449873275,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375533611055775744,
+        "created_at": "Fri Mar 26 19:42:23 +0000 2021",
+        "raw_text": "Jaz s svojo družino že dlje časa pred pojavom korone nisem mogel iti k maši, ker je bilo jasno izraženo s strani domačega občestva (večkrat!), da smo nezaželjeni.",
+        "lemma_text": "družina dolgo čas pojav korona iti maša jasno izražen stran domač občestvo večkrat nezaželjen",
+        "hashtags": [],
+        "mentions": [
+            "Komar4442"
+        ],
+        "user": {
+            "name": "Sebastjan Erlah",
+            "screen_name": "serlah2019",
+            "description": "master of , ex , : , , , , . contact: sebastjan.erlah.net"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9108285307884216,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.41614101570899015,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375474289651150854,
+        "created_at": "Fri Mar 26 15:46:40 +0000 2021",
+        "raw_text": "Kardinal Schönborn iz Dunaja hoče prezreti odločitev, da Katoliška cerkev ne more blagoslavljati istospolnih parov",
+        "lemma_text": "kardinal schönborn dunaj prezreti odločitev katoliški cerkev blagoslavljati istospolen par",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Tednik Demokracija",
+            "screen_name": "Demokracija1",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.8932507634162903,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.48679594491241573,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375704150797914113,
+        "created_at": "Sat Mar 27 07:00:03 +0000 2021",
+        "raw_text": "in Gospod usliši vsako molitev srca, ki v polnosti pripada Njemu.",
+        "lemma_text": "gospod uslišati molitev srce polnost pripadati",
+        "hashtags": [
+            "Božji_navdih",
+            "Misel"
+        ],
+        "mentions": [],
+        "user": {
+            "name": "Krščanski možje 🇸🇮",
+            "screen_name": "Krscanski_mozje",
+            "description": "možje, ki iščejo globlje spoznanje boga in želijo biti možje, očetje in sinovi po njegovi volji."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.77060467004776,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.5141316221701012,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375704839318028288,
+        "created_at": "Sat Mar 27 07:02:47 +0000 2021",
+        "raw_text": "Na cvetno nedeljo bomo vstopili v veliki teden, ki ga zaznamujejo tudi slovesni obredi po cerkvah. Preverili smo, kako bo z obredi in navzočnostjo vernikov v župnijah soboške škofije ...",
+        "lemma_text": "cveten nedelja vstopiti velik teden zaznamovati slovesen obred cerkev preveriti obred navzočnost vernik župnija soboški škofija",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Vestnik",
+            "screen_name": "Vestnik_si",
+            "description": "vestnik je družinski regionalni časopis z informativnimi, gospodarskimi, kulturnimi, razvedrilnimi in drugimi vsebinami za vse generacije."
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.7470476031303406,
+            "topic_bias": null,
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.6104725162093239,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375496908903432195,
+        "created_at": "Fri Mar 26 17:16:33 +0000 2021",
+        "raw_text": "Loški potok. Cepijo že 40-letnike, ker je drugih zmanjkalo. Preverjeno.",
+        "lemma_text": "loški potok cepiti letnik zmanjkati preverjen",
+        "hashtags": [],
+        "mentions": [
+            "xmp125a"
+        ],
+        "user": {
+            "name": "Janez Filiplič #COVIDisAirborne #ZeroCOVID",
+            "screen_name": "JFiliplic",
+            "description": "sam svoj. samosvoj. proti sistemu. najboljše ideje se rojevajo ponoči. z anonimnimi profili ne komuniciram."
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.5970073938369751,
+            "topic_bias": null,
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.42436259716949326,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375726580153135112,
+        "created_at": "Sat Mar 27 08:29:11 +0000 2021",
+        "raw_text": "ma ja, nič pri tem ni kej dost pravično. največja nevarnost, vsaj če po sebi sodim, pa preži v nas samih. uno, ko ne moreš/ne upaš reči ne, ko ti je bolniška luksuz, ko se delovnik preliva od petka do svetka. o tem je fajn govoril pri drevenšku v špilferderberju.",
+        "lemma_text": "meti dost pravičen velik nevarnost soditi prežati sam una upati reči bolniški luksuz delovnik prelivati petek svetek fajn govoriti drevenšek špilferderber",
+        "hashtags": [],
+        "mentions": [
+            "PetraGreiner",
+            "AlHarlamov"
+        ],
+        "user": {
+            "name": "polonca š3tof",
+            "screen_name": "streetof",
+            "description": "zadnja na občinskem prvenstvu v krosu. kamnik, 1990."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.7733826041221619,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4151443935154658,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375798601142657024,
+        "created_at": "Sat Mar 27 13:15:22 +0000 2021",
+        "raw_text": "Križev pot 9. postaja JEZUS PADE TRETJIČ POD KRIŽEM.",
+        "lemma_text": "križev pot postajati jezus pasti tretjič križ",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "FM Dostojevski🙏🕊️🇸🇮",
+            "screen_name": "Bmk61129757",
+            "description": "dominus illuminatio mea"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9330605268478394,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4678109754835257,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375874375681970176,
+        "created_at": "Sat Mar 27 18:16:28 +0000 2021",
+        "raw_text": "Lep spomin na krasno jutro, preprosto cerkev, čudovit mir... Tu je še kamen lep in vsak cvet, ki more preživet´, svét. Rt Planka, kjer se mešajo tudi vode in vetrovi S in J Dalmacije, in se celina najbolj zareže v Jadran.",
+        "lemma_text": "lep spomin krasen jutro preprost cerkev čudovit mir tu kamen lep cvet preživet svét",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "FM Dostojevski🙏🕊️🇸🇮",
+            "screen_name": "Bmk61129757",
+            "description": "dominus illuminatio mea"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.9101139903068542,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4348255766171915,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375841967502979077,
+        "created_at": "Sat Mar 27 16:07:41 +0000 2021",
+        "raw_text": "In ja danes se najbolj slonijo tisti, ki so leta nazaj prepevali 'banda kravatarska'. Spomin zlate ribice. Dobra poanta",
+        "lemma_text": "danes najbolj sloneti leto nazaj prepevati banda kravatarski spomin zlat ribica dober poanta",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Bisagin",
+            "screen_name": "Bisag_In",
+            "description": "takle mamo"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.6822464466094971,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.43634788985663303,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1376046231747710976,
+        "created_at": "Sun Mar 28 05:39:22 +0000 2021",
+        "raw_text": "Blagoslovljena Cvetna (oljčna) nedelja ali nedelja Gospodovega trpljenja",
+        "lemma_text": "blagoslovljen cveten oljčen nedelja nedelja gospodov trpljenje",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "andreja sum podpira PV JJ in VR🇸🇮",
+            "screen_name": "SumAndreja",
+            "description": ""
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.5878887176513672,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.5002863059047059,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375899129910530057,
+        "created_at": "Sat Mar 27 19:54:50 +0000 2021",
+        "raw_text": "U, madonca-še kako izgubljena žlahta se lahko najde tu gor! Če so korenine štajerske- žlahtnik",
+        "lemma_text": "izgubljen žlahta lahko najti tu gor korenina štajerski žlahtnik",
+        "hashtags": [],
+        "mentions": [
+            "Zverjasec",
+            "polikarbonat"
+        ],
+        "user": {
+            "name": "m_o_i @my home sweet home",
+            "screen_name": "moi00464394",
+            "description": "e = m*c2 always!"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9295128583908081,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4951234674795307,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1376057542405726208,
+        "created_at": "Sun Mar 28 06:24:18 +0000 2021",
+        "raw_text": "Blagoslovljeno,mirno in zdravo Cvetno nedeljo od srca želim vsem ljudem čistega srca in misli!",
+        "lemma_text": "blagoslovljen miren zdrav cveten nedelja srce človek čist srce misel",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Alenka Zagar Slana",
+            "screen_name": "zagar_slana",
+            "description": ""
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.981238842010498,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.40688124764027683,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375843941417897987,
+        "created_at": "Sat Mar 27 16:15:32 +0000 2021",
+        "raw_text": "V aprilski številki revije Ognjišče je objavljen obsežen 6-stranski članek o Škofjeloškem pasijonu, dostopen tudi na . Naj vsebinsko bogat in pripovedno razgiban prispevek odmeva v vas v času še zadnjih priprav na letošnjo Veliko noč. Vabljeni k branju!",
+        "lemma_text": "aprilski številka revija ognjišče objavljen obsežen stranski članek škofjeloški pasijon dostopen vsebinsko bogat pripovedno razgiban prispevek odmevati čas zadnji priprava letošnji velik noč vabljen branje",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Muzejsko društvo Škofja Loka",
+            "screen_name": "MDLoka",
+            "description": "pod geslom »za našo stvar« že od leta 1937."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.7881152629852295,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.6419335137947965,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1376115477366312963,
+        "created_at": "Sun Mar 28 10:14:31 +0000 2021",
+        "raw_text": "vidiš to je lepo ko pred cerkvijo ( Frančiškanska v Lj) posnamete svoj spot....bog odpušča....",
+        "lemma_text": "videti lepo cerkev frančiškanski lj posneti spot bog odpuščati",
+        "hashtags": [],
+        "mentions": [
+            "strankalevica",
+            "LukaMesec"
+        ],
+        "user": {
+            "name": "Andrej",
+            "screen_name": "Andrej30931764",
+            "description": "independant free mind, slo domoljub, bog živi nam deželo..."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.46960002183914185,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.8522497320307784,
+            "party_bias": "levo",
+            "party_mentioned": "Levica"
+        }
+    },
+    {
+        "id": 1369992201099415555,
+        "created_at": "Thu Mar 11 12:42:48 +0000 2021",
+        "raw_text": "A je še katero drugo stvar lažje presoditi kot to ali je nekdo kristjan ali ne? Se drži krščanskih zapovedi? Ne? Ni kristjan. Ne velja čez teden grešiti, v nedeljo pa se pokazat k maši.",
+        "lemma_text": "stvar lahko presoditi kristjan držati krščanski zapoved kristjan veljati teden grešiti nedelja pokazat maša",
+        "hashtags": [
+            "priložnostnikristjan"
+        ],
+        "mentions": [
+            "aleshojs",
+            "Refleksija2",
+            "LjudmilaNovak"
+        ],
+        "user": {
+            "name": "KJesih",
+            "screen_name": "KJesih",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.5250528454780579,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.8002132066131532,
+            "party_bias": "levo",
+            "party_mentioned": "SDS"
+        }
+    },
+    {
+        "id": 1376142518727929860,
+        "created_at": "Sun Mar 28 12:01:58 +0000 2021",
+        "raw_text": ",hvala. Lepo praznujte Cvetno nedeljo.",
+        "lemma_text": "hvala lepo praznovati cveten nedelja",
+        "hashtags": [],
+        "mentions": [
+            "MetkaZevnik"
+        ],
+        "user": {
+            "name": "Romana Jančar",
+            "screen_name": "roma9na",
+            "description": ""
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.9793521165847778,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.43694738508671765,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1376312861937516548,
+        "created_at": "Sun Mar 28 23:18:51 +0000 2021",
+        "raw_text": "Odpuščanja ni prosil nas! Boga je prosil, ker zasedajo na praznični dan!",
+        "lemma_text": "odpuščanje prositi bog prositi zasedati prazničen dan",
+        "hashtags": [],
+        "mentions": [
+            "badabumbadabum",
+            "Ohinsploh"
+        ],
+        "user": {
+            "name": "🐘🐞☉💉TinkCares💉🦄🍀🌝",
+            "screen_name": "TinkCares",
+            "description": "kind to kind tweeps p.s. ne znam postavljat vejic"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.636895477771759,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.45729264422588417,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1376103335305035776,
+        "created_at": "Sun Mar 28 09:26:16 +0000 2021",
+        "raw_text": "Danes s cvetno nedeljo se začne neposredna priprava na veliko noč, ki je največji krščanski praznik. Lepo praznovanje!",
+        "lemma_text": "danes cveten nedelja začeti neposreden priprava velik noč velik krščanski praznik lep praznovanje",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Boštjan Lesjak 🇸🇮",
+            "screen_name": "lesjakb",
+            "description": "veteran vojne za slovenijo, mag. inž. log. veteran of war for slovenia, master of logistics."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.9613834619522095,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.539851791098655,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1376080238547980290,
+        "created_at": "Sun Mar 28 07:54:29 +0000 2021",
+        "raw_text": "BLAGOSLOVLJENO CVETNO NEDELJO ŽELIM VSEM! NAJ NAS POVSOD SPREMLJA BOŽJA BLIŽINA.",
+        "lemma_text": "blagoslovljen cveten nedelja povsod spremljati božji bližina",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Dejan Škvarč",
+            "screen_name": "Skolobrinski",
+            "description": ""
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.9682810306549072,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.6105853849854932,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1376140734575874051,
+        "created_at": "Sun Mar 28 11:54:53 +0000 2021",
+        "raw_text": "Zaradi pandemije covida-19 je lahko mašo v živo spremljalo le okoli 120 vernikov in približno 30 kardinalov.",
+        "lemma_text": "pandemija covid lahko maša živo spremljati vernik približno kardinal",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "📱MMC RTV Slovenija",
+            "screen_name": "rtvslo",
+            "description": "z vami tvita novinarska ekipa mmc rtv slovenija. the official rtvslo.si on twitter."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.7963901162147522,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.801437499115652,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1376184219186118656,
+        "created_at": "Sun Mar 28 14:47:40 +0000 2021",
+        "raw_text": "V času zaprtja verski obredi brez vernikov, tudi v velikonočnem času",
+        "lemma_text": "čas zaprtje verski obred vernik velikonočen čas",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "STA novice",
+            "screen_name": "STA_novice",
+            "description": "slovenska tiskovna agencija slovenian press agency"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.6282098889350891,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.5348196206041255,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1376192071644614656,
+        "created_at": "Sun Mar 28 15:18:52 +0000 2021",
+        "raw_text": "Uliti ne ve, da katoliški duhovniki morajo vsak dan opravit vsaj eno bogoslužje.",
+        "lemma_text": "uliti vedeti katoliški duhovnik dan opraviti bogoslužje",
+        "hashtags": [],
+        "mentions": [
+            "CZCBZ",
+            "plakic2",
+            "vladaRS"
+        ],
+        "user": {
+            "name": "Josef von Mlinaritz podpira galaktično vlado",
+            "screen_name": "meteoriterain",
+            "description": "a word is my sword, and patience is my strategy"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.5081835389137268,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.5247150133713245,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1376180664333172740,
+        "created_at": "Sun Mar 28 14:33:33 +0000 2021",
+        "raw_text": "Velika noč sicer ni ušiv praznik, ampak je velik praznik. Z ostalim pa se strinjam.",
+        "lemma_text": "velik noč ušiv praznik velik praznik ostal strinjati",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Ivan Maček Novak 🇸🇮",
+            "screen_name": "zaslovenijo2",
+            "description": "hermenevt. supporting mr. presednik and independent slovenia since 1944!"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.9059075713157654,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.503462073361008,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1376179744354537479,
+        "created_at": "Sun Mar 28 14:29:53 +0000 2021",
+        "raw_text": "Glej zlomka, še sonce je posijalo. A veste kaj je največji paradoks, da še kristjani ne morejo več praznovati svojih verskih praznikov tako kot so jih bili navanjeni, za povrh pa se je njihova duhovščina spajdašila s to oblastno hunto, ki jim odreja omejitve in prepovedi!",
+        "lemma_text": "gledati zlomkati sonce posijati vedeti velik paradoks kristjan več praznovati verski praznik navanjen duhovščina spajdašiti oblasten hunta odrejati omejitev prepoved",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Rafael Zupančič Raf",
+            "screen_name": "RafZupancic",
+            "description": "spet igram rusko ruleto, bomo videli, če bo prvi poskus v prazno ali morda v polno, ..."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9230837821960449,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.5071907405182602,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1376076136912986113,
+        "created_at": "Sun Mar 28 07:38:11 +0000 2021",
+        "raw_text": "Prenosi svetih maš in prazničnih bogoslužij v velikem tednu 2021 | Katoliška Cerkev",
+        "lemma_text": "prenos svet meti prazničen bogoslužija velik teden katoliški cerkev",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Janez Janša",
+            "screen_name": "JJansaSDS",
+            "description": "pm 2020 -, 2004-2008, 2012-2013, president of sds and vp of cdi-idc, mod 1990-94 & 2000, p of the euco 2008 rtnotendorsement"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.5916423201560974,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.6581855419497367,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1376225680946515971,
+        "created_at": "Sun Mar 28 17:32:26 +0000 2021",
+        "raw_text": "Obliko verskega obreda nima posvetna oblast kaj predpisovati, to je stvar cerkve! Posvetna oblast lahko prepove zbiranje ljudi, če so izredne razmere, kar v praksi pomeni, da ne more biti množičnih verskih obredov, ne more pa reči prepovedani so, kar je rekla. Bong",
+        "lemma_text": "oblika verski obred imeti posveten oblast predpisovati stvar cerkev posveten oblast lahko prepovedati zbiranje človek izreden razmera praksa pomeniti množičen verski obred reči prepovedan reči bong",
+        "hashtags": [],
+        "mentions": [
+            "JanezPogorelec",
+            "vladaRS"
+        ],
+        "user": {
+            "name": "Čezvesoljska Zombi cerkev blaženega zvonjenja",
+            "screen_name": "CZCBZ",
+            "description": "temeljno poslanstvo naše cerkve je zvonjenje z svetim zvonom ter blagozvonjenim piskrom in ponvijo. dolžnost vsakega vernika je širjenje vere, sporočanje vseh"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.5424728989601135,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.47039479136678825,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1376146336366669825,
+        "created_at": "Sun Mar 28 12:17:08 +0000 2021",
+        "raw_text": "(CVETNA NEDELJA) Papež Frančišek je na današnjo cvetno nedeljo z mašo začel neposredne priprave na veliko noč, ki bo čez teden dni.",
+        "lemma_text": "cveten nedelja papež frančišek današnji cveten nedelja maša začeti neposreden priprava velik noč teden dan",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Večer",
+            "screen_name": "vecer",
+            "description": ""
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.5708445310592651,
+            "topic_bias": null,
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4427309013879166,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1376106629142298625,
+        "created_at": "Sun Mar 28 09:39:21 +0000 2021",
+        "raw_text": "Dajte no, piše \"njihovim največjem prazniku\", in to je točno tako, to bo naš največji praznik, pa ne samo naš, Kristus je odrešil svet, tudi Škarjota.",
+        "lemma_text": "dati no pisati velik praznik točno velik praznik kristus odrešiti svet škarjot",
+        "hashtags": [],
+        "mentions": [
+            "miroz_z",
+            "droziNATALI",
+            "RTV_Slovenija",
+            "rtvslo"
+        ],
+        "user": {
+            "name": "Franc Medic",
+            "screen_name": "framedic",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.5788784623146057,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4007706203982335,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1376093560227962880,
+        "created_at": "Sun Mar 28 08:47:25 +0000 2021",
+        "raw_text": "Danes praznujemo cvetno nedeljo Pridiga nadškofa Alojzija Cvikla na cvetno nedeljo v mariborski stolnici",
+        "lemma_text": "danes praznovati cveten nedelja pridiga nadškof alojzij cvikl cveten nedelja mariborski stolnica",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "SŠK",
+            "screen_name": "katoliskacerkev",
+            "description": "official account of slovenian bishops' conference and catholic church in slovenia | rt, follow & quote ≠ endorsement |"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.7675437331199646,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.5979844888902958,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1376076548810412032,
+        "created_at": "Sun Mar 28 07:39:50 +0000 2021",
+        "raw_text": "Cvetna nedelja je. Bliža se Velika noč. Najpomembnejši verski praznik v . O pripravah na Veliko noč piše Matija Šorli.",
+        "lemma_text": "cveten nedelja bližati velik noč pomemben verski praznik priprava velik noč pisati matija šorli",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "DOM",
+            "screen_name": "DomovinskaLiga",
+            "description": "najprej slovenija! za varnost in blaginjo slovenskih državljanov! za suvereno slovenijo v evropi domovin in svobode!"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.5106483697891235,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.5418837085147771,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1376186184725106689,
+        "created_at": "Sun Mar 28 14:55:29 +0000 2021",
+        "raw_text": "Ej, en ima prošnjo. Pravi, da bi prišel v Robidišče . .",
+        "lemma_text": "imeti prošnja praviti priti robidišče",
+        "hashtags": [],
+        "mentions": [
+            "toplovodar"
+        ],
+        "user": {
+            "name": "Marko Urbanija",
+            "screen_name": "urbanijam",
+            "description": ""
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.6518471240997314,
+            "topic_bias": null,
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.45570341137177656,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1376097763188953091,
+        "created_at": "Sun Mar 28 09:04:08 +0000 2021",
+        "raw_text": "Cvetna Nedelja, začetek Jezusovega trpljenja in našega odrešenja.",
+        "lemma_text": "cveten nedelja začetek jezusov trpljenje odrešenje",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Aleksandra Krejci",
+            "screen_name": "AleksKrejci",
+            "description": "a retired teacher who tries to respect people, love nature, admire animals and has her own opinion about her country's policy"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.5409274101257324,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.7269727485649039,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1376055472382488578,
+        "created_at": "Sun Mar 28 06:16:05 +0000 2021",
+        "raw_text": "Cvetna nedelja: Jezus posvečuje trud za edinost via",
+        "lemma_text": "cveten nedelja jezus posvečevati trud edinost via",
+        "hashtags": [],
+        "mentions": [
+            "domovina"
+        ],
+        "user": {
+            "name": "Anton Tomazic",
+            "screen_name": "AntonTomazic",
+            "description": "lawyer & entrepreneur"
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.6228936314582825,
+            "topic_bias": null,
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.5052165157498417,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1376100712384495616,
+        "created_at": "Sun Mar 28 09:15:51 +0000 2021",
+        "raw_text": "Apel in drugim registriranim verskim skupnostim, da vernike tudi v letošnjem svetem času poveže v duhovnosti in premišljevanju Velikega tedna predvsem z osebno molitvijo in dobrimi deli. Kolektivna bogoslužja bodo tako lažje kmalu v polnosti zasijali!",
+        "lemma_text": "apel registriran verski skupnost vernik letošnji svet čas povezati duhovnost premišljevanje velik teden oseben molitev dober delo kolektiven bogoslužje lahko kmalu polnost zasijati",
+        "hashtags": [],
+        "mentions": [
+            "katoliskacerkev"
+        ],
+        "user": {
+            "name": "Andrej Hoivik",
+            "screen_name": "andrejhoivik",
+            "description": "- mag. kem. - science, politics, music and movies - for the truth and progress! rts are not endorsements"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.5576381087303162,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.5378979511481824,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1376268393205141511,
+        "created_at": "Sun Mar 28 20:22:09 +0000 2021",
+        "raw_text": "Jaro se je spoprijateljil s kapucini in skupaj z njimi je v 3. raz.klasične gimn. na Studencih ustanovil fantovski odsek in postal apostol tamkajšnjih fantov.Če je bilo le mogoče, je bil vsak dan pri sveti maši in pri obhajilu ter fante spodbujal k prejemanju zakramentov",
+        "lemma_text": "jaro spoprijateljiti kapucin skupaj raza klasičen gimn. studenec ustanoviti fantovski odsek postati apostol tamkajšnji fant mogoč dan svet maša obhajilo fant spodbujati prejemanje zakrament",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "drustvohudajama45",
+            "screen_name": "DrustvoHudajama",
+            "description": "mara lončar me and my whole family was killed by the communists in 1942."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.5322124361991882,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.5394326578193195,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1376185769170247683,
+        "created_at": "Sun Mar 28 14:53:50 +0000 2021",
+        "raw_text": "Nisem ujela Žegenj v soboto, in maša v nedeljo je prepovedana ali bo?",
+        "lemma_text": "ujeti žegenj sobota maša nedelja prepovedan",
+        "hashtags": [],
+        "mentions": [
+            "Nogavicka_Pika"
+        ],
+        "user": {
+            "name": "Ana",
+            "screen_name": "aana104",
+            "description": "vecino casa me spremlja tudi disleksija. vcasih sanjam tudi podnevi. ampak mucki kar steje je zgodba."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.7755213379859924,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.6580362701054161,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1376208061451358209,
+        "created_at": "Sun Mar 28 16:22:25 +0000 2021",
+        "raw_text": "Blagoslovljeno Cvetno nedeljo in Veliki teden vam želim",
+        "lemma_text": "blagoslovljen cveten nedelja velik teden",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Sabina Homjak",
+            "screen_name": "SabinaHomjak1",
+            "description": ""
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.9703713655471802,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4787797741916045,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1376054893585268736,
+        "created_at": "Sun Mar 28 06:13:47 +0000 2021",
+        "raw_text": "Bogoslužja na cvetno nedeljo bodo danes potekala v okrnjeni obliki.",
+        "lemma_text": "bogoslužje cveten nedelja danes potekati okrnjen oblika",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Delo",
+            "screen_name": "Delo",
+            "description": "osrednji slovenski časnik. novinarske vsebine. tiskane in digitalne."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.6107333898544312,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.44837255063590653,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1376041888277532674,
+        "created_at": "Sun Mar 28 05:22:06 +0000 2021",
+        "raw_text": "Lepo in blagoslovljen nedeljo ti želim...Bog naj te čuva korenina...",
+        "lemma_text": "lepo blagoslovljen nedelja bog čuvati korenina",
+        "hashtags": [],
+        "mentions": [
+            "NIP44258070",
+            "BayernMako"
+        ],
+        "user": {
+            "name": "S. K.❤🇩🇪❤🇸🇮❤",
+            "screen_name": "Stanisl15592752",
+            "description": "rojen na prelepi stajerski zemlji, drzavljan nemcije, vecni kritik globalizacije, eu, politicnega islama, kakor tudi leve izdajalske politicne opcije.."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.943070650100708,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.43418625540106515,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1376167462471880704,
+        "created_at": "Sun Mar 28 13:41:05 +0000 2021",
+        "raw_text": "Dopoldne maša, nedeljsko kosilo, pol pa polni energije na \"delo\".",
+        "lemma_text": "dopoldne maša nedeljski kosilo pol poln energija delo",
+        "hashtags": [],
+        "mentions": [
+            "Trkaj"
+        ],
+        "user": {
+            "name": "Andreja Senk",
+            "screen_name": "SenkAndreja",
+            "description": ""
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.8219900131225586,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.7402327508848671,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1376135434242289669,
+        "created_at": "Sun Mar 28 11:33:49 +0000 2021",
+        "raw_text": "Za nedeljo boste potrebovali potrdilo, da ste bili pri maši, če boste hoteli it izven svoje regije.",
+        "lemma_text": "nedelja potrebovati potrdilo maša it regija",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Franc Plevnik",
+            "screen_name": "FPlevnik",
+            "description": "rodoljub = antiliberalec + antiklerikalec; vzpon nacionalizma v eu; za svobodoljubno evropo nacionalnih držav; spirit of 769"
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.6849938631057739,
+            "topic_bias": null,
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.7033848348976665,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384120513199427589,
+        "created_at": "Mon Apr 19 12:23:40 +0000 2021",
+        "raw_text": "Tu sem se zmotil. Imaš prav. Kleklanje in vezenja je nekaj lepega in tradicionalnega. Ni za komuniste.",
+        "lemma_text": "imeti lep kleklanje zmotiti vezenje tradicionalen tu komunist",
+        "hashtags": [],
+        "mentions": [
+            "sismismarko",
+            "hitri_jezik"
+        ],
+        "user": {
+            "name": "Cofko Cof 🇸🇮#podpiravlado🇸🇮",
+            "screen_name": "CofkoCof",
+            "description": "3d oblikovalec,hokejist (rekreativno, inline), kolesar (ne petkov) moto: sex, dobra hrana in šport."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.414207398891449,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4075480696720103,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384396634461810688,
+        "created_at": "Tue Apr 20 06:40:53 +0000 2021",
+        "raw_text": "20. april - 365 srečnih dni - čebela za srečo",
+        "lemma_text": "čebela srečen sreča april dan",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Pozitivne Misli",
+            "screen_name": "Misli_pozitivne",
+            "description": "pozitivne misli"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.9380812644958496,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.42096809977335137,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384186555158319106,
+        "created_at": "Mon Apr 19 16:46:06 +0000 2021",
+        "raw_text": "Po moje, ker je Ceferin globoko veren kristjan. Saj nisem vedel, ampak ce je bil lahko krstni boter Agnelliju.. Aja, saj vzorniki Ceferinov Borgijci so bili pa kardinali pa papezi",
+        "lemma_text": "agnelli ceferinov ceferin krsten kristjan kardinal papezi ca lahko veren vzornik borgijec boter globoko vedeti",
+        "hashtags": [],
+        "mentions": [
+            "BojanPozar"
+        ],
+        "user": {
+            "name": "Teleskop",
+            "screen_name": "Telesko41128719",
+            "description": ""
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.894588828086853,
+            "topic_bias": null,
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.5854377330232718,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384440710682877953,
+        "created_at": "Tue Apr 20 09:36:01 +0000 2021",
+        "raw_text": "David Kisilak iz Murske Sobote kot kantor Evangeličanske cerkve skrbi za glasbeno podobo bogoslužij. Kot vernik pripada občestvu Binkoštne cerkve, njegova žena pa je katoličanka. Vendar pravi, da vera in ljubezen premostita vse razlike.",
+        "lemma_text": "vera žena premostiti kantor sobota evangeličanski podoba kisilak vernik david občestvo cerkev binkošten pripadati ljubezen glasben bogoslužij murski katoličanka razlika praviti skrbeti",
+        "hashtags": [
+            "sedmidan"
+        ],
+        "mentions": [],
+        "user": {
+            "name": "Program Ars",
+            "screen_name": "programArs",
+            "description": "kulturno informativne, umetniške, izobraževalne in znanstveno esejistične vsebine. smo kulturna ustanova in radiofonska revija."
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.7039912939071655,
+            "topic_bias": null,
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.5582111058374895,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384548860350144522,
+        "created_at": "Tue Apr 20 16:45:46 +0000 2021",
+        "raw_text": "Delo vlade je, da preudarno sprejema odločitve v imenu in korist skupnosti. Pod to spada tudi upoštevanje nasvetov strokovnjaka.",
+        "lemma_text": "nasvet spadati delo ime sprejemati upoštevanje vlada skupnost strokovnjak preudarno korist odločitev",
+        "hashtags": [],
+        "mentions": [
+            "edvardkadic"
+        ],
+        "user": {
+            "name": "Earcon 🖖👽👾🤖🌍🪐🚀🛸",
+            "screen_name": "WorldIs2Noisy",
+            "description": "updating firmware"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.6974302530288696,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.40994689071660906,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384472278403096576,
+        "created_at": "Tue Apr 20 11:41:28 +0000 2021",
+        "raw_text": "Gorenjska narodna noša. Kdo bo cenil našo tradicijo, če jo politika tako posplošuje?",
+        "lemma_text": "naroden gorenjski posploševati noša politika ceniti tradicija",
+        "hashtags": [],
+        "mentions": [
+            "MatejTonin"
+        ],
+        "user": {
+            "name": "Genco",
+            "screen_name": "Genco68T1",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.8934980034828186,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.48005484330753506,
+            "party_bias": "levo",
+            "party_mentioned": "NSi"
+        }
+    },
+    {
+        "id": 1384593037775495178,
+        "created_at": "Tue Apr 20 19:41:19 +0000 2021",
+        "raw_text": "Bil je poklicni nogometaš in univerzitetno diplomo iz športa. Celo življenje posveča nogometu.",
+        "lemma_text": "šport poklicen posvečati nogometaš življenje diploma univerziteten nogomet",
+        "hashtags": [],
+        "mentions": [
+            "RomanVodeb",
+            "Ale90345415",
+            "DKopse",
+            "GorsekMitja",
+            "mojcav1",
+            "UEFAcom"
+        ],
+        "user": {
+            "name": "flaviumfrigidum",
+            "screen_name": "flaviumfrigidum",
+            "description": ""
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.9169291853904724,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.41345293641658865,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384374304842952705,
+        "created_at": "Tue Apr 20 05:12:09 +0000 2021",
+        "raw_text": "Iz zapisanega je jasno, da kazni niste dobila zaradi dežnika, temveč zato, ker ste se v času, ko se nas je večina držala ukrepov, vključno s tem, da smo za drugi največji krščanski praznik po svetiščih omejili sveta bogoslužja ...",
+        "lemma_text": "praznik svet bogoslužje velik dobiti zato omejiti kazen jasen dežnik vključno večina držati ukrep svetišče zapisan čas krščanski",
+        "hashtags": [
+            "zavajanje",
+            "polresnicaNIresnica",
+            "solidarnost"
+        ],
+        "mentions": [
+            "TeaJarc",
+            "JJansaSDS",
+            "aleshojs"
+        ],
+        "user": {
+            "name": "Matic Lesjak",
+            "screen_name": "LesjakMatic",
+            "description": "kaplan"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.5031265020370483,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.5329500856988711,
+            "party_bias": "levo",
+            "party_mentioned": "SDS"
+        }
+    },
+    {
+        "id": 1384592461008408577,
+        "created_at": "Tue Apr 20 19:39:01 +0000 2021",
+        "raw_text": "Dokažite, da cenite našo tradicijo in kulturo. Na naslednjo sejo vlade pridite oblečeni v narodno nošo. Dokažite državljanom, kaj vse vam pomeni narodna noša.",
+        "lemma_text": "naroden pomeniti dokazati noša državljan naslednji seja kultura ceniti vlada priti tradicija oblečen",
+        "hashtags": [],
+        "mentions": [
+            "MatejTonin"
+        ],
+        "user": {
+            "name": "Shefqet Missouri",
+            "screen_name": "MissouriShefqet",
+            "description": ""
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.7288228869438171,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4705266139020784,
+            "party_bias": "desno",
+            "party_mentioned": "NSi"
+        }
+    },
+    {
+        "id": 1384950324004376580,
+        "created_at": "Wed Apr 21 19:21:03 +0000 2021",
+        "raw_text": "ŠPORT: Od 26. aprila se sproščajo vsa športna tekmovanja in treningi, rekreacija v skupinah do desetih",
+        "lemma_text": "skupina sproščati šport rekreacija april športen tekmovanje trening",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "STA Sport",
+            "screen_name": "STA_Sport",
+            "description": "slovenska tiskovna agencija (slovenian press agency) - novice iz sveta športa"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.7741538286209106,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.46837462446531364,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384997591763533826,
+        "created_at": "Wed Apr 21 22:28:52 +0000 2021",
+        "raw_text": "Med prevozit rdečo luč ali pa protestirat po predpisih je veeeeelika razlika",
+        "lemma_text": "protestirat luč rdeč prevoziti veeeelik razlika predpis",
+        "hashtags": [],
+        "mentions": [
+            "GorazdSkorjanec",
+            "VaneGosnik"
+        ],
+        "user": {
+            "name": "Gospa Nana",
+            "screen_name": "gospa_nana",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.8680453300476074,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.527453038163306,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384735262232690689,
+        "created_at": "Wed Apr 21 05:06:28 +0000 2021",
+        "raw_text": "Pozabili ste naštete vse obsojene na povojnih političnih procesih. Premožne obrtnike, podjetnike, duhovnike, intelektualce. Razredne sovražnike skratka. Nikomur od teh se niso opravičili. Mlogu so bili obsojeni na smrt in usmrčeni. Nobeden sodnik ni za te zločine odgovarjal.",
+        "lemma_text": "sovražnik premožen pozabiti podjetnik političen obrtnik skratka duhovnik opravičiti mlog smrt nobeden odgovarjati usmrčen obsojen razreden povojen naštet sodnik zločin intelektualec proces",
+        "hashtags": [],
+        "mentions": [
+            "Miha84304756"
+        ],
+        "user": {
+            "name": "Karli Erdlen",
+            "screen_name": "KErdlen",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9615692496299744,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4471173699984366,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1385150193054720001,
+        "created_at": "Thu Apr 22 08:35:15 +0000 2021",
+        "raw_text": "Sedaj ni čas za debatiranje o postmaterialnih vrednotah, ekologiji in usodi planeta. Potrebujemo jasno politično platformo, ki bo obsodila janšizem in vse prakse te ideologije, ki iz dneva v dan spreminja strukturo slovenske države in družbe.",
+        "lemma_text": "potrebovati spreminjati političen platforma ideologija dan postmaterialen praksa vrednota jasen država ekologija janšizem slovenski debatiranje usoda družba planet sedaj struktura obsoditi čas",
+        "hashtags": [
+            "politics"
+        ],
+        "mentions": [],
+        "user": {
+            "name": "Alem Maksuti",
+            "screen_name": "MaksutiAlem",
+            "description": "political scientist"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.6095266938209534,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4253058391315874,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1385205206120484868,
+        "created_at": "Thu Apr 22 12:13:51 +0000 2021",
+        "raw_text": "Kult osebnosti, kot najboljši učenec Josipa Broza...Maršal Twito na avionu, pa na vlaku, pa v avtu, pa kosilo je pojedel, pa na sestanku sedi, pa najboljši športnik je, pa najlepši (), pa vse zna in sploh je on začetek vsega....",
+        "lemma_text": "osebnost vlak sedeti sestanek učenec avion dober avto pojesti znati kosilo broz josip kult lep twito maršal športnik začetek",
+        "hashtags": [],
+        "mentions": [
+            "vladaRS",
+            "MorawieckiM"
+        ],
+        "user": {
+            "name": "David Ravnjak",
+            "screen_name": "DavidRavnjak",
+            "description": ""
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.6037920117378235,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.41123486963144096,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1345297423397232640,
+        "created_at": "Sat Jan 02 09:14:34 +0000 2021",
+        "raw_text": "Ali pa na stadionu prisežeš Hitlerju. Je to bolj domovinsko?",
+        "lemma_text": "stadion priseči hitler bolj domovinski",
+        "hashtags": [],
+        "mentions": [
+            "JKranjski",
+            "FKindlhofer",
+            "cikibucka"
+        ],
+        "user": {
+            "name": "Miloš",
+            "screen_name": "CerarMilos",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.7696062922477722,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.41686620207041153,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1355816885309345792,
+        "created_at": "Sun Jan 31 09:55:09 +0000 2021",
+        "raw_text": "To Ministrstvo že destletja vodijo leve politične stranke. Zato ni čudno, da so si nastavile tudi svoje ljudi. Šola je za njih poligon za ZK verouk. Celo zakonsko obvezen!! Zato se nikar ne čudite, da imamo sedaj toliko ljudi -tudi mladih- z \"opranimi\" možgani\".",
+        "lemma_text": "ministrstvo destletje voditi lev političen stranka čuden nastaviti človek šola poligon zk verouk zakonsko obvezen čuditi imeti sedaj človek mlad opran možgani",
+        "hashtags": [],
+        "mentions": [
+            "BojanPozar"
+        ],
+        "user": {
+            "name": "Tone Nolimal",
+            "screen_name": "Nolimato",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9628594517707825,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.41151646082894394,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1347604491961593865,
+        "created_at": "Fri Jan 08 18:02:02 +0000 2021",
+        "raw_text": "Pa sorry imam rad vsa slovenska narečja ampak za Jajota bi se pa tudi spodobilo da se nauči govorit slovensko, ne da to razglašeno petje poslušamo..",
+        "lemma_text": "imeti slovenski narečje jajot spodobiti naučiti govorit slovenski razglašen petje poslušati",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Samo",
+            "screen_name": "Samo23028174",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9070185422897339,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4163235446400765,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1360355804281528324,
+        "created_at": "Fri Feb 12 22:31:12 +0000 2021",
+        "raw_text": "Mnja, jaz sem tudi kot majhen otrok rad poslušal Romano Kranjčan, dokler mi ni njen starejši sin razložil, da se pišejo Krajnčan. In tudi da on ni [kK]ristjan, ampak Kristijan. :)",
+        "lemma_text": "majhen otrok poslušati romano kranjčan dokler star sin razložiti pisati krajnčan kk ristjan kristijan",
+        "hashtags": [],
+        "mentions": [
+            "MarkoPavlisic",
+            "sobrle",
+            "petra_cj"
+        ],
+        "user": {
+            "name": "Matija Polajnar",
+            "screen_name": "rebrjan",
+            "description": "računalničar. katolik. oče trem in mož eni. po malem kmet in sam svoj mojster."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.511188805103302,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4002854332556364,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1365377174426050565,
+        "created_at": "Fri Feb 26 19:04:20 +0000 2021",
+        "raw_text": "Sicer pa je vedno bila razlika med t.i. visoko modo in tem, kaj ljudje realno nosijo. Se pa še zdaj zgrozim, če pomislim na bele štumfe, prekratke hlače in črne glossy čevlje s krom kapco, ki sem jih fural v devetdesetih!",
+        "lemma_text": "vedno razlika t. i. visok moda človek realno nositi zdaj zgroziti pomisliti bel štumf prekratek hlače črn glossy čevelj krom kapco furati",
+        "hashtags": [],
+        "mentions": [
+            "gnk976"
+        ],
+        "user": {
+            "name": "Boris Kovačič",
+            "screen_name": "boris_kovacic",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9293422102928162,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.41395725198277505,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1351956423438184450,
+        "created_at": "Wed Jan 20 18:15:04 +0000 2021",
+        "raw_text": "kaj naša vlada bo v nedeljo povedala če se šole in vrtci odprejo?!?!",
+        "lemma_text": "vlada nedelja povedati šola vrtec odpreti",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Neja ",
+            "screen_name": "Neeja_x3",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.6977384686470032,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.45392434728695574,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1349482442495811587,
+        "created_at": "Wed Jan 13 22:24:21 +0000 2021",
+        "raw_text": "To pomeni, da pri nas v naši župniji ni maš, so pa dovoljene individualne molitve, če želi vernik ali njegova družina, biti sam po razporedu v cerkvi.",
+        "lemma_text": "pomeniti župnija meti individualen molitev vernik družina sam razpored cerkev",
+        "hashtags": [],
+        "mentions": [
+            "vanfranco",
+            "Uradni_list_RS"
+        ],
+        "user": {
+            "name": "Rafael Ziherl",
+            "screen_name": "rafzih",
+            "description": "tehnologija olajša življenje z diabetes tip1 in pameten telefon je postal nujen medicinski pripomoček za mene."
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.6965783834457397,
+            "topic_bias": null,
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.5235131866363623,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1349691874437640193,
+        "created_at": "Thu Jan 14 12:16:33 +0000 2021",
+        "raw_text": "Kot bi se reklo po domače, imam vse zakramente, bil sem tudi ministrant v biljenski župnijski cerkvi. Naj vas ne skrbi, sem kristjan in socialdemokrat.",
+        "lemma_text": "reči domač imeti zakrament ministrant biljenski župnijski cerkev skrbeti kristjan socialdemokrat",
+        "hashtags": [],
+        "mentions": [
+            "CorelTone",
+            "JJansaSDS",
+            "PocivalsekZ",
+            "MatejTonin",
+            "IgorZorcic",
+            "BorutPahor",
+            "strankaSD",
+            "vladaRS"
+        ],
+        "user": {
+            "name": "Matjaž Nemec",
+            "screen_name": "MatjaNemec",
+            "description": "predsednik komisije za nadzor obveščevalnih in varnostnih služb / chairman of the commission for the supervision of intelligence and security services"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.44565922021865845,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.5775705288054177,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1349750989939740673,
+        "created_at": "Thu Jan 14 16:11:27 +0000 2021",
+        "raw_text": "Vse bolj zajeban postaja bit Slovenc, kr kaže da bo res počas treba rit dvignit in it nmal ven, se zborovat...,če bo pa kuhanček bo pa mogoče protest !",
+        "lemma_text": "bolj zajeban postajati slovenc kr kazati počas treba rit dvignit iti nmati ven zborovati kuhanček mogoč protest",
+        "hashtags": [
+            "ifeelslovenija"
+        ],
+        "mentions": [],
+        "user": {
+            "name": "Hrabri aka Gutsy",
+            "screen_name": "cashkee",
+            "description": "the names have been changed to protect the innocent."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9600012302398682,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4256033709344927,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1349761845251473410,
+        "created_at": "Thu Jan 14 16:54:35 +0000 2021",
+        "raw_text": "Plačevanje za sv. mašo ima Svetopisemsko osnovo. V Stari Zavezi so Gospodu prinašali prvence vsega, celo desetino. In to najboljšega. S hvaležnostjo in v zahvalo. Za Boga in duhovnike. Danes večina ljudi ni več neposredno povezana s pridelavo/vzrejo. Tako je denar namesto darov.",
+        "lemma_text": "plačevanje sv. maša imeti svetopisemski osnova star zaveza gospod prinašati prvenec cel desetina dober hvaležnost zahvala bog duhovnik danes večina človek več neposredno povezan pridelava vzreja denar dar",
+        "hashtags": [],
+        "mentions": [
+            "Tine78396749"
+        ],
+        "user": {
+            "name": "Krščanski možje 🇸🇮",
+            "screen_name": "Krscanski_mozje",
+            "description": "možje, ki iščejo globlje spoznanje boga in želijo biti možje, očetje in sinovi po njegovi volji."
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.7794414758682251,
+            "topic_bias": null,
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.6314093929565179,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1350183101377507328,
+        "created_at": "Fri Jan 15 20:48:31 +0000 2021",
+        "raw_text": "‘Sreče človeku ne more dati niti država, niti sistem, niti politična partija. Srečo si lahko človek ustvari samo sam.’",
+        "lemma_text": "sreča človek dati država sistem političen partija sreča lahko človek ustvariti sam",
+        "hashtags": [],
+        "mentions": [
+            "MetkaSmole"
+        ],
+        "user": {
+            "name": "Not an effigy",
+            "screen_name": "notaneffigy",
+            "description": "pro - from survey to strategy / part time - spin doctor / utfr"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.4686930477619171,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.45224966742016887,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1351181899625091076,
+        "created_at": "Mon Jan 18 14:57:23 +0000 2021",
+        "raw_text": "Trenutni oblasti so najbližje časi Avstroogrske, cesarja Franza Jožefa in cesarije Marije Terezije ...",
+        "lemma_text": "trenuten oblast blizek čas avstroogrska cesar franz jožef cesarija marija terezija",
+        "hashtags": [],
+        "mentions": [
+            "ciro_ciril"
+        ],
+        "user": {
+            "name": "Rafael Zupančič Raf",
+            "screen_name": "RafZupancic",
+            "description": "ujet v zarišču covid-19, vsakodnevni boj na življenje in smrt, najprej je treba preživeti, potem pa že bo nekako, še zmeraj je bilo kako!"
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.9134004712104797,
+            "topic_bias": null,
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.42471687356263416,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1351232280958787595,
+        "created_at": "Mon Jan 18 18:17:35 +0000 2021",
+        "raw_text": "Avtomobilski starodobniki zaslužijo čast, spoštovanje in občudovanje, starodobnik Kučan pa vse kaj drugega kot to!",
+        "lemma_text": "avtomobilski starodobnik zaslužiti čast spoštovanje občudovanje starodobnik kučan",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Martin Česenj 🇸🇮",
+            "screen_name": "cesenj",
+            "description": "(upokojeni) avtomobilistični novinar / motoring writer (retired)"
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.43238964676856995,
+            "topic_bias": null,
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4146173464721767,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1351482987171500032,
+        "created_at": "Tue Jan 19 10:53:48 +0000 2021",
+        "raw_text": "Ja, žalostno, da vlada ne ve, kdo vse so prejemniki socialne pomoči. Duhovniki pa poleg ,,pomoči,, še vedno služijo s sv. mašami, pogrebi, obhajanjem, maziljenjem itd. Cena ene maše vsaj par let nazaj je bila 20 eur, 50 eur pa pogreb (brez sv. maše in cerkv.zvonenja).",
+        "lemma_text": "žalosten vlada vedeti prejemnik socialen pomoč duhovnik pomoč vedno služiti sv. maša pogreb obhajanje maziljenje itd. cena maša par leto nazaj eur eur pogreb sv. maša cerkv. zvonenje",
+        "hashtags": [
+            "sampovem"
+        ],
+        "mentions": [
+            "vanfranco"
+        ],
+        "user": {
+            "name": "pika nogvička",
+            "screen_name": "nogvicka",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9241378307342529,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.5047015943098723,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1353820687224463360,
+        "created_at": "Mon Jan 25 21:42:59 +0000 2021",
+        "raw_text": "Papež je zagotovo ponosen na tako goreče vernike.",
+        "lemma_text": "papež zagotovo ponosen goreč vernik",
+        "hashtags": [],
+        "mentions": [
+            "domencukjati",
+            "Kersterin12",
+            "MatejTonin",
+            "NovaSlovenija"
+        ],
+        "user": {
+            "name": "F the sheep",
+            "screen_name": "Fthesheep1",
+            "description": "who cares?"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.9598607420921326,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.6519194281123396,
+            "party_bias": "desno",
+            "party_mentioned": "NSi"
+        }
+    },
+    {
+        "id": 1345814728510210050,
+        "created_at": "Sun Jan 03 19:30:09 +0000 2021",
+        "raw_text": "Vlada je iz covid bobna potegnila fitnese, bazene in športne dvorane. Šolarjem in staršem več sreče prihodnjič.",
+        "lemma_text": "vlada covid boben potegniti fitnesa bazen športen dvorana šolar starš več sreča prihodnjič",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Anja",
+            "screen_name": "AnjaIntihar",
+            "description": "bookworm. an optimist. coffeeholic. journalist at , opinions are my own."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.7998998165130615,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4572799388346702,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1347116402340220928,
+        "created_at": "Thu Jan 07 09:42:33 +0000 2021",
+        "raw_text": "Lepo, da ste čestitali pravoslavnim vernikom, čestitke katoličanom nisem opazil.",
+        "lemma_text": "lepo čestitati pravoslaven vernik čestitka katoličan opaziti",
+        "hashtags": [],
+        "mentions": [
+            "tfajon"
+        ],
+        "user": {
+            "name": "Aleš Flirt",
+            "screen_name": "Ale90345415",
+            "description": ""
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.6473883390426636,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.5710915357617011,
+            "party_bias": "levo",
+            "party_mentioned": "SD"
+        }
+    },
+    {
+        "id": 1364934061152759818,
+        "created_at": "Thu Feb 25 13:43:34 +0000 2021",
+        "raw_text": "V Jordaniji postavili novo cerkev za tisoč vernikov",
+        "lemma_text": "jordanija postaviti nov cerkev vernik",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "All Briefs",
+            "screen_name": "AllBriefs",
+            "description": "moja plitkost sega globoko / my shallowness runs deep"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.9062110185623169,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4880461501257044,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1347325267174445058,
+        "created_at": "Thu Jan 07 23:32:30 +0000 2021",
+        "raw_text": "O moj Bog koliko bolanih je med nami,moj poklon g. Alojz",
+        "lemma_text": "bog bolan poklon g. alojz",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Domoljubka",
+            "screen_name": "domoljubka",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.7770283818244934,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4761562656987514,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1349493418028838928,
+        "created_at": "Wed Jan 13 23:07:57 +0000 2021",
+        "raw_text": "To že skoraj tako zgleda kot maša. Tedensko. Božanstvo pride k vernikom.",
+        "lemma_text": "zgledati maša tedensko božanstvo priti vernik",
+        "hashtags": [],
+        "mentions": [
+            "MitjaIrsic",
+            "24ur_com"
+        ],
+        "user": {
+            "name": "‼️ TineB pa že ne bo tiho ‼️",
+            "screen_name": "_TineB_",
+            "description": "a fair yet rude rebel against ™ ™ regime. sincerely thankful to twitter for allowing my fight."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.3547038435935974,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.5986046490981914,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1347660179446390785,
+        "created_at": "Fri Jan 08 21:43:19 +0000 2021",
+        "raw_text": "Zadel je bistvo. Cel svet kliče našega PV slovenski Trump, verjetno ne brez pomena. Sploh pa, da primerja petkove proteste s tem, kar se je dogajalo v Ameriki, pa mislim, da naziv bedaka podelujete napačni osebi.",
+        "lemma_text": "zadeti bistvo cel svet klicati pv slovenski trump pomen primerjati petkov protest dogajati amerika misliti naziv bedak podelovati napačen oseba",
+        "hashtags": [],
+        "mentions": [
+            "sarecmarjan"
+        ],
+        "user": {
+            "name": "ᴍᴀᴛᴇᴊ ᴍᴀᴛɪᴄ",
+            "screen_name": "maticej",
+            "description": "greed is downfall of humanity."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9241552352905273,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.40595460265943506,
+            "party_bias": "desno",
+            "party_mentioned": "LMŠ"
+        }
+    },
+    {
+        "id": 1367196195039440897,
+        "created_at": "Wed Mar 03 19:32:28 +0000 2021",
+        "raw_text": "So, zato sem danes iz protesta skuhala velik lonec golaža",
+        "lemma_text": "danes protest skuhati velik lonec golaž",
+        "hashtags": [],
+        "mentions": [
+            "dareK74220923",
+            "logarmetod",
+            "krnrki1"
+        ],
+        "user": {
+            "name": "Erika Planinšec",
+            "screen_name": "ErikaPlaninsec",
+            "description": "človek najde svoj mir in srečo, ko stoji z nogami trdno na zemlji, z ljubeznijo v srcu in modrostjo v glavi..."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.6752249598503113,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4091870321369308,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1347181670139654146,
+        "created_at": "Thu Jan 07 14:01:54 +0000 2021",
+        "raw_text": "A to je tista razupita kristjanska zahvala. Hvala Bogu, da sem ateist!",
+        "lemma_text": "razupita kristjanski zahvala hvala bogo ateist",
+        "hashtags": [],
+        "mentions": [
+            "Bojan__Bozic",
+            "krajnc_martin",
+            "tfajon"
+        ],
+        "user": {
+            "name": "igor Hribar",
+            "screen_name": "19avgust",
+            "description": ""
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.6694765686988831,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.5932296459390132,
+            "party_bias": "levo",
+            "party_mentioned": "SD"
+        }
+    },
+    {
+        "id": 1375713895499902978,
+        "created_at": "Sat Mar 27 07:38:46 +0000 2021",
+        "raw_text": "Gandhi:Tri stvari pridejo zmeraj na dan, sonce, luna in resnica!",
+        "lemma_text": "gandhi stvar priti zmeraj dan sonce luna resnica",
+        "hashtags": [],
+        "mentions": [
+            "PortalPolitikis",
+            "UrosUrbanija",
+            "JJansaSDS"
+        ],
+        "user": {
+            "name": "ziberdaj",
+            "screen_name": "ziberdaj",
+            "description": ""
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.5003139972686768,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.40183906430316335,
+            "party_bias": "desno",
+            "party_mentioned": "SDS"
+        }
+    },
+    {
+        "id": 1375486173032935442,
+        "created_at": "Fri Mar 26 16:33:53 +0000 2021",
+        "raw_text": "Hudič kaže svojo moč, bomo priča njegovemu koncu",
+        "lemma_text": "hudič kazati moč priča konec",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Venet, 🙏🇸🇮",
+            "screen_name": "MiroGec65",
+            "description": "satelitski operater, dsng. ponosen slovenec, oče treh krasnih hčera. 20. september 2018 rv, $imiro"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9180097579956055,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.5324706559739065,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375560628639834118,
+        "created_at": "Fri Mar 26 21:29:45 +0000 2021",
+        "raw_text": "Oh ne. Spomnim se, ko sem na koncu 4. letnika srednje šole prebrala Katoliška Cerkev in spolnost. Evnuhi za nebeško kraljestvo in nisem mogla verjeti, da se raje bičajo, kot da bi seksali.",
+        "lemma_text": "spomniti konec letnik srednji šola prebrati katoliški cerkev spolnost evnuhi nebeški kraljestvo verjeti raje bičati seksati",
+        "hashtags": [],
+        "mentions": [
+            "SuzanaLovec",
+            "p_zoran"
+        ],
+        "user": {
+            "name": "Mateja",
+            "screen_name": "Mateja_Slo",
+            "description": "vedno na poti, vedno v iskanju izgubljenega časa. in vem, da nič ne vem. grožnje, ki jih čivknem niso mišljene resno, so zgolj izraz ljubezni."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9143991470336914,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.5368601432763187,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375784137689284608,
+        "created_at": "Sat Mar 27 12:17:53 +0000 2021",
+        "raw_text": "On je čista Ljubezen in v tem življenju moramo postati čista ljubezen in to je vsa logika. Mi smo, ki izbiramo Boga, ki je ljubezen ali Satana, ki je sovraštvo-diabolis.",
+        "lemma_text": "čist ljubezen življenje postati čist ljubezen logika izbirati bog ljubezen satan sovraštvo diabolis",
+        "hashtags": [],
+        "mentions": [
+            "domandol",
+            "bitbatbat",
+            "Histra1111"
+        ],
+        "user": {
+            "name": "smiljan purger 🇸🇮",
+            "screen_name": "SmiljanPurger",
+            "description": "kdor nebes ne nosi v sebi, jih zamanj išče po vesolju."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.4710192084312439,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.42904294510610763,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375914122714488841,
+        "created_at": "Sat Mar 27 20:54:24 +0000 2021",
+        "raw_text": "Tudi danes sem z vami, da vam povem: otročiči, kdor moli, se ne boji prihodnosti in ne izgublja upanja. Vi ste izbrani,da prinašate radost in mir, ker ste moji.Jaz sem prišla sem z imenom Kraljica miru, ker hudič želi nemir in vojno, želi napolniti vaše srce s strahom pred prihod",
+        "lemma_text": "danes povedati otročič moliti bati prihodnost izgubljati upanje izbran prinašati radost mir priti ime kraljica mir hudič nemir vojna napolniti srce strah prihod",
+        "hashtags": [],
+        "mentions": [
+            "cikibucka",
+            "mojcav1"
+        ],
+        "user": {
+            "name": "smiljan purger 🇸🇮",
+            "screen_name": "SmiljanPurger",
+            "description": "kdor nebes ne nosi v sebi, jih zamanj išče po vesolju."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.49657702445983887,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.46295341284473046,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375914576303296513,
+        "created_at": "Sat Mar 27 20:56:12 +0000 2021",
+        "raw_text": "prihodnost je Božja. Zato bodite ponižni in molite in prepustite vse v roke Vsemogočnega, ki vas je ustvaril. Hvala, ker ste se odzvali mojemu klicu.",
+        "lemma_text": "prihodnost božji ponižen moliti prepustiti roka vsemogočen ustvariti hvala odzvati klic",
+        "hashtags": [],
+        "mentions": [
+            "cikibucka",
+            "mojcav1"
+        ],
+        "user": {
+            "name": "smiljan purger 🇸🇮",
+            "screen_name": "SmiljanPurger",
+            "description": "kdor nebes ne nosi v sebi, jih zamanj išče po vesolju."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.8599749207496643,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.6662153957289504,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375844222562144264,
+        "created_at": "Sat Mar 27 16:16:39 +0000 2021",
+        "raw_text": "To ni le zavajanje, to je laganje. Lepo sledite svojemu ljubljenemu vodji. Pa ne mislim boga, ker njegove zapovedi stalno kršite.",
+        "lemma_text": "zavajanje laganje lepo slediti ljubljen vodja misliti bog zapoved stalno kršiti",
+        "hashtags": [],
+        "mentions": [
+            "MatejTonin",
+            "strankalevica",
+            "Slovenskavojska"
+        ],
+        "user": {
+            "name": "Jana Preval",
+            "screen_name": "Japreva",
+            "description": "it's ok if you disagree with me. i can't force you to be right. ....i mean left.... 42"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9621292948722839,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.42351456169250984,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375888082369720321,
+        "created_at": "Sat Mar 27 19:10:56 +0000 2021",
+        "raw_text": "Jbg jest je treba , nobena žival ne ubija iz užitka in veselja ... edino človek.",
+        "lemma_text": "jest treba žival ubijati užitek veselje edino človek",
+        "hashtags": [],
+        "mentions": [
+            "Mojca84655391",
+            "Chuppacadabra"
+        ],
+        "user": {
+            "name": "Mazzo Van Klein™",
+            "screen_name": "MazzoVanKlein",
+            "description": "web & graphic designer i eco photographer of beautiful natural woman curves edinstven erotičen golih tviterašic."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.5388768315315247,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4052939552681578,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375793057686290434,
+        "created_at": "Sat Mar 27 12:53:20 +0000 2021",
+        "raw_text": "Pa naslov je res slabo izbran, ker je intervju ponuja odličen vpogled v cepljenje, občinsko politiko, politično ozadje in v razmišljanje razmišljujočega in odgovornega človeka.",
+        "lemma_text": "naslov slabo izbran intervju ponujati odličen vpogled cepljenje občinski politika političen ozadje razmišljanje razmišljujoč odgovoren človek",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Tamara Langus",
+            "screen_name": "Centrifuzija",
+            "description": "digital communications consultant and social media manager. objave ne odražajo stališč mojih naročnikov. in obratno."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.6094019412994385,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4570934213383655,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375848725210365959,
+        "created_at": "Sat Mar 27 16:34:32 +0000 2021",
+        "raw_text": "Pri nas pravimo Bog daj srečo! Lepo ne?!?!?",
+        "lemma_text": "praviti bog dati sreča lepo",
+        "hashtags": [],
+        "mentions": [
+            "KrazyPenny"
+        ],
+        "user": {
+            "name": "Valerija🍀🇸🇮",
+            "screen_name": "valy434781881",
+            "description": "življenje je lepo, če ga lepo živiš, zato se trudim !!"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.6939581632614136,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.538778028621995,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1375887897014984708,
+        "created_at": "Sat Mar 27 19:10:12 +0000 2021",
+        "raw_text": "Prenova Cerkve, se po papeževem mnenju začne v družini in po njej. Kako? Učiti se iz Jezusovega odnosa z ljudmi.",
+        "lemma_text": "prenova cerkev papežev mnenje začeti družina učiti jezusov odnos človek",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Tadej Ložar",
+            "screen_name": "LozarTadej",
+            "description": "prvo kristusov duhovnik potem vse drugo. kaplan na igu (2019- )"
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.8645522594451904,
+            "topic_bias": null,
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.7579684531209824,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1376083245520072704,
+        "created_at": "Sun Mar 28 08:06:26 +0000 2021",
+        "raw_text": "čas bo povozil laž? in to mi praviš danes, na cvetno nedeljo? laži so vendar večne.",
+        "lemma_text": "čas povoziti laž praviti danes cveten nedelja laž večen",
+        "hashtags": [],
+        "mentions": [
+            "bpolicar",
+            "Mirko_Mayer",
+            "PlanetTV"
+        ],
+        "user": {
+            "name": "ciril brajer",
+            "screen_name": "CiroBrajer",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.8780554533004761,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.510631635713241,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1376263886568095747,
+        "created_at": "Sun Mar 28 20:04:14 +0000 2021",
+        "raw_text": "Pa še kako je to res ampak hudič je ko resnica leve boli kot satan in nekako jo morajo spraviti ven. Bog jim pomagaj...",
+        "lemma_text": "hudič resnica lev boleti satan spraviti ven bog pomagati",
+        "hashtags": [],
+        "mentions": [
+            "all4_one4all"
+        ],
+        "user": {
+            "name": "Slovenec 🇸🇮 #PodpiraVlado 🇸🇮",
+            "screen_name": "Andrej55383869",
+            "description": "ponosen na svojo zemljo in jo bom tudi branil če bo treba! da bo vsem jasno v naprej moji čivki so moje mišlenje, ker za enkrat še razmišljam z svojo glavo."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9615917205810547,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.5640771278103334,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1376167766890315778,
+        "created_at": "Sun Mar 28 13:42:18 +0000 2021",
+        "raw_text": "Temeljne evropske vrednote? A požiganje veličastnih cerkva in klanjanje pred kipi raznih hitlerjev so temeljne evropske vrednote?",
+        "lemma_text": "temeljen evropski vrednota požiganje veličasten cerkev klanjanje kip hitler temeljen evropski vrednota",
+        "hashtags": [],
+        "mentions": [
+            "tfajon"
+        ],
+        "user": {
+            "name": "Papič Danilo",
+            "screen_name": "papicdanilo",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.7908565998077393,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.6210177093975867,
+            "party_bias": "desno",
+            "party_mentioned": "SD"
+        }
+    },
+    {
+        "id": 1376167267797508097,
+        "created_at": "Sun Mar 28 13:40:19 +0000 2021",
+        "raw_text": "Zelo dobra debata med in o svobodi izražanja, zlasti na spletu, in njenih mejah – večino časa sta brez težav izmenjevala mnenja kar brez pomoči povezovalca . Pohvala za ; časovno bi lahko bil malo daljši.",
+        "lemma_text": "zelo dober debata svoboda izražanje splet meja večina čas težava izmenjevati mnenje pomoč povezovalec pohvala časovno lahko malo dolg",
+        "hashtags": [
+            "Dialogos"
+        ],
+        "mentions": [
+            "nmusar",
+            "ZigaTurk",
+            "TinoMamic",
+            "Domovina_je"
+        ],
+        "user": {
+            "name": "Mario Plešej",
+            "screen_name": "MarioPlesej",
+            "description": "a man on the way of/with jesus. a political scientist working for peace, freedom, the respect of human dignity, truth, justice and love."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.866288423538208,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.42338391324891006,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1376146772813352961,
+        "created_at": "Sun Mar 28 12:18:52 +0000 2021",
+        "raw_text": "In če že pokrivava kaj od tega, nam v večji meri predstavljajo družboslovno znanost (sociologijo, filozofijo, zgodovino, ekonomijo, pravo), naravoslovne  tehnične pa precej manj. Kaj interdisciplinarnega pa sploh ne - ker itak tega na ravni visokega šolstva  raziskav skoraj ni.",
+        "lemma_text": "pokrivavati velik mera predstavljati družbosloven znanost sociologija filozofija zgodovina ekonomija pravo naravosloven tehničen manj interdisciplinaren raven visok šolstvo raziskava",
+        "hashtags": [],
+        "mentions": [
+            "piskotk",
+            "RTV_Slovenija"
+        ],
+        "user": {
+            "name": "‼️ TineB pa že ne bo tiho ‼️",
+            "screen_name": "_TineB_",
+            "description": "a fair yet rude rebel against ™ ™ regime. sincerely thankful to twitter for allowing my fight."
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.8075666427612305,
+            "topic_bias": null,
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.5941037781909938,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1376208472707072003,
+        "created_at": "Sun Mar 28 16:24:03 +0000 2021",
+        "raw_text": "Ne bo odpuščanja! Nismo mi cerkev, da dajemo odpustke. Za pred sodišče ste.",
+        "lemma_text": "odpuščanje cerkev dajati odpustek sodišče",
+        "hashtags": [],
+        "mentions": [
+            "vladaRS",
+            "JJansaSDS"
+        ],
+        "user": {
+            "name": "kr en Mitch 😎",
+            "screen_name": "krentip",
+            "description": "the older you get, the less people you trust."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.8777094483375549,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.6172378516069524,
+            "party_bias": "levo",
+            "party_mentioned": "SDS"
+        }
+    },
+    {
+        "id": 1376223070415949836,
+        "created_at": "Sun Mar 28 17:22:03 +0000 2021",
+        "raw_text": "Pa kaj mislite, da smo Slovenci ''sprejeli'' krščanstvo, zato da bomo uživali?",
+        "lemma_text": "misliti slovenec sprejeti krščanstvo uživati",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Franc Plevnik",
+            "screen_name": "FPlevnik",
+            "description": "rodoljub = antiliberalec + antiklerikalec; vzpon nacionalizma v eu; za svobodoljubno evropo nacionalnih držav; spirit of 769"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.8938054442405701,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4819580426069896,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384509563752181762,
+        "created_at": "Tue Apr 20 14:09:37 +0000 2021",
+        "raw_text": "Komunisti so nacionalizirali veliko lastnine, ki je pripadala ljudem, ki so pripadali različnim etničnim skupnostim. Kar je zaradi komunistov danes državno, kot Moškovičeva vila, ne pripada ne SD - ju - ne \"mednarodni judovski skupnosti\". Zakaj prav oni v imenu Judov sveta?",
+        "lemma_text": "svet moškovičev judovski komunist veliko različen sd mednaroden ime človek danes vila skupnost državen pripadati lastnina nacionalizirati etničen juda",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "ALEŠ ERNECL",
+            "screen_name": "alesernecl",
+            "description": "columnist, philosopher; follow me on: are my own opinions. web site:"
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.568933367729187,
+            "topic_bias": null,
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.5475207761765492,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384389422666375168,
+        "created_at": "Tue Apr 20 06:12:13 +0000 2021",
+        "raw_text": "Stranka, katera neguje vrednote in ne ideologije. Katere vrednote so svoboda, pravičnost, močno socialno tržno gospodarstvo, socialna varnost, družina in kultura življenja, ne more biti ne desna, ne leva, vključuje, ne deli. To je naša",
+        "lemma_text": "pravičnost vrednota lev negovati deliti varnost družina tržen kultura svoboda vključevati življenje desen socialen gospodarstvo ideologija močen stranka",
+        "hashtags": [],
+        "mentions": [
+            "peterleandrej",
+            "MatejTonin",
+            "NovaSlovenija"
+        ],
+        "user": {
+            "name": "Franc Medic",
+            "screen_name": "framedic",
+            "description": ""
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.4627710282802582,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.515134241425574,
+            "party_bias": "desno",
+            "party_mentioned": "NSi"
+        }
+    },
+    {
+        "id": 1384438369795641345,
+        "created_at": "Tue Apr 20 09:26:43 +0000 2021",
+        "raw_text": "Levičarje sili v sovraštvo in odpor do političnih nasprotnikov že golo dejstvo, da so v dialogih obvezno inferiorni že po prvem stavku. In ne, to nima nobene zveze z IQ, s pridobljenim znanjem ob izobrazbi, s splošno razgledanostjo, kulturo in spoštljivim odnosom do sogovornika.",
+        "lemma_text": "imeti obvezno političen iq kultura sogovornik spoštljiv izobrazba odpor splošen levičar sovraštvo pridobljen gol nasprotnik inferioren razgledanost zveza odnos dejstvo siliti dialog stavek znanje",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Le Brane",
+            "screen_name": "brane80108700",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.8585062623023987,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4084063242014302,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384594374177198081,
+        "created_at": "Tue Apr 20 19:46:37 +0000 2021",
+        "raw_text": "Tako različne narode je lahko skupaj držala le močna osebnost in avtoriteta. Tudi bolj demokratična družba ne bi mogla obdržati skupaj toliko različno zgodovinskih zbranih narodov na istem ozemlju.",
+        "lemma_text": "različen ozemlje osebnost demokratičen obdržati bolj skupaj močen lahko zgodovinski držati družba avtoriteta različno zbran narod",
+        "hashtags": [],
+        "mentions": [
+            "Blaz_88",
+            "surfon"
+        ],
+        "user": {
+            "name": "Rokomavh63",
+            "screen_name": "Rokomavh63",
+            "description": "delavec,mož,oče.sovražim skrajneže,leve,desne,verske.tolk desen,kot levi.ljubim potovanja, svoj avtodom, letala, žvale, fejst ljudi"
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.37291908264160156,
+            "topic_bias": null,
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.43510866438917134,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384569494333493251,
+        "created_at": "Tue Apr 20 18:07:46 +0000 2021",
+        "raw_text": "To je zahtevna tema. Osebno sem iz pozicije ateista razvil bolj agnostičen pogled, ki pušča prostor za duhovnost. Trdim, da človek s končnim umom ne more dokončno soditi o neskončnosti. Zavračam teistični in ateistični dogmatizem. Zavračam teokracijo.",
+        "lemma_text": "teističen neskončnost razviti puščati končen zavračati ateističen človek pogled duhovnost bolj um agnostičen zahteven pozicija dogmatizem soditi prostor trditi teokracija dokončno osebno ateist",
+        "hashtags": [],
+        "mentions": [
+            "Simonsky18"
+        ],
+        "user": {
+            "name": "BFK",
+            "screen_name": "BlazBFK",
+            "description": "business, consulting, parliament, freedom fighter"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.7606034278869629,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.420013844028155,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384422742204821504,
+        "created_at": "Tue Apr 20 08:24:37 +0000 2021",
+        "raw_text": "Zakaj ne bi smel (a) protestirati dokler \"500m stran ljudje umirajo\"?",
+        "lemma_text": "stran dokler protestirati umirati človek",
+        "hashtags": [],
+        "mentions": [
+            "MitjaIrsic",
+            "Matej_Klaric"
+        ],
+        "user": {
+            "name": "r.lbj",
+            "screen_name": "rlbj5",
+            "description": "persona"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9555423855781555,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4272680673828993,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384794800138948612,
+        "created_at": "Wed Apr 21 09:03:03 +0000 2021",
+        "raw_text": "Dokler se ti dobro pocutis, je vseeno, kako drugim izgleda",
+        "lemma_text": "dokler pocutiti izgledati dobro vseeno",
+        "hashtags": [],
+        "mentions": [
+            "ursaskobe"
+        ],
+        "user": {
+            "name": "AnaBanana",
+            "screen_name": "AnaOstricki",
+            "description": "kaj pa če je vse res?"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.629184901714325,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4465975211424997,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384899957950386179,
+        "created_at": "Wed Apr 21 16:00:54 +0000 2021",
+        "raw_text": "V Mariboru poteka spletni mednarodni znanstveni simpozij \"Judovsko-krščanski viri in razsežnosti dialoga\". Predavatelji v svojih prispevkih osvetljujejo zgodovinske vezi med religijama in izpostavljajo različne izzive medverskega dialoga.",
+        "lemma_text": "judovski religija simpozij potekati različen mednaroden spleten medverski izziv znanstven krščanski predavatelj vez razsežnost izpostavljati zgodovinski vir osvetljevati dialog prispevek maribor",
+        "hashtags": [
+            "TeleM",
+            "TVMB",
+            "kultura"
+        ],
+        "mentions": [
+            "KarmenMarcic"
+        ],
+        "user": {
+            "name": "Televizija Maribor",
+            "screen_name": "TVMaribor",
+            "description": "tv program, ki ga za slovensko televizijo pripravljamo v okviru regionalnega centra rtv v mariboru, ima svoj profesionalni začetek v letu 1968..."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.5883641839027405,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.7488156104018517,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384979987258875908,
+        "created_at": "Wed Apr 21 21:18:55 +0000 2021",
+        "raw_text": "pri nas se je zgodil dogodek objave skrajno pokvarjenih besed, to je treba obsojat dokler dihamo!",
+        "lemma_text": "dokler dihati obsojati objava dogodek skrajno pokvarjen beseda treba zgoditi",
+        "hashtags": [],
+        "mentions": [
+            "SnakePliskenSLO",
+            "LukaRomih",
+            "strankalevica"
+        ],
+        "user": {
+            "name": "Zgubar",
+            "screen_name": "ModroTiho",
+            "description": "stay at 127.0.0.1 and wear a fucking 255.255.255.0"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9570069313049316,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4031353730973326,
+            "party_bias": "desno",
+            "party_mentioned": "Levica"
+        }
+    },
+    {
+        "id": 1385195931533037572,
+        "created_at": "Thu Apr 22 11:37:00 +0000 2021",
+        "raw_text": "Kdo se igra boga in v obrambo fašizma ter v nasprotju z odločbo ustavnega sodišča politikantsko omejuje temeljne človekove pravice državljanom ? Vodja \"strokovne\" skupine , ki rada sodeluje na svetopisemskih maratonih.",
+        "lemma_text": "pravica sodišče igrati ustaven sodelovati državljan obramba temeljen maraton nasprotje strokoven politikantsko bog vodja svetopisemski odločba človekov skupina fašizem omejevati",
+        "hashtags": [
+            "Slovenia",
+            "UPOR",
+            "državljanskanepokoriščina"
+        ],
+        "mentions": [
+            "MatejaLogar"
+        ],
+        "user": {
+            "name": "Blaž Zgaga",
+            "screen_name": "blaz_zgaga",
+            "description": "investigative journalist | & | among 30 coronavirus information heroes | dw freedom of speech award 2020 | for"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.7173881530761719,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4772989473802258,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1385190672320315394,
+        "created_at": "Thu Apr 22 11:16:06 +0000 2021",
+        "raw_text": "Taborniki so bili komunistična varianta skavtov. Slednje so seveda prepovedali. Bili so katoliški.",
+        "lemma_text": "katoliški varianta tabornik skavt komunističen prepovedati slednji",
+        "hashtags": [],
+        "mentions": [
+            "STA_novice"
+        ],
+        "user": {
+            "name": "FreeSlo \"Pray, hope and don't worry\". (St. P.Pio)",
+            "screen_name": "FreeSlovenia",
+            "description": "maska, razdalja, razkuževanje, app. that's all falks!"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.927137553691864,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.44935700892403324,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1362139941115985926,
+        "created_at": "Wed Feb 17 20:40:43 +0000 2021",
+        "raw_text": "Dokler je Zemlja, bodo sovragi. Denar je sveta vladar. Ko bo Zemlja samo zemlja, bo enaka za vse",
+        "lemma_text": "dokler zemlja sovrag denar svet vladar zemlja zemlja",
+        "hashtags": [],
+        "mentions": [
+            "GPreac",
+            "MZZRS",
+            "vladaRS",
+            "mnz_gov_si",
+            "Europarl_SL",
+            "EKvSloveniji",
+            "strankaSD",
+            "strankalevica",
+            "StrankaSAB",
+            "StrankaLMS",
+            "strankaSDS",
+            "Nova24TV",
+            "SiolNEWS"
+        ],
+        "user": {
+            "name": "Izdelek",
+            "screen_name": "SpacerBlu",
+            "description": "spacemen, on non pale blue dot"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.7994594573974609,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4421321864741914,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1345326273145556992,
+        "created_at": "Sat Jan 02 11:09:13 +0000 2021",
+        "raw_text": "Misli o ljubezni Mogoče Bog želi, da srečamo",
+        "lemma_text": "misel ljubezen mogoč bog srečati",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Pozitivne Misli",
+            "screen_name": "Misli_pozitivne",
+            "description": "pozitivne misli"
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.5768176913261414,
+            "topic_bias": null,
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.558888328726007,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1356899594433667073,
+        "created_at": "Wed Feb 03 09:37:27 +0000 2021",
+        "raw_text": "Misli o ljubezni Mogoče Bog želi, da srečamo",
+        "lemma_text": "misel ljubezen mogoč bog srečati",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Pozitivne Misli",
+            "screen_name": "Misli_pozitivne",
+            "description": "pozitivne misli"
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.5768176913261414,
+            "topic_bias": null,
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.5094603619446523,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1354846670631137282,
+        "created_at": "Thu Jan 28 17:39:52 +0000 2021",
+        "raw_text": "Bravo Vera, bog bi se obračal v grobu, če ne bi bil v nebesih.",
+        "lemma_text": "bravo vera bog obračati grob nebesa",
+        "hashtags": [],
+        "mentions": [
+            "VeraKozmik",
+            "dip33166304"
+        ],
+        "user": {
+            "name": "tom z.",
+            "screen_name": "tom44232791",
+            "description": "ljubim kuharja žab"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.42338433861732483,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.5422232102227283,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1351907883148058625,
+        "created_at": "Wed Jan 20 15:02:11 +0000 2021",
+        "raw_text": "Bog je . Bog je povsod okrog nas. Bog je pravičen. Bog je radosten. Bog nas bo odrešil. A verjamem v napisano? Itak da NE! ;)",
+        "lemma_text": "bog bog povsod bog pravičen bog radosten bog odrešiti verjeti napisan",
+        "hashtags": [
+            "bullshit"
+        ],
+        "mentions": [
+            "UlaCullen22"
+        ],
+        "user": {
+            "name": "princ Catmelus",
+            "screen_name": "catmelus",
+            "description": "norik boss."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.6875710487365723,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4840844396625492,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1365605871510773761,
+        "created_at": "Sat Feb 27 10:13:06 +0000 2021",
+        "raw_text": "Laž ima kratke noge. Prej, ko slej pride resnica na plan! Kaj to pomeni? Da je vaše opravičilo Zlagano! Laž je nesmrtna Duša komunizma! Edino, če niste komunistka ampak ste katoličanka. Za kaj se boste izrekla?",
+        "lemma_text": "laž imeti kratek noga prej slej priti resnica plan pomeniti opravičilo zlagan laž nesmrten duša komunizem edin komunistka katoličanka izreči",
+        "hashtags": [],
+        "mentions": [
+            "spagetyuse",
+            "mojcav1",
+            "Nova24TV"
+        ],
+        "user": {
+            "name": "Augustina Fernandes",
+            "screen_name": "AugustinaFerna4",
+            "description": "i am unique"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9083942770957947,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.504641236925652,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1347227271690641408,
+        "created_at": "Thu Jan 07 17:03:06 +0000 2021",
+        "raw_text": "Za moralo in etiko si torej ne zadoščaš sam, potrebuješ zunanjo vzpodbudo? Jaz je ne. Verjamem, da v glavnem ravnam etično, moralno. Mimogrede, tudi islamski teroristi odločitve utemeljujejo v veri. Tudi kak kristjan je že umor utemeljil z vero. Sereš.",
+        "lemma_text": "etika zadoščati sam potrebovati zunanji vzpodbuda verjeti glaven ravnati etično moralen mimogrede islamski terorist odločitev utemeljevati vera kristjan umor utemeljiti vera sereš",
+        "hashtags": [],
+        "mentions": [
+            "DeFlasker",
+            "sinicka_pticka",
+            "meteoriterain",
+            "JanezPogorelec",
+            "rokomavh",
+            "termie1",
+            "galoftomo",
+            "p_zoran",
+            "SustarsicM",
+            "Marko63705437"
+        ],
+        "user": {
+            "name": "Seriously?",
+            "screen_name": "facepalm_in_SLO",
+            "description": "delam, jem, spim, seksam (če mam srečo) in včasih tvitam. pa na twitterju vse tikam (porabim manj znakov) - da ne bo kdo užaljen..."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.8665446639060974,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.44161418818437803,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1367507470718033928,
+        "created_at": "Thu Mar 04 16:09:22 +0000 2021",
+        "raw_text": "\"Pojdite v miru!\" \"Bogu hvala!\"... da ste odšli...",
+        "lemma_text": "iti mir bog hvala oditi",
+        "hashtags": [],
+        "mentions": [
+            "LidijaDM",
+            "DrKustec"
+        ],
+        "user": {
+            "name": "Logar Metod 🇸🇮",
+            "screen_name": "logarmetod",
+            "description": "gab:"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.5213550925254822,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.46308256831804184,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1350687204104929281,
+        "created_at": "Sun Jan 17 06:11:38 +0000 2021",
+        "raw_text": "Ta zasedba je mirna le na videz, v resnici v skladu z ideologijo komunizma načrtno ustvarja pogoje kaosa, v katerih komunisti najbolje uspevajo. Nad Orbanom besni, ker ta zagovarja to, kar je bilo temelj Evrope tisočletja; trdna osnovna celica družbe - družina, ki ni muslimanska.",
+        "lemma_text": "zasedba miren videz resnica sklad ideologija komunizem načrtno ustvarjati pogoj kaos komunist dobro uspevati orban besen zagovarjati temelj evropa tisočletje trden osnoven celica družba družina muslimanski",
+        "hashtags": [],
+        "mentions": [
+            "BozidarBiscan",
+            "rtztim"
+        ],
+        "user": {
+            "name": "Janez Kranjski",
+            "screen_name": "JKranjski",
+            "description": "per aspera ad astra (prek trnja do zvezd)"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.8990066051483154,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4307500362674237,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1354016677743259653,
+        "created_at": "Tue Jan 26 10:41:47 +0000 2021",
+        "raw_text": "Briga komuniste za kulturno dediščino, cerkveno ali posvetno! Tako je od začetka njihove revolucije dalje. Imajo polna usta besed o boju za kulturo, praktično so pa uničevalci kulture. Posebej vse tiste, ki ni komunistično obarvana. To \"obarvajo\" z metanjem barve v fasade.",
+        "lemma_text": "brigati komunist kulturen dediščina cerkven posveten začetek revolucija dalje imeti poln usta beseda boj kultura praktično uničevalec kultura posebej komunistično obarvan obarvati metanje barva fasada",
+        "hashtags": [],
+        "mentions": [
+            "cikibucka",
+            "SiolNEWS"
+        ],
+        "user": {
+            "name": "Janez Kranjski",
+            "screen_name": "JKranjski",
+            "description": "per aspera ad astra (prek trnja do zvezd)"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9593846201896667,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.7664885757958672,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1358796315547811840,
+        "created_at": "Mon Feb 08 15:14:21 +0000 2021",
+        "raw_text": "Njihova politična angažiranost je res že povsem neokusna. Še na misel mi ne pride, da bi se kdaj včlanila.",
+        "lemma_text": "političen angažiranost povsem neokusen misel priti kdaj včlaniti",
+        "hashtags": [],
+        "mentions": [
+            "STA_novice",
+            "vinkovasle1"
+        ],
+        "user": {
+            "name": "Vida Kokalj",
+            "screen_name": "VidaVida23",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.958859920501709,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.41148484759533044,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1366650560775086083,
+        "created_at": "Tue Mar 02 07:24:19 +0000 2021",
+        "raw_text": "Vladni ukrepi kulturi niso pomagali, ker jih ni bilo. MK je spalo ali pa se prekljalo s protestniki, ki so zahtevali samo tisto, kar jim pripada po zakonu. Ne pkp, po zakonu! Od samozaposlenih v kulturi do filmarjev... Večja skupina ljudi kot pa zaposleni v gledališčih.",
+        "lemma_text": "vladen ukrep kultura pomagati mk spati prekljati protestnik zahtevati pripadati zakon zakon samozaposlen kultura filmar velik skupina človek zaposlen gledališče",
+        "hashtags": [],
+        "mentions": [
+            "Curious_ind",
+            "MartinaVuk"
+        ],
+        "user": {
+            "name": "sasatabakovic",
+            "screen_name": "sasatbelart",
+            "description": "theater. movie. music. art. belart."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.7147819399833679,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4548847913929551,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1354744003267321858,
+        "created_at": "Thu Jan 28 10:51:54 +0000 2021",
+        "raw_text": "Polno pozitivnih:okoljevarstvo, spoštovanje raznolikosti, misel na malega človeka...Žal prevesijo negativne:slabo poznavanje ekonomije, lokalnega človeka, sosledja učinkov; težnje po dogmatičnostiavtoritarizmu; korupcija in povezave s tranzicijskim kapitalom. P.s.nisem desnica.",
+        "lemma_text": "polno pozitiven okoljevarstvo spoštovanje raznolikost misel mali človek prevesiti negativen slab poznavanje ekonomija lokalen človek sosledje učinek težnja dogmatičnostiavitaritarizem korupcija povezava tranzicijski kapital desnica",
+        "hashtags": [],
+        "mentions": [
+            "Trkaj"
+        ],
+        "user": {
+            "name": "Ayda Kacha",
+            "screen_name": "AydaKacha",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.8687070608139038,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4758004788449827,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1364920838236098563,
+        "created_at": "Thu Feb 25 12:51:01 +0000 2021",
+        "raw_text": "Hvala Bogu, da lahko beremo še kaj drugega,kot je vaš in od .Če dodamo še ,.........,potem pride resnica na dan. Vseeno pa bo laž ostala nesmrtna duša komunizma.",
+        "lemma_text": "hvala bogo lahko brati dodati potem priti resnica dan vseeno laž ostati nesmrten duša komunizem",
+        "hashtags": [
+            "agitprop",
+            "MSM",
+            "FB",
+            "TW"
+        ],
+        "mentions": [
+            "DejanLevanic"
+        ],
+        "user": {
+            "name": "corel tone",
+            "screen_name": "CorelTone",
+            "description": "trenerkosarke"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.5057710409164429,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.43387530338547226,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1363794249419026432,
+        "created_at": "Mon Feb 22 10:14:21 +0000 2021",
+        "raw_text": "V oporo osebni vernosti naj bi bila cerkev, to je njena dolžnost. To je neizpodbitno del kulture. Kot taka bi morala biti ločna od države in politično obravnavana enako, kot ostali segmenti kulturne krajine. Trenutno pa je močno priviligirana in sama aktivno politično vpletena.",
+        "lemma_text": "opora oseben vernost cerkev dolžnost neizpodbiten del kultura ločen država politično obravnavan ostal segment kulturen krajina trenutno močno priviligiran sam aktivno politično vpleten",
+        "hashtags": [],
+        "mentions": [
+            "LozarTadej",
+            "MareAndi",
+            "Blaz_88",
+            "JanezPogorelec"
+        ],
+        "user": {
+            "name": "filmozlom",
+            "screen_name": "filmozlom",
+            "description": ""
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.8358482122421265,
+            "topic_bias": null,
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4101747898975995,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1363727715384328193,
+        "created_at": "Mon Feb 22 05:49:58 +0000 2021",
+        "raw_text": "Ob vseh menjavah je več kot očitno, da je za MIZŠ najpomembnejši kriterij politična lojalnost. Žal.Hvala vsem, ki ste se trudili v kaotičnih razmerah. Šolski sistem potrebuje stabilnost, na vodilnih položajih pa ljudi s strokovnim znanjem, izkušnjami, ugledom in vizijo razvoja.",
+        "lemma_text": "menjava več očiten mizš pomemben kriterij političen lojalnost hvala truditi kaotičen razmera šolski sistem potrebovati stabilnost vodilen položaj človek strokoven znanje izkušnja ugled vizija razvoj",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Janez Vogrinc",
+            "screen_name": "JanezVogrinc",
+            "description": "assoc. prof. for research in education, dean of the faculty of education university of ljubljana"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.7605201005935669,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.40889181970502897,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1349654229548494848,
+        "created_at": "Thu Jan 14 09:46:58 +0000 2021",
+        "raw_text": "Šur. Saj vendar vsak otrok ve, da pri nas ni nobenih vplivnih neformalnih struktur, ki bi mesarile po politiki in inštitucijah.",
+        "lemma_text": "šur otrok vedeti vpliven neformalen struktura mesariti politika inštitucija",
+        "hashtags": [],
+        "mentions": [
+            "luksuz",
+            "PrometejDD",
+            "vladaRS"
+        ],
+        "user": {
+            "name": "Marjetica🌼",
+            "screen_name": "MarjeticaM",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.7283334136009216,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4176532535320473,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1350184991028895754,
+        "created_at": "Fri Jan 15 20:56:01 +0000 2021",
+        "raw_text": "Če nisi spoštljiv do nasprotnega pola ali konkurence, si spoštovanja po božji modrosti ne zaslužiš. Janša ne zmore osnovne emocionalne regulacije",
+        "lemma_text": "spoštljiv nasproten pol konkurenca spoštovanje božji modrost zaslužiti janša osnoven emocionalen regulacija",
+        "hashtags": [],
+        "mentions": [
+            "JJansaSDS"
+        ],
+        "user": {
+            "name": "Stane Romih",
+            "screen_name": "RomihStane",
+            "description": "manager, ki od leta 2012 deluje na češkem"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9509437680244446,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.43700780129518024,
+            "party_bias": "levo",
+            "party_mentioned": "SDS"
+        }
+    },
+    {
+        "id": 1350864098070851586,
+        "created_at": "Sun Jan 17 17:54:33 +0000 2021",
+        "raw_text": "Jap, se strinjam s prvim delom, politično nazorsko se še posebej krešem z njeno politiko na področju odnosa do zasebnega šolstva. Koga od ostalih štirih pa bi raje videl na tem mestu?",
+        "lemma_text": "jap strinjati delo politično nazorsko posebej kresati politika področje odnos zaseben šolstvo ostal raje videti mesto",
+        "hashtags": [],
+        "mentions": [
+            "MarioPlesej",
+            "ABratusek"
+        ],
+        "user": {
+            "name": "Blaž Podobnik",
+            "screen_name": "cvetovljan",
+            "description": "pretvarjanje je podcenjeno. pedagog, kolumnist, glasbenik."
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.7982908487319946,
+            "topic_bias": null,
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4135017411190337,
+            "party_bias": "nevtralno",
+            "party_mentioned": "SAB"
+        }
+    },
+    {
+        "id": 1350849839253368837,
+        "created_at": "Sun Jan 17 16:57:53 +0000 2021",
+        "raw_text": "Zanimivo, da Hayek zagovarja, da je v bogatih družbah ta dohodek \"višji kot je nujno potrebno za ohranjanje pri življenju in zdravju,\" da je višji od eksistenčnega min. Za denarno socialno pomoč pri nas vemo, da je pod tem zneskom. Bo kdo rekel, kakšen socialist je bil Hayek?",
+        "lemma_text": "zanimiv hayek zagovarjati bogat družba dohodek visok nujno potreben ohranjanje življenje zdravje visok eksistenčen min denaren socialen pomoč vedeti znesek reči socialist hayek",
+        "hashtags": [],
+        "mentions": [
+            "gregorbeslic",
+            "xmp125a",
+            "seba1337",
+            "MarjeticaM",
+            "DavidNovak17",
+            "BojanPozar",
+            "DobraDrzava",
+            "MilenaMilenca",
+            "STA_novice",
+            "GregorTrebusak"
+        ],
+        "user": {
+            "name": "Matej Klarič",
+            "screen_name": "Matej_Klaric",
+            "description": ""
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.5814915895462036,
+            "topic_bias": null,
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4662942557074905,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1350769918963294209,
+        "created_at": "Sun Jan 17 11:40:19 +0000 2021",
+        "raw_text": "Bogi bogi od sovraštva lahko še zboliš",
+        "lemma_text": "bog bog sovraštvo lahko zboleti",
+        "hashtags": [],
+        "mentions": [
+            "sarecmarjan"
+        ],
+        "user": {
+            "name": "Nada Košnik",
+            "screen_name": "nada568352656",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9682120680809021,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.5497087614741388,
+            "party_bias": "desno",
+            "party_mentioned": "LMŠ"
+        }
+    },
+    {
+        "id": 1350832125277298690,
+        "created_at": "Sun Jan 17 15:47:30 +0000 2021",
+        "raw_text": "Star pregovor pravi: Veliko grmenja, malo dežja...",
+        "lemma_text": "star pregovor praviti veliko grmenje malo dež",
+        "hashtags": [],
+        "mentions": [
+            "hrastelj",
+            "24ur_com"
+        ],
+        "user": {
+            "name": "Leon",
+            "screen_name": "Leon48303573",
+            "description": "kern, ker vse tolk firbec matra.še vedno dobri, stari jaz! glede dobrega sicer nisem prepričan, star pa vsak dan bolj."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.5981225967407227,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.42228523373418575,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1381200430605205504,
+        "created_at": "Sun Apr 11 11:00:18 +0000 2021",
+        "raw_text": "Ja, RKC vse sprejema in tolerira, ker je njihov nauk od človeka in ne od Boga. Ob sodbi pa bo hudo. No, včasih Bog pošlje že zemeljsko kazen.",
+        "lemma_text": "rkc sprejemati tolerirati nauk človek bog sodba hud no včasih bog poslati zemeljski kazen",
+        "hashtags": [],
+        "mentions": [
+            "GPreac"
+        ],
+        "user": {
+            "name": "Marjana#moli za vlado",
+            "screen_name": "Marjana05846890",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.6215853691101074,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4204360157106857,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1381105004761743366,
+        "created_at": "Sun Apr 11 04:41:07 +0000 2021",
+        "raw_text": "Spotovani žalostno je to, da miselnost ostaja na ravni preteklih časov. Slovenija kot tudi državljani pa zaostajamo za razvitim svetom gospodarstva, šolstva, kulturi in v socialnem delu življenja.",
+        "lemma_text": "spotovan žalosten miselnost ostajati raven pretekel čas slovenija državljan zaostajati razvit svet gospodarstvo šolstvo kultura socialen del življenje",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Brane Pečenik",
+            "screen_name": "BranePecenik",
+            "description": "my education is an industrial designer and a lover of various spiritual culture and the arts. i want to live to a higher level of harmony with all."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9661139249801636,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4767040291068608,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1381151097935564801,
+        "created_at": "Sun Apr 11 07:44:16 +0000 2021",
+        "raw_text": "Točno tako, to politikanstvo v šoli me je od vedno zelo motilo.",
+        "lemma_text": "točno politikanstvo šola vedno zelo motiti",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Zavedna Slovenka, baje iz kleti, podpiram vlado.",
+            "screen_name": "Drugarka1",
+            "description": "grem naprej, včasih po robu, gledam desno."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.963532030582428,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.5073142955028133,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1381182233017475072,
+        "created_at": "Sun Apr 11 09:48:00 +0000 2021",
+        "raw_text": "Če želiš klanjanje oblasti in konformizem, greš na katoliško gimnazijo.",
+        "lemma_text": "klanjanje oblast konformizem iti katoliški gimnazija",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Stane 🇪🇺🇸🇮",
+            "screen_name": "staneC",
+            "description": "se trudimo."
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.5695284008979797,
+            "topic_bias": null,
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4429796626370923,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1351170426421075974,
+        "created_at": "Mon Jan 18 14:11:47 +0000 2021",
+        "raw_text": "Sam mislm, da se tudi področje raziskovanja ne pokriva. Tale je malo bolj “sociološki”, naš pa bolj “filozofski”. A mamo še kšne druge kandidate?",
+        "lemma_text": "sam misliti področje raziskovanje pokrivati malo bolj sociološki bolj filozofski mama kše kandidat",
+        "hashtags": [],
+        "mentions": [
+            "IsmeTsHorjuLa"
+        ],
+        "user": {
+            "name": "Tea Goljevšček",
+            "screen_name": "TeaTeaTeaTea",
+            "description": "i know nothing, i'm just sitting here looking at pretty colours."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.5681211948394775,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4677935035477229,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1351211128265834496,
+        "created_at": "Mon Jan 18 16:53:31 +0000 2021",
+        "raw_text": "In zakaj ne pustiš SDS vernikov, da verujejo v kar hočejo? Morajo verjeti v isto kot ti, da bo pravilno? Ukvarjaj se s sabo in ne z drugimi...",
+        "lemma_text": "pustiti sds vernik verovati verjeti pravilno ukvarjati",
+        "hashtags": [],
+        "mentions": [
+            "PrstanSi"
+        ],
+        "user": {
+            "name": "Ales Kogoj",
+            "screen_name": "AlesKogoj",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9373180866241455,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4219089179751193,
+            "party_bias": "levo",
+            "party_mentioned": "SDS"
+        }
+    },
+    {
+        "id": 1351519721481408512,
+        "created_at": "Tue Jan 19 13:19:46 +0000 2021",
+        "raw_text": "Nespodoben nekrščanski jezik, ki si rad dovoli soditi druge, pljuva po šolah in sodržavljanih, katerih ljubezen je njihova stvar, pravica. A zase ta oseba z zlagano skromnostjo zahteva neodtuljivo človekovo pravico, navkljub epidemiji, ki nam jemlje pravico biti z drugimi. :)",
+        "lemma_text": "nespodoben nekrščanski jezik soditi pljuvati šola sodržavljan ljubezen stvar pravica oseba zlagan skromnost zahtevati neodtuljiv človekov pravica epidemija jemati pravica",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Otmar Kovač",
+            "screen_name": "OtmarK",
+            "description": "državljan brez rodovnika,tw svoje misli,ki seveda ne spreminjajo tuzemstva.všečkam&retvitam vaše všečne,blokiram meni čudne profile,šoviniste,trole..& podobno.."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.8359032273292542,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4003264253431373,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1351617880966754305,
+        "created_at": "Tue Jan 19 19:49:49 +0000 2021",
+        "raw_text": "Oblast, ki ni sposobna poskrbeti za vse svoje prebivalce, ni sposobna kulturnega in konstruktivnega dialoga, ki uporablja grobo silo za uresničitev ozkih osebnih interesov, ni oblast v pravem pomenu besede!",
+        "lemma_text": "oblast sposoben poskrbeti prebivalec sposoben kulturen konstruktiven dialog uporabljati grob sila uresničitev ozek oseben interes oblast pravi pomen beseda",
+        "hashtags": [],
+        "mentions": [
+            "piratskastranka"
+        ],
+        "user": {
+            "name": "bota112",
+            "screen_name": "bota112",
+            "description": "boštjan tavčar univerzitetni diplomirani inženir elektrotehnike - telekomunikacij"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9649397134780884,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.5363722324154915,
+            "party_bias": "desno",
+            "party_mentioned": "PS"
+        }
+    },
+    {
+        "id": 1351512010933075974,
+        "created_at": "Tue Jan 19 12:49:07 +0000 2021",
+        "raw_text": "Zakaj nekateri slovenski politiki sovražijo Putina!? Zato, ker se je odkritosrčno odrekel komunizma in postal kristjan.",
+        "lemma_text": "slovenski politik sovražiti putin zato odkritosrčno odreči komunizem postati kristjan",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "SSN 🇸🇮❤️🇸🇰",
+            "screen_name": "SSN_pr",
+            "description": "stranka slovenskega naroda | party of slovenian nation bolj državotvorni z višjimi standardi blaginje | more state-building, with higher prosperity standards"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.943822979927063,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.47004360732554046,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1351912284159881218,
+        "created_at": "Wed Jan 20 15:19:40 +0000 2021",
+        "raw_text": "Strokovna literatura daje velik pomen biologiji, ne gre pa zanemariti niti vplivov okolja \"biopsychosocial\". Razmerja so bila podobna v Stari Grciji kot so danes, vendar pri nas se je istospolna usmerjenost prikrivala, zaradi mocnega vpliva krscanstva (negativen odnos).",
+        "lemma_text": "strokoven literatura dajati velik pomen biologija iti zanemariti vpliv okolje biopsychosocial razmerje podoben star grcija danes istospolen usmerjenost prikrivati mocen vpliv krscanstvo negativen odnos",
+        "hashtags": [],
+        "mentions": [
+            "AnzeSk",
+            "surfon",
+            "JanezPogorelec",
+            "milijonar",
+            "D_Jasmina",
+            "PreglArjan",
+            "jciglerkralj",
+            "NovaSlovenija",
+            "mihahocevar1"
+        ],
+        "user": {
+            "name": "Blaž",
+            "screen_name": "Blaz_88",
+            "description": "»cogito ergo sum.«"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.7262861132621765,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.5208966160868903,
+            "party_bias": "levo",
+            "party_mentioned": "NSi"
+        }
+    },
+    {
+        "id": 1355453500218613762,
+        "created_at": "Sat Jan 30 09:51:12 +0000 2021",
+        "raw_text": "Nikoli mi ne bo žal, da sem doštudirala teologijo, čeprav ne verjamem v boga in sem se uradno odstranila iz organizacije.",
+        "lemma_text": "nikoli doštudirati teologija verjeti bog uradno odstraniti organizacija",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Sestra Perfidia",
+            "screen_name": "PerfidiaDonat",
+            "description": "še kiklco prodala bom."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.6078329086303711,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4922361727006625,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1347948566950662146,
+        "created_at": "Sat Jan 09 16:49:16 +0000 2021",
+        "raw_text": "Največ različnosti med ljudmi je ravno na področju politike kjer pokažemo svojo epigenetiko. Veš to ni gen je pa transkripcija dogodkovn načina življena,svetovnega nazora, mišljenja,grehov razvad ....v DNA. To se lahko tudi briše še zlasti če težko zboliš. Ti pa bodi zdrav!",
+        "lemma_text": "največ različnost človek področje politika kjer pokazati epigenetika vedeti gen transkripcija dogodkoven način življen svetoven nazor mišljenje greh razvada lahko brisati težko zboleti zdrav",
+        "hashtags": [],
+        "mentions": [
+            "dusankocevar1",
+            "galoftomo"
+        ],
+        "user": {
+            "name": "Saturninka",
+            "screen_name": "Saturninka1",
+            "description": ""
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.6031688451766968,
+            "topic_bias": null,
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.554470087012989,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1351807316367171592,
+        "created_at": "Wed Jan 20 08:22:34 +0000 2021",
+        "raw_text": "“Kaj je njihova politična misel, ki ne sloni na idejah genetske čistosti naroda, naravne spolnosti in biološke delitve nalog v družbi?”",
+        "lemma_text": "političen misel sloneti ideja genetski čistost narod naraven spolnost biološki delitev naloga družba",
+        "hashtags": [],
+        "mentions": [
+            "JanezPogorelec",
+            "PreglArjan"
+        ],
+        "user": {
+            "name": "Alenka Unk",
+            "screen_name": "drfilomena",
+            "description": "črke premetavam. škljocam. mačke čoham. tuhtam. (zastopam samo svoje mačke. včasih vseeno tvitajo same $875€th)"
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.8287580013275146,
+            "topic_bias": null,
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.5023265955612343,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1351809993801150464,
+        "created_at": "Wed Jan 20 08:33:12 +0000 2021",
+        "raw_text": "Zato moje vprašanje. Kaj je njihova/vaša politična misel? Ki ni “tradicija” (=“genetsko” slovenstvo kot vrednota, družina so oče, mati in otroci, pravi Slovenec je kristjan ipd., kar zajemajo navedene opredelitve)?",
+        "lemma_text": "vprašanje političen misel tradicija genetski slovenstvo vrednota družina oče mati otrok praviti slovenec kristjan ipd. zajemati naveden opredelitev",
+        "hashtags": [],
+        "mentions": [
+            "JanezPogorelec",
+            "PreglArjan"
+        ],
+        "user": {
+            "name": "Alenka Unk",
+            "screen_name": "drfilomena",
+            "description": "črke premetavam. škljocam. mačke čoham. tuhtam. (zastopam samo svoje mačke. včasih vseeno tvitajo same $875€th)"
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.8644764423370361,
+            "topic_bias": null,
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4645396182868692,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1361065482724528130,
+        "created_at": "Sun Feb 14 21:31:13 +0000 2021",
+        "raw_text": "Ker je že takšno presenečenje...bi lahko pomislil, na tiste brezposelne, ki se ne morejo zaposliti, ker je neka leva politična opcija rekla, da teologija ni veljavna v Sloveniji in omogočil teolog gom strokovni izpit.",
+        "lemma_text": "presenečenje lahko pomisliti brezposeln zaposliti lev političen opcija reči teologija veljaven slovenija omogočiti teolog gom strokoven izpit",
+        "hashtags": [],
+        "mentions": [
+            "NovaSlovenija",
+            "Demokratka2"
+        ],
+        "user": {
+            "name": "Metka Smole",
+            "screen_name": "MetkaSmole",
+            "description": "knjige so izjemno nevarne,saj ljudi spodbujajo k razmišljanju-zato jih vsi diktatorji preganjajo"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.7558749318122864,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.40067928817218923,
+            "party_bias": "levo",
+            "party_mentioned": "NSi"
+        }
+    },
+    {
+        "id": 1366268847704199171,
+        "created_at": "Mon Mar 01 06:07:31 +0000 2021",
+        "raw_text": "O, DOMOVINA (Tone Kuntner) Slovenec biti, slovensko ljubiti – je pravzaprav nerazložljiva stvar, ker je to stvar srca in biti. Slovenec biti ni drugega kako slovensko misliti, Slovensko peti in govoriti; Slovensko ljubiti – Pa s srcem čutiti slovenski svet, hiše, gozdove...",
+        "lemma_text": "domovina tone kuntner slovenec slovensko ljubiti nerazložljiv stvar stvar srce slovenec slovensko misliti slovenski govoriti slovensko ljubiti srce čutiti slovenski svet hiša gozd",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Metka Smole",
+            "screen_name": "MetkaSmole",
+            "description": "knjige so izjemno nevarne,saj ljudi spodbujajo k razmišljanju-zato jih vsi diktatorji preganjajo"
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.6725420355796814,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.43035755474460313,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1346392973047713792,
+        "created_at": "Tue Jan 05 09:47:54 +0000 2021",
+        "raw_text": "Krščanstvo je pozitivno vplivalo na razvoj Evrope tradicije, kulture in razvoj. Dokaz je že vaše stališče, ki si ga v islamski družbi nebi privoščili. Razlike so v verah, nekatere zagovarjajo nasilje, nekatere ne, vse pa vodijo duhovniki, s človeškimi napakami in vrlinami.",
+        "lemma_text": "krščanstvo pozitivno vplivati razvoj evropa tradicija kultura razvoj dokaz stališče islamski družba neb privoščiti razlika vera zagovarjati nasilje voditi duhovnik človeški napaka vrlina",
+        "hashtags": [],
+        "mentions": [
+            "gregor_bey",
+            "butalskipolicaj",
+            "DrzavljankaS",
+            "vesterrrr",
+            "pergossi",
+            "janez_koren",
+            "Max970",
+            "NorwayLagherta",
+            "RaidenEHS",
+            "Milko121",
+            "jouzi1",
+            "FKindlhofer"
+        ],
+        "user": {
+            "name": "Aleš Flirt",
+            "screen_name": "Ale90345415",
+            "description": ""
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.6627783179283142,
+            "topic_bias": null,
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4016044421082464,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1361210068616773633,
+        "created_at": "Mon Feb 15 07:05:45 +0000 2021",
+        "raw_text": "Korektno zapisan pogled . Bi pa ločil strokovno, politično in materinsko plat. Vse se prepleta. Manjka refeksija o strokovnih ukrepih. Sploh o kakovosti. Ni dovolj dialog s strokovnimi institucijami, ampak njihove izdelke ovrednotiti. Nekakovostni in nepravočasni. 1/2",
+        "lemma_text": "korektno zapisan pogled ločiti strokoven političen materinski plat prepletati manjkati refeksi strokoven ukrep kakovost dovolj dialog strokoven institucija izdelek ovrednotiti nekakovosten nepravočasen",
+        "hashtags": [],
+        "mentions": [
+            "MHacek",
+            "SiolNEWS",
+            "DrKustec"
+        ],
+        "user": {
+            "name": "Igor Lipovšek",
+            "screen_name": "vrssevnik",
+            "description": "meje mojega jezika so meje mojega razmišljanja. ali približno:„die grenzen meiner sprache bedeuten die grenzen meiner welt“. (l. wittgenstein)"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.8151988983154297,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.47220643107251786,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1347871283439153153,
+        "created_at": "Sat Jan 09 11:42:10 +0000 2021",
+        "raw_text": "Težko bi se norma včlanila v stranko, ki ne upošteva strogih katoliških pravil",
+        "lemma_text": "težko norma včlaniti stranka upoštevati strog katoliški pravilo",
+        "hashtags": [],
+        "mentions": [
+            "lukahooka",
+            "starihalj",
+            "DomovinskaLiga"
+        ],
+        "user": {
+            "name": "Davor Vrban",
+            "screen_name": "davorvrban",
+            "description": "peace, love, no hate"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9269863367080688,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.42813734122621966,
+            "party_bias": "levo",
+            "party_mentioned": "DOM"
+        }
+    },
+    {
+        "id": 1346043169650176000,
+        "created_at": "Mon Jan 04 10:37:54 +0000 2021",
+        "raw_text": "Kos - kot politolog - ni zgolj (osebno) proti cepljenju. On je zbiral podpise, jih vložil v DZ, on ima politično gibanje. V resnici pa (kot klasičen narcis) pojma nima o cepljenju (in tehnologiji 5G ...). O cepljenju vedo veliko zdravniki, torej medicinci, ne pa vaški posebneži!!",
+        "lemma_text": "kos politolog osebno cepljenje zbirati podpis vložiti dz imeti političen gibanje resnica klasičen narcis pojem imeti cepljenje tehnologija 5g cepljenje vedeti veliko zdravnik medicinec vaški posebnež",
+        "hashtags": [],
+        "mentions": [
+            "AndroID1706",
+            "brane80108700",
+            "KatarinaUrankar"
+        ],
+        "user": {
+            "name": "Roman Vodeb",
+            "screen_name": "RomanVodeb",
+            "description": "mislim, torej nekaj biva, a ni nujno, da sem to jaz"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.8796146512031555,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4783421628324508,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1346411429210050560,
+        "created_at": "Tue Jan 05 11:01:14 +0000 2021",
+        "raw_text": "Kaj je kvalitetno in strokovno delo (na tem področju) pa je tako relativno, da se nima smisla o tem pogovarjat, toliko je politike in subjektivnih pogledov na tem področju.",
+        "lemma_text": "kvaliteten strokoven delo področje relativen imeti smisel pogovarjati politika subjektiven pogled področje",
+        "hashtags": [],
+        "mentions": [
+            "ICOClinic",
+            "dolenjck",
+            "DrKustec",
+            "edvardkadic",
+            "StrankaSMC"
+        ],
+        "user": {
+            "name": "Roman Vodeb",
+            "screen_name": "RomanVodeb",
+            "description": "mislim, torej nekaj biva, a ni nujno, da sem to jaz"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.8526265621185303,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.5194735489811056,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1356898689860722689,
+        "created_at": "Wed Feb 03 09:33:52 +0000 2021",
+        "raw_text": "Rojstvo Štiha je bila velika okoljska, socialna in zdravstvena nesreča.",
+        "lemma_text": "rojstvo štih velik okoljski socialen zdravstven nesreča",
+        "hashtags": [],
+        "mentions": [
+            "kajman_ocalar"
+        ],
+        "user": {
+            "name": "anarh M",
+            "screen_name": "anarhistM",
+            "description": "anti fascist"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9623332619667053,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.5647014377190789,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1368104091189186563,
+        "created_at": "Sat Mar 06 07:40:08 +0000 2021",
+        "raw_text": "Pobožne želje po pravi krščanski stranki s strani pobožnega vernika. Za mašo daj, pa boš že bližje cilju.",
+        "lemma_text": "pobožen želja pravi krščanski stranka stran pobožen vernik maša dati cilj",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Marko Pavlišič",
+            "screen_name": "MarkoPavlisic",
+            "description": "inženir, amaterski kolesar, nekoč jeanmark."
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.59280925989151,
+            "topic_bias": null,
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.6987142335270469,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1350723523183079424,
+        "created_at": "Sun Jan 17 08:35:57 +0000 2021",
+        "raw_text": "Kdaj ste nazadnje slišali kakšne človeške ideje, ki bi jih izrekal politik in za katere bi verjel, da jih bo lahko uresničil? Piše: Irena Štaudohar v",
+        "lemma_text": "kdaj nazadnje slišati človeški ideja izrekati politik verjeti lahko uresničiti pisati irena štaudohar",
+        "hashtags": [
+            "pomisleki"
+        ],
+        "mentions": [
+            "sobotna"
+        ],
+        "user": {
+            "name": "Delo",
+            "screen_name": "Delo",
+            "description": "osrednji slovenski časnik. novinarske vsebine. tiskane in digitalne."
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.8179486989974976,
+            "topic_bias": null,
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.41588535007022165,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1349520210877939712,
+        "created_at": "Thu Jan 14 00:54:25 +0000 2021",
+        "raw_text": "Še vedno ga podpiram! Z njegovo izvolitvijo, je Bog odložil strašne kazni za celo človeštvo! Kdo pa je ustvaril nebo in zemljo? Sam Oče Sina Njegovega Edinega! Vseh vidnih in nevidnih stari! In izvoljeni na bodo izvoljeni! Mi gremo v nebesa, judi pa v pekel. Evangelij so pozabili",
+        "lemma_text": "vedno podpirati izvolitev bog odložiti strašen kazen cel človeštvo ustvariti nebo zemlja sam oče sin edin viden neviden star izvoljen izvoljen iti nebesa jud pekel evangelij pozabiti",
+        "hashtags": [],
+        "mentions": [
+            "barua_ashish",
+            "Julija9Julija"
+        ],
+        "user": {
+            "name": "Blog Slovenija🇸🇮",
+            "screen_name": "BlogSlovenija",
+            "description": "pravzaprav nas je več. na linku je spisek vseh partizanskih poveljnikov v sloveniji. vredno pogleda!"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.7521210312843323,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4898651636090397,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1364513650577391616,
+        "created_at": "Wed Feb 24 09:53:00 +0000 2021",
+        "raw_text": "Ko sem prebral knjigo Prošnje fatimske Gospe, je Marija povedala kaj mora narediti papež z vsemi škofi sveta, da pade komunizem. Na koncu je rekla, kar do nekaj časa nazaj nisem razumel:\"Na koncu bo zmagalo moje brezmadežno Srce.\" Govorila je o tem; komunizem vstaja",
+        "lemma_text": "prebrati knjiga prošnja fatimski gospa marija povedati narediti papež škof svet pasti komunizem konec reči čas nazaj razumeti konec zmagati brezmadežen srce govoriti komunizem vstaja",
+        "hashtags": [
+            "zver"
+        ],
+        "mentions": [
+            "JozeBiscak"
+        ],
+        "user": {
+            "name": "Blog Slovenija🇸🇮",
+            "screen_name": "BlogSlovenija",
+            "description": "pravzaprav nas je več. na linku je spisek vseh partizanskih poveljnikov v sloveniji. vredno pogleda!"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.4726012647151947,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.42658871612944904,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1376160870422700033,
+        "created_at": "Sun Mar 28 13:14:53 +0000 2021",
+        "raw_text": "Seveda je družinski praznik, a člani družine smo poseljeni po raznih koncih sveta, tako je medsebojno obiskovanje v podelitvi veselja, da je smrt premagana, esencialna za praznovanje. Še ne dovolj posvečeni v krščansko izročilo, bi se lahko vzdržali vsaj pametovati o tem. Srečno.",
+        "lemma_text": "družinski praznik član družina poseljen konec svet medsebojen obiskovanje podelitev veselje smrt premagan esencialen praznovanje dovolj posvečen krščanski izročilo lahko vzdržati pametovati srečno",
+        "hashtags": [],
+        "mentions": [
+            "ZigaTurk"
+        ],
+        "user": {
+            "name": "Renske Svetlin",
+            "screen_name": "RenskeSvetlin",
+            "description": "hermenevtka kulturnih vsebin, likovne umetnosti in arhitekture"
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.6105000972747803,
+            "topic_bias": null,
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4686819450105463,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1384457982931578881,
+        "created_at": "Tue Apr 20 10:44:39 +0000 2021",
+        "raw_text": "Sinagoga Maribor – Judovsko-krščanski viri in razsežnosti dialoga",
+        "lemma_text": "dialog razsežnost judovski vir maribor sinagoga krščanski",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Dejan K.",
+            "screen_name": "Dejan_Kac",
+            "description": "husband, father (twins jona, hana and tit), librarian at university maribor, [whatever you desire for men to do to you, youshall also do to them, mat 7:12]"
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.9322711229324341,
+            "topic_bias": null,
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4930403966270982,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1385163975088906243,
+        "created_at": "Thu Apr 22 09:30:01 +0000 2021",
+        "raw_text": "Niti ne. Vem pa, da se na račun izrojenosti liberalizma ne mislim odrečti tradiciji in veri.",
+        "lemma_text": "vera tradicija račun odrečti izrojenost misliti liberalizem vedeti",
+        "hashtags": [],
+        "mentions": [
+            "KorenJanez"
+        ],
+        "user": {
+            "name": "Marko ❤🇸🇮 #PodpiramUrbana💪",
+            "screen_name": "Marko10728083",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.7516337633132935,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4296377107372848,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1354017995400638466,
+        "created_at": "Tue Jan 26 10:47:01 +0000 2021",
+        "raw_text": "učitelji načeloma ne slovijo ravno kot neodgovorni in proti družbi usmerjeni ljudje. pri starših otrok pa je seveda slika dandanes nekoliko drugačna...",
+        "lemma_text": "učitelj načeloma sloveti neodgovoren družba usmerjen človek starš otrok slika dandanes",
+        "hashtags": [],
+        "mentions": [
+            "ZigaTurk"
+        ],
+        "user": {
+            "name": "Miha 2.0 🇸🇮 🇻🇦 ن 🇦🇲 🇪🇺🇨🇳",
+            "screen_name": "mismonaliniji",
+            "description": "catholic. he was a skater boy she said see you later boy"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.8842293620109558,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.45410697144768597,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1354200130187100161,
+        "created_at": "Tue Jan 26 22:50:45 +0000 2021",
+        "raw_text": "V glavne, sami verski omejenci, ki zanikajo vse pozitivno, razen boga.",
+        "lemma_text": "glaven sam verski omejenec zanikati pozitiven bog",
+        "hashtags": [],
+        "mentions": [
+            "rose_roseae"
+        ],
+        "user": {
+            "name": "tom z.",
+            "screen_name": "tom44232791",
+            "description": "ljubim kuharja žab"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9105023145675659,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.6225859320844129,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1362814621120364544,
+        "created_at": "Fri Feb 19 17:21:40 +0000 2021",
+        "raw_text": "Včasih se proti veri postavi posmehljivo vprašanje, če človek ni zmožen biti moralen brez fiktivnega opazovalca nad oblaki, ki nas bo kaznoval s peklom. Zanimivo, da si takšen obrazec potem izmislijo prav tisti, ki vero in tradicijo zavračajo. Torej, manj Boga je res manj morale.",
+        "lemma_text": "včasih vera postaviti posmehljiv vprašanje človek zmožen moralen fiktiven opazovalec oblak kaznovati pekel zanimiv obrazec potem izmisliti vera tradicija zavračati manj bog manj",
+        "hashtags": [],
+        "mentions": [
+            "KristjanSarac"
+        ],
+        "user": {
+            "name": "Kev Kene",
+            "screen_name": "KevKene",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.8842756152153015,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.6548826716996579,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1347264908816220167,
+        "created_at": "Thu Jan 07 19:32:39 +0000 2021",
+        "raw_text": "Janez, saj tole zgoraj je bila provokacija. Odsotnost vere ni vera. Kot vakuum ni vrsta plina. In tema ni del svetlobnega spektra. A verniki ste omejeni s prepričanjem, da je v nekaj treba verjeti. A meni nič ne manjka. Ne verjamem v božanstva. Mi niso pomembna. 1/",
+        "lemma_text": "janez zgoraj provokacija odsotnost vera vera vakuum vrsta plin del svetloben spekter vernik omejen prepričanje treba verjeti manjkati verjeti božanstvo pomemben",
+        "hashtags": [],
+        "mentions": [
+            "JanezPogorelec",
+            "rokomavh",
+            "DeFlasker",
+            "sinicka_pticka",
+            "meteoriterain",
+            "termie1",
+            "galoftomo",
+            "p_zoran",
+            "SustarsicM",
+            "Marko63705437"
+        ],
+        "user": {
+            "name": "Seriously?",
+            "screen_name": "facepalm_in_SLO",
+            "description": "delam, jem, spim, seksam (če mam srečo) in včasih tvitam. pa na twitterju vse tikam (porabim manj znakov) - da ne bo kdo užaljen..."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.7376747131347656,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.48097894636466476,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1355175697573175304,
+        "created_at": "Fri Jan 29 15:27:18 +0000 2021",
+        "raw_text": "Point je v tem, da zvezda ni samo totalitaren simbol. Kot križ ni samo verski. Sam proti križu nimam nič. Kdor želi, naj ga nosi. Ker vera je storila tudi mnogo dobrega v preteklosti. Kot zvezda v kontekstu razvoja delavskih in socialnih pravic.",
+        "lemma_text": "point zvezda totalitaren simbol križ verski sam križ imeti nositi vera storiti dober preteklost zvezda kontekst razvoj delavski socialen pravica",
+        "hashtags": [],
+        "mentions": [
+            "JanezPogorelec",
+            "Blaz_88",
+            "DarkoStrajn"
+        ],
+        "user": {
+            "name": "Seriously?",
+            "screen_name": "facepalm_in_SLO",
+            "description": "delam, jem, spim, seksam (če mam srečo) in včasih tvitam. pa na twitterju vse tikam (porabim manj znakov) - da ne bo kdo užaljen..."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.4904831647872925,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4222203485119845,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1352920194398744583,
+        "created_at": "Sat Jan 23 10:04:45 +0000 2021",
+        "raw_text": "Če ne bi bila to izjava člana stranke, ki je ponosna naslednica komunistov in ima za mračnjake nas, ki so nam tradicionalne družinske vrednote pomembne, bi vam še kdo verjel...",
+        "lemma_text": "izjava član stranka ponosen naslednica komunist imeti mračnjak tradicionalen družinski vrednota pomemben verjeti",
+        "hashtags": [],
+        "mentions": [
+            "Jan_Skoberne",
+            "MatjaNemec"
+        ],
+        "user": {
+            "name": "Domen Hrastnik",
+            "screen_name": "HrastnikDomen",
+            "description": "mag. akad. glas. violončelist. profesor violončela."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.63480144739151,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4562971679975478,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1358722153361866752,
+        "created_at": "Mon Feb 08 10:19:39 +0000 2021",
+        "raw_text": "Najbolje, da kar vse kulturne ustanove ukinemo, pa so lahko proslave in druge kulturne prireditve kar v cerkvah. Še med epidemijo bi lahko bile v živo. In sveda vsebina mora biti temu primerna. Predlagam, da potekajo v madžaskem jeziku. Trubar in Prešeren se pa v grobu obračata.",
+        "lemma_text": "dobro kulturen ustanova ukiniti lahko proslava kulturen prireditev cerkev epidemija lahko živo sved vsebina primeren predlagati potekati madžaski jezik trubar prešeren grob obračati",
+        "hashtags": [],
+        "mentions": [
+            "ifi_genija"
+        ],
+        "user": {
+            "name": "filmozlom",
+            "screen_name": "filmozlom",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.886982798576355,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.40867325298256457,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1349819208713043984,
+        "created_at": "Thu Jan 14 20:42:32 +0000 2021",
+        "raw_text": "Krščanski se radi predajo gospodarju v popolno služenje. Nekateri se tudi \"poročijo\" s svojim bogom!",
+        "lemma_text": "krščanski predati gospodar popoln služenje poročiti bog",
+        "hashtags": [],
+        "mentions": [
+            "bukeff"
+        ],
+        "user": {
+            "name": "Andrej Lacko",
+            "screen_name": "andrejLac",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.6836308240890503,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.46193161500077046,
+            "party_bias": "desno",
+            "party_mentioned": "Levica"
+        }
+    },
+    {
+        "id": 1350573590433959939,
+        "created_at": "Sat Jan 16 22:40:11 +0000 2021",
+        "raw_text": "Z iskrenim srcem, moj Bog, sem ti vesel vse izročil.",
+        "lemma_text": "iskren srce bog vesel izročiti",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Janez Turinek",
+            "screen_name": "Turinek",
+            "description": "kakor orel, ki spodbuja k letu svoje gnezdo, kroži nad svojimi mladiči, širi svoje peruti, jih prestreza, jih nosi na svojih krilih."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.8837757706642151,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.45515957618243696,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1381166100612853760,
+        "created_at": "Sun Apr 11 08:43:53 +0000 2021",
+        "raw_text": "Družina, vera in domovina spadata na prvo mesto.",
+        "lemma_text": "družina vera domovina spadati mesto",
+        "hashtags": [],
+        "mentions": [
+            "BizjakSelma",
+            "MarjetaPegam"
+        ],
+        "user": {
+            "name": "matkurja",
+            "screen_name": "matkurja1",
+            "description": ""
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.9366257190704346,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4043184996965616,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1351440442324344833,
+        "created_at": "Tue Jan 19 08:04:44 +0000 2021",
+        "raw_text": "Ker je spolna vzgoja tabu, je farškim seveda čisto normalno in sprejemljivo, če njihove otroke duhovniki na samem malce \"podučijo\" o teh zadevah..... Starši pa čist veseli, ker jih je župnik na tak način blagoslovil, da si je izbral ravno njihovega otroka! Kakšna čast!",
+        "lemma_text": "spolen vzgoja tabu farški čisto normalen sprejemljiv otrok duhovnik sam malce podučiti zadeva starš čisto veseti župnik način blagosloviti izbrati otrok čast",
+        "hashtags": [],
+        "mentions": [],
+        "user": {
+            "name": "Simona 🇸🇮 🇸🇮 🇸🇮",
+            "screen_name": "SimGraj",
+            "description": "svobodna. otrok cvetja. neka druga generacija. lutkarica. štajerska."
+        },
+        "prediction": {
+            "label": "desno",
+            "sentiment": "positive",
+            "sentiment_score": 0.730642557144165,
+            "topic_bias": "desno",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.4914426765007598,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1351232614204649475,
+        "created_at": "Mon Jan 18 18:18:54 +0000 2021",
+        "raw_text": "vrednote komunizma so iste kot v krščanski veri, zdaj pa razmišljaj",
+        "lemma_text": "vrednota komunizem krščanski vera zdaj razmišljati",
+        "hashtags": [],
+        "mentions": [
+            "DKopse"
+        ],
+        "user": {
+            "name": "anka krašček",
+            "screen_name": "krascek",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.6289737224578857,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.45859765200165625,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1351557323895017474,
+        "created_at": "Tue Jan 19 15:49:11 +0000 2021",
+        "raw_text": "Kristus ljubi cerkev?? Kakšna blodnja pa je to?? Cerkev, kot politična tvorba, je nastala stoletja po smrti Kristusa. Mož naj ženo “posveti”?? Kakšen beg iz realnosti pa je to??",
+        "lemma_text": "kristus ljubiti cerkev blodnja cerkev političen tvorba nastati stoletje smrt kristus mož žena posvetiti beg realnost",
+        "hashtags": [],
+        "mentions": [
+            "PoloncaSOKOL"
+        ],
+        "user": {
+            "name": "Marko Dulmin",
+            "screen_name": "markodulmin",
+            "description": ""
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9574394822120667,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.5103039395157538,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1350367961844998146,
+        "created_at": "Sat Jan 16 09:03:05 +0000 2021",
+        "raw_text": "Od kje vam enačenje katerikoli desne stranke s cerkvijo?? Cerkev je institucija zase, sam osebno spoštujem cerkev kot institucijo, ki je del tradicije, kulture in posledično načina evropskega življenja.",
+        "lemma_text": "kje enačenje desen stranka cerkev cerkev institucija sam osebno spoštovati cerkev institucija del tradicija kultura posledično način evropski življenje",
+        "hashtags": [],
+        "mentions": [
+            "rokjarc",
+            "katoliskacerkev"
+        ],
+        "user": {
+            "name": "Aleš Flirt",
+            "screen_name": "Ale90345415",
+            "description": ""
+        },
+        "prediction": {
+            "label": "nevtralno",
+            "sentiment": "neutral",
+            "sentiment_score": 0.6296408176422119,
+            "topic_bias": null,
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.618267477411404,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1361973333093408771,
+        "created_at": "Wed Feb 17 09:38:41 +0000 2021",
+        "raw_text": "Kam neki vodi pot, tlakovana z dobro vero? Politika je stvar interesa, ne vere. Vero je treba prepustiti",
+        "lemma_text": "kam voditi pot tlakovan dober vera politika stvar interes vera vera treba prepustiti",
+        "hashtags": [],
+        "mentions": [
+            "teologiaevida"
+        ],
+        "user": {
+            "name": "Igor Lipovšek",
+            "screen_name": "vrssevnik",
+            "description": "meje mojega jezika so meje mojega razmišljanja. ali približno:„die grenzen meiner sprache bedeuten die grenzen meiner welt“. (l. wittgenstein)"
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.5468297004699707,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.5600086158989609,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    },
+    {
+        "id": 1367129399288545283,
+        "created_at": "Wed Mar 03 15:07:03 +0000 2021",
+        "raw_text": "Religija je pa primitivna oblika vere. Politka, ki zlorablja praznoverne in naivne množice. Vse vojne v zgodovini, so bile zaradi religij, ne zaradi vere. Nisem religiozen, sem pa veren, ker verjamem v dobro (kar je tudi do določene mere naivno, a brez tega sem mrlič).",
+        "lemma_text": "religija primitiven oblika vera politka zlorabljati praznoveren naiven množica vojna zgodovina religija vera religiozen veren verjeti dober določen mera naiven mrlič",
+        "hashtags": [],
+        "mentions": [
+            "gregor_bey",
+            "AlenkaJerajSDS",
+            "24ur_com"
+        ],
+        "user": {
+            "name": "Posameznik Glavan 🇸🇮🪕🐶🏍️",
+            "screen_name": "SamoGlavan",
+            "description": "radioaktivni kantavtor, o'kuženi, moto sapiens. ragtime, dixieland, swing, blues, r'n'r uporabniki, zahrbtneži, obrekovalci."
+        },
+        "prediction": {
+            "label": "levo",
+            "sentiment": "negative",
+            "sentiment_score": 0.9422017931938171,
+            "topic_bias": "levo",
+            "topic_mentioned": "krscanstvo",
+            "topic_score": 0.6051492075794744,
+            "party_bias": null,
+            "party_mentioned": null
+        }
+    }
+]
